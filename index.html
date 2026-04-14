@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Bản Đồ Kinh Thánh Số Hóa - 2026</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body { margin: 0; padding: 0; font-family: 'Segoe UI', sans-serif; }
+        #map { height: 100vh; width: 100%; }
+        .control-panel {
+            position: absolute; top: 20px; right: 20px; z-index: 1000;
+            background: white; padding: 20px; border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3); width: 320px;
+            border: 2px solid #5c4033;
+        }
+        .sepia-map { filter: sepia(0.5) contrast(1.1); }
+        select, button { width: 100%; margin-top: 10px; padding: 10px; border-radius: 6px; border: 1px solid #5c4033; }
+        button { background: #5c4033; color: white; cursor: pointer; font-weight: bold; }
+        
+        #bibleContent { 
+            margin-top: 15px; padding: 12px; background: #fffdf5; 
+            border: 1px solid #d4a373; display: none; border-radius: 8px;
+        }
+
+        /* CSS CHO NHÃN TÊN ĐỊA DANH */
+        .location-label {
+            background: rgba(255, 255, 255, 0.8);
+            border: 1px solid #5c4033;
+            border-radius: 4px;
+            padding: 2px 6px;
+            font-weight: bold;
+            color: #5c4033;
+            font-size: 11px;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+            white-space: nowrap;
+        }
+        
+        .final-destination { pointer-events: none; }
+
+        /* HIỆU ỨNG TƯƠNG TÁC */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .interactive-point {
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="control-panel">
+        <h3 style="margin:0; color:#5c4033; text-align:center;">HÀNH TRÌNH ĐỨC TIN</h3>
+        <select id="bookSelect"><option value="">-- Tải dữ liệu... --</option></select>
+        <select id="chapterSelect" disabled><option value="">-- Chọn chặng đường --</option></select>
+        <button id="viewJourney">XEM CHI TIẾT</button>
+        <div id="bibleContent"></div>
+    </div>
+
+    <div id="map" class="sepia-map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-ant-path@1.3.0/dist/leaflet-ant-path.min.js"></script>
+
+    <script>
+        let bibleData = {};
+        const map = L.map('map').setView([32.0, 35.0], 6);
+        L.tileLayer('https://mt1.google.com/vt/lyrs=m&hl=vi&x={x}&y={y}&z={z}').addTo(map);
+        let currentLayer = L.layerGroup().addTo(map);
+
+        const bookSelect = document.getElementById('bookSelect');
+        const chapterSelect = document.getElementById('chapterSelect');
+        const bibleContent = document.getElementById('bibleContent');
+
+        async function loadData() {
+            try {
+                const response = await fetch('data.json');
+                bibleData = await response.json();
+                bookSelect.innerHTML = '<option value="">-- Chọn thời kỳ --</option>';
+                for (let book in bibleData) {
+                    bookSelect.add(new Option(book.replace(/_/g, ' ').toUpperCase(), book));
+                }
+            } catch (e) { alert("Lỗi nạp file JSON!"); }
+        }
+
+        bookSelect.onchange = function() {
+            chapterSelect.innerHTML = '<option value="">-- Chọn chặng đường --</option>';
+            if (this.value) {
+                chapterSelect.disabled = false;
+                bibleData[this.value].forEach((item, index) => chapterSelect.add(new Option(item.title, index)));
+            }
+        };
+
+        document.getElementById('viewJourney').onclick = function() {
+            const book = bookSelect.value;
+            const index = chapterSelect.value;
+            if (!book || index === "") return;
+
+            const data = bibleData[book][index];
+            currentLayer.clearLayers();
+            
+            let iconFileName = 'default.png'; 
+            let characterName = 'Nhân vật';
+
+            if (book === 'sang_the_ky') {
+                iconFileName = 'abraham.png';
+                characterName = 'Áp-ra-ham';
+            } else if (book === 'xuat_e_dip_to') {
+                iconFileName = 'moses.png';
+                characterName = 'Môi-se';
+            }
+
+            const characterIcon = L.icon({
+                iconUrl: `icons/${iconFileName}`, 
+                iconSize: [45, 45], 
+                iconAnchor: [22, 45], 
+                popupAnchor: [0, -40] 
+            });
+
+            const coords = data.points.map(p => (p.coord ? p.coord : p));
+
+            // HIỂN THỊ THÔNG TIN TỔNG QUÁT BAN ĐẦU
+            bibleContent.style.display = 'block';
+            bibleContent.innerHTML = `
+                <div style="border-left: 4px solid #8b0000; padding-left: 10px;">
+                    <p style="font-size: 0.85em; color: #7f5539; margin-bottom: 5px;">📏 <b>Quãng đường:</b> ${data.stats?.distance || "Đang tính toán"}</p>
+                    <p style="font-size: 0.85em; color: #7f5539; margin-bottom: 5px;">⏳ <b>Thời gian:</b> ${data.stats?.time || "Đang tính toán"}</p>
+                    <p style="color: #bc4749; font-size: 0.9em; margin: 10px 0;">⚠️ <b>Khó khăn:</b> ${data.difficulty || data.content}</p>
+                    <p style="color: #386641; font-weight: bold; font-size: 0.9em; background: #f1f8e9; padding: 8px; border-radius: 6px; border: 1px solid #c3e6cb;">
+                        🙌 <b>Sự tiếp trợ:</b> ${data.divine_help || "Chúa hằng bảo vệ dân Ngài."}
+                    </p>
+                </div>
+            `;
+
+            data.points.forEach((p, i) => {
+                const pt = p.coord ? p.coord : p;
+                const name = p.name ? p.name : `Trạm ${i+1}`;
+                
+                // Vẽ mốc địa điểm với class tương tác
+                const marker = L.circleMarker(pt, { 
+                    radius: 8, 
+                    color: '#5c4033', 
+                    fillColor: '#ffa000', 
+                    fillOpacity: 1,
+                    className: 'interactive-point'
+                }).addTo(currentLayer);
+
+                marker.bindTooltip(name, { 
+                    permanent: true, 
+                    direction: 'right', 
+                    offset: [10, 0],
+                    className: 'location-label' 
+                });
+
+                // SỰ KIỆN RÊ CHUỘT: CẬP NHẬT KINH THÁNH
+                marker.on('mouseover', function() {
+                    this.setStyle({ fillColor: '#ff0000', radius: 10 });
+                    bibleContent.innerHTML = `
+                        <div style="animation: fadeIn 0.5s;">
+                            <h4 style="color:#8b0000; margin-top:0;">📍 ${name}</h4>
+                            <p style="font-style: italic; color: #5c4033;">"${p.note || "Đang cập nhật nội dung..."}"</p>
+                            ${p.scripture ? `<div style="background:#f0f0f0; padding:8px; border-radius:4px; font-size:0.85em; border-left: 3px solid #d4a373;">📖 <b>Lời Chúa:</b> ${p.scripture}</div>` : ''}
+                            <hr style="border:0; border-top:1px solid #d4a373; margin:10px 0;">
+                            <p style="font-size: 0.85em; color: #666;">Di chuyển chuột qua các điểm khác để đọc tiếp hành trình.</p>
+                        </div>
+                    `;
+                });
+
+                marker.on('mouseout', function() {
+                    this.setStyle({ fillColor: '#ffa000', radius: 8 });
+                });
+
+                if (i === 0) {
+                    L.marker(pt, { icon: characterIcon }).addTo(currentLayer)
+                     .bindTooltip(`${characterName} đang ở đây`, { direction: 'top' });
+                }
+
+                if (i === data.points.length - 1) {
+                    L.marker(pt, {
+                        icon: L.divIcon({
+                            className: 'final-destination',
+                            html: `<div style="color:red; font-weight:bold; width:120px; font-size:14px; text-shadow: 1px 1px 2px white;">⛰️ ${name}</div>`,
+                            iconAnchor: [-10, 20]
+                        })
+                    }).addTo(currentLayer);
+                }
+            });
+
+            const path = new L.Polyline.AntPath(coords, {
+                delay: 1000,
+                dashArray: [10, 20],
+                weight: 5,
+                color: "#8b0000",
+                pulseColor: "#ffffff"
+            });
+            path.addTo(currentLayer);
+            
+            map.fitBounds(path.getBounds(), { padding: [100, 100] });
+        };
+
+        loadData();
+    </script>
+</body>
+</html>

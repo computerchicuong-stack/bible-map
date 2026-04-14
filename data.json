@@ -1,0 +1,152 @@
+{
+  "sang_the_ky": [
+    {
+      "title": "Áp-ra-ham: Tiếng gọi từ U-rơ đến Ca-na-an",
+      "scripture": "Sáng thế ký 11:31 - 12:9",
+      "points": [
+        {"coord": [31.03, 45.85], "name": "U-rơ", "note": "Nơi Áp-ram nhận tiếng gọi đầu tiên.", "scripture": "Sáng thế ký 11:31"},
+        {"coord": [36.58, 38.94], "name": "Cha-ran", "note": "Trạm dừng chân, cha ông là Tha-rê qua đời tại đây.", "scripture": "Sáng thế ký 11:32"},
+        {"coord": [32.22, 35.25], "name": "Si-chem", "note": "Nơi Chúa hiện ra và hứa ban xứ này cho dòng dõi ông.", "scripture": "Sáng thế ký 12:6-7"},
+        {"coord": [31.92, 35.23], "name": "Bê-tên", "note": "Lập bàn thờ cho Đức Giê-hô-va.", "scripture": "Sáng thế ký 12:8"},
+        {"coord": [30.04, 31.23], "name": "Ai Cập", "note": "Lánh nạn đói, kinh nghiệm sự bảo vệ của Chúa trước Pha-ra-ôn.", "scripture": "Sáng thế ký 12:10-20"},
+        {"coord": [31.52, 35.09], "name": "Hếp-rôn", "note": "Định cư tại lùm cây dẻ bộp Mam-rê.", "scripture": "Sáng thế ký 13:18"}
+      ],
+      "stats": { 
+        "distance": "~2,500km", 
+        "time": "Nhiều năm di chuyển", 
+        "terrain": "Lưỡi liềm màu mỡ và sa mạc" 
+      },
+      "difficulty": "Rời bỏ gia đình, đối mặt với nạn đói và sự chia rẽ với Lót.",
+      "divine_help": "Chúa bảo vệ gia đình tại Ai Cập và ban lời hứa về một dòng dõi đông đúc như sao trên trời."
+    },
+    {
+      "title": "Áp-ra-ham: Lời hứa về người thừa kế",
+      "scripture": "Sáng thế ký 18:1 - 21:34",
+      "points": [
+        {"coord": [31.52, 35.09], "name": "Mam-rê", "note": "Ba vị khách viếng thăm và hứa về sự ra đời của Y-sác.", "scripture": "Sáng thế ký 18:1-15"},
+        {"coord": [31.15, 35.40], "name": "Sô-đôm", "note": "Áp-ra-ham khẩn cầu cho thành phố trước khi bị hủy diệt.", "scripture": "Sáng thế ký 18:16-33"},
+        {"coord": [31.43, 34.98], "name": "Bê-e-sê-ba", "note": "Lập giao ước với A-bi-mê-léc và đào giếng.", "scripture": "Sáng thế ký 21:22-34"}
+      ],
+      "stats": { 
+        "distance": "~150km", 
+        "time": "Giai đoạn định cư", 
+        "terrain": "Vùng đồi núi và đồng cỏ" 
+      },
+      "difficulty": "Chờ đợi lời hứa trong 25 năm, sự xung đột giữa Sa-rai và Ha-ga.",
+      "divine_help": "Chúa đổi tên từ Áp-ram thành Áp-ra-ham, thực hiện phép lạ cho Sa-ra sinh con trong tuổi già."
+    },
+    {
+      "title": "Áp-ra-ham: Thử thách trên núi Mô-ri-a",
+      "scripture": "Sáng thế ký 22:1-19",
+      "points": [
+        {"coord": [31.43, 34.98], "name": "Bê-e-sê-ba", "note": "Nơi khởi hành đi dâng Y-sác.", "scripture": "Sáng thế ký 22:19"},
+        {"coord": [31.77, 35.23], "name": "Núi Mô-ri-a", "note": "Đức tin tuyệt đối: Chúa sắm sẵn con chiên thay thế Y-sác.", "scripture": "Sáng thế ký 22:1-14"},
+        {"coord": [31.52, 35.09], "name": "Hang Mặc-pê-la", "note": "Nơi an nghỉ cuối cùng của Áp-ra-ham và Sa-ra.", "scripture": "Sáng thế ký 25:7-10"}
+      ],
+      "stats": { 
+        "distance": "~80km", 
+        "time": "3 ngày đường bộ", 
+        "terrain": "Đường núi hiểm trở" 
+      },
+      "difficulty": "Thử thách lớn nhất: Dâng đứa con duy nhất của lời hứa.",
+      "divine_help": "Đức Giê-hô-va Di-rê (Chúa sắm sẵn), ấn chứng giao ước bằng lời thề tối cao."
+    },
+    {
+      "title": "Gia-cốp lánh nạn và trở về",
+      "scripture": "Sáng thế ký 28:10 - 33:20",
+      "points": [
+        {"coord": [31.43, 34.98], "name": "Bê-e-sê-ba", "note": "Chạy trốn sau khi lấy phước lành.", "scripture": "Sáng thế ký 28:10"},
+        {"coord": [36.58, 38.94], "name": "Cha-ran", "note": "Phục vụ La-ban trong 20 năm.", "scripture": "Sáng thế ký 29:1-30"},
+        {"coord": [32.33, 35.55], "name": "Phê-nu-ên", "note": "Vật lộn với Thiên sứ và được đổi tên.", "scripture": "Sáng thế ký 32:22-32"}
+      ],
+      "stats": { "distance": "~1,600km", "time": "Nhiều tháng di chuyển", "terrain": "Đường núi gồ ghề" },
+      "difficulty": "Nỗi sợ hãi sự trả thù của Ê-sau, sự lừa dối của La-ban và cuộc vật lộn tâm linh.",
+      "divine_help": "Chúa hiện ra trong chiêm bao tại Bê-tên, ban phước cho bầy súc vật và biến đổi tấm lòng Ê-sau khi gặp lại."
+    }
+  ],
+  "xuat_e_dip_to": [
+    {
+      "title": "Môi-se: Từ Ai Cập đến Núi Si-na-i",
+      "scripture": "Xuất Ê-díp-tô ký 12:37 - 19:2",
+      "points": [
+        {"coord": [30.78, 31.83], "name": "Ram-se", "note": "Điểm khởi hành của dân Y-sơ-ra-ên sau lễ Vượt Qua.", "scripture": "Xuất Ê-díp-tô ký 12:37"},
+        {"coord": [30.55, 32.33], "name": "Su-cốt", "note": "Trạm dừng chân đầu tiên sau khi rời Ram-se.", "scripture": "Xuất Ê-díp-tô ký 13:20"},
+        {"coord": [29.10, 33.00], "name": "Biển Đỏ", "note": "Phép lạ rẽ nước biển, dân sự đi qua như trên đất cạn.", "scripture": "Xuất Ê-díp-tô ký 14:21-22"},
+        {"coord": [29.21, 32.96], "name": "Ma-ra", "note": "Nơi Chúa biến nước đắng thành nước ngọt.", "scripture": "Xuất Ê-díp-tô ký 15:23-25"},
+        {"coord": [28.62, 33.98], "name": "Rê-phi-đim", "note": "Đánh bại dân A-ma-léc và nước chảy ra từ vầng đá.", "scripture": "Xuất Ê-díp-tô ký 17:1-13"},
+        {"coord": [28.53, 33.97], "name": "Núi Si-na-i", "note": "Nơi Môi-se nhận 10 Điều Răn và lập Đền Tạm.", "scripture": "Xuất Ê-díp-tô ký 19:1-2"}
+      ],
+      "stats": { "distance": "~600km", "time": "3 tháng bộ hành", "terrain": "Đồng vắng và núi đá" },
+      "difficulty": "Sự đuổi đánh của quân Ai Cập, thiếu nước uống và thực phẩm trong sa mạc.",
+      "divine_help": "Trụ mây ban ngày, trụ lửa ban đêm, và bánh Ma-na từ trời rơi xuống mỗi sáng."
+    },
+    {
+      "title": "Môi-se: Thử thách tại Ca-đe Ba-nê-a",
+      "scripture": "Dân số ký 13:1 - 14:45",
+      "points": [
+        {"coord": [28.53, 33.97], "name": "Núi Si-na-i", "note": "Rời núi thánh tiến về phía Bắc.", "scripture": "Dân số ký 10:11-12"},
+        {"coord": [28.98, 34.42], "name": "Ha-xê-rốt", "note": "Nơi Ma-ri-am bị phung và được chữa lành.", "scripture": "Dân số ký 12:1-16"},
+        {"coord": [30.64, 34.42], "name": "Ca-đe Ba-nê-a", "note": "Cử 12 thám tử đi do thám xứ Ca-na-an.", "scripture": "Dân số ký 13:26"},
+        {"coord": [29.50, 34.95], "name": "Ê-xi-ôn Ghê-be", "note": "Một trong những điểm dừng chân dài ngày nhất trong 40 năm.", "scripture": "Dân số ký 33:35"}
+      ],
+      "stats": { "distance": "~400km", "time": "38 năm lang thang", "terrain": "Sa mạc khô hạn (Zin và Paran)" },
+      "difficulty": "Sự lằm bằm của dân sự, án phạt 40 năm vì thiếu đức tin.",
+      "divine_help": "Chúa vẫn giữ cho giày và áo của dân sự không hề mòn suốt 40 năm."
+    },
+    {
+      "title": "Môi-se: Chặng đường cuối đến Núi Nê-bô",
+      "scripture": "Dân số ký 20:1 - Phục truyền 34:1",
+      "points": [
+        {"coord": [30.64, 34.42], "name": "Ca-đe Ba-nê-a", "note": "Môi-se đập vầng đá lần 2; Ma-ri-am qua đời.", "scripture": "Dân số ký 20:1-13"},
+        {"coord": [30.32, 35.44], "name": "Núi Hơ-rơ", "note": "A-rôn qua đời và chức tế lễ chuyển cho Ê-lê-a-xa.", "scripture": "Dân số ký 20:22-29"},
+        {"coord": [31.57, 35.78], "name": "Suối Ạt-nôn", "note": "Biên giới giữa vùng Moab và dân A-mô-rít.", "scripture": "Dân số ký 21:13"},
+        {"coord": [31.76, 35.72], "name": "Núi Nê-bô", "note": "Môi-se nhìn thấy Đất Hứa từ xa trước khi về với Chúa.", "scripture": "Phục truyền 34:1-5"}
+      ],
+      "stats": { "distance": "~300km", "time": "Chặng đường cuối", "terrain": "Cao nguyên Moab" },
+      "difficulty": "Dân Ê-đôm không cho đi qua, đối đầu với vua Si-hôn và Óc.",
+      "divine_help": "Chiến thắng các đạo quân thù nghịch, Chúa ban sức mạnh cho thế hệ trẻ."
+    }
+  ],
+  "vuong_quoc_bi_chia_doi": [
+    {
+      "title": "Tiên tri Ê-li và quyền năng tại Cạt-mên",
+      "scripture": "1 Các vua 17:1 - 19:18",
+      "points": [
+        {"coord": [32.48, 35.29], "name": "Ghi-ê-rê-ên", "note": "Đối mặt với sự cứng lòng của vua A-háp.", "scripture": "1 Các vua 18:45-46"},
+        {"coord": [32.67, 35.04], "name": "Núi Cạt-mên", "note": "Lửa từ trời giáng xuống thiêu của lễ.", "scripture": "1 Các vua 18:20-40"},
+        {"coord": [28.53, 33.97], "name": "Núi Hô-rếp", "note": "Nghe tiếng phán êm dịu của Chúa.", "scripture": "1 Các vua 19:8-12"}
+      ],
+      "stats": { "distance": "~450km", "time": "40 ngày đêm", "terrain": "Hoang mạc khô cháy" },
+      "difficulty": "Sự truy sát của hoàng hậu Giê-sa-bên, tinh thần kiệt quệ và sự cô đơn trong chức vụ.",
+      "divine_help": "Chim quạ nuôi ăn, Thiên sứ cung cấp bánh nước, Chúa bày tỏ vinh quang trong tiếng êm dịu nhỏ nhẹ."
+    }
+  ],
+  "thoi_ky_luu_day": [
+    {
+      "title": "Hồi hương và tái thiết đền thờ",
+      "scripture": "Ê-xơ-ra 1:1 - 3:13",
+      "points": [
+        {"coord": [32.46, 44.39], "name": "Ba-by-lôn", "note": "Bắt đầu cuộc hành trình trở về đất hứa.", "scripture": "Ê-xơ-ra 1:1-4"},
+        {"coord": [33.50, 40.00], "name": "Đường xuyên sa mạc", "note": "Vượt qua thử thách đường dài.", "scripture": "Ê-xơ-ra 8:21-23"},
+        {"coord": [31.76, 35.21], "name": "Giê-ru-sa-lem", "note": "Đặt nền móng tái thiết đền thờ.", "scripture": "Ê-xơ-ra 3:8-10"}
+      ],
+      "stats": { "distance": "~1,500km", "time": "4 tháng hành trình", "terrain": "Bình nguyên sông Euphrates và sa mạc" },
+      "difficulty": "Đối mặt với kẻ thù ngăn trở xung quanh, thiếu hụt nhân lực và tài chính.",
+      "divine_help": "Chúa cảm động lòng vua ngoại bang, ban ơn trên các lãnh đạo như Nê-hê-mi để hoàn thành tường thành trong 52 ngày."
+    }
+  ],
+  "hanh_trinh_phao_lo": [
+    {
+      "title": "Hành trình truyền giáo thứ 1",
+      "scripture": "Công vụ các sứ đồ 13:1 - 14:28",
+      "points": [
+        {"coord": [36.15, 36.17], "name": "An-ti-ốt", "note": "Sai phái bởi Đức Thánh Linh.", "scripture": "Công vụ 13:1-3"},
+        {"coord": [35.15, 33.94], "name": "Chíp-rơ", "note": "Giảng đạo cho quan tổng đốc.", "scripture": "Công vụ 13:4-12"},
+        {"coord": [36.85, 34.75], "name": "Tạt-sơ", "note": "Tiếp tục rao giảng tại Tiểu Á.", "scripture": "Công vụ 14:21-26"}
+      ],
+      "stats": { "distance": "~1,200km", "time": "1-2 năm truyền giáo", "terrain": "Đường biển và núi dốc" },
+      "difficulty": "Bị ném đá, bị bắt bớ và những hiểm nguy trên biển cả.",
+      "divine_help": "Đức Thánh Linh hướng dẫn từng bước đi, thực hiện nhiều phép lạ chữa lành để ấn chứng cho Tin Lành."
+    }
+  ]
+}
