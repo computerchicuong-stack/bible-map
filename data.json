@@ -621,7 +621,7 @@
   ],
   "Ru-tơ - THỜI KỲ CÁC QUAN XÉT": [
     {
-      "title": "Chặng 1: Hành trình của đức tin và lòng hiếu thảo",
+      "title": "Chặng: Hành trình của đức tin và lòng hiếu thảo",
       "scripture": "Ru-tơ 1 - 4",
       "points": [
         {
@@ -660,6 +660,531 @@
       },
       "difficulty": "Cảnh góa bụa, nghèo khó và sự khác biệt về dân tộc.",
       "divine_help": "Sự quan phòng của Chúa đã dẫn dắt Ru-tơ đến đúng cánh đồng của Bô-ô để mở ra một chương mới cho lịch sử cứu rỗi."
+    }
+  ],
+  "I Sa-mu-ên - THỜI KỲ CHUYỂN TIẾP SANG QUÂN CHỦ": [
+    {
+      "title": "Chặng 1: Sa-mu-ên và sự kết thúc thời kỳ Quan xét",
+      "scripture": "1 Sa-mu-ên 1 - 7",
+      "points": [
+        {
+          "order": 1,
+          "coord": [32.2200, 35.2800],
+          "name": "1. Si-lô / Si-lô",
+          "note": "<strong>Tiếng gọi trong đêm:</strong> Cậu bé <strong>Sa-mu-ên (Samuel)</strong> lớn lên tại đền tạm ở <strong>Si-lô</strong> dưới sự hướng dẫn của thầy tế lễ Hê-li. Tại đây, Chúa đã gọi đích thân tên ông, xác lập ông làm tiên tri cho toàn dân Y-sơ-ra-ên.",
+          "scripture": "1 Sa-mu-ên 1 - 3"
+        },
+        {
+          "order": 2,
+          "coord": [32.1833, 34.9167],
+          "name": "2. Ê-bên-ê-xơ / Ê-bên-ê-zer",
+          "note": "<strong>Thất bại và mất Hòm Giao Ước:</strong> Tại <strong>Ê-bên-ê-xơ (Bản Hiệu Đính gọi là Ê-bên-ê-zer)</strong>, dân Y-sơ-ra-ên bị dân Phi-li-tin đánh bại. Hòm Giao Ước bị cướp đi, hai con trai của Hê-li tử trận, đánh dấu sự suy sụp tạm thời của trung tâm thờ phượng Si-lô.",
+          "scripture": "1 Sa-mu-ên 4"
+        },
+        {
+          "order": 3,
+          "coord": [31.8000, 34.8333],
+          "name": "3. Ách-đốt & Ga-xa / Ách-đốt & Ga-za",
+          "note": "<strong>Tai vạ cho dân Phi-li-tin:</strong> Hòm Giao Ước đi đến đâu (<strong>Ách-đốt, Gát, Éc-rôn</strong>) thì Chúa giáng tai vạ đến đó. Dân Phi-li-tin sợ hãi phải trả lại Hòm Giao Ước trên một cỗ xe bò mới.",
+          "scripture": "1 Sa-mu-ên 5 - 6"
+        },
+        {
+          "order": 4,
+          "coord": [31.8333, 35.1500],
+          "name": "4. Mi-pa / Mít-pa",
+          "note": "<strong>Hòn đá giúp đỡ:</strong> Sa-mu-ên kêu gọi dân sự hối cải tại <strong>Mi-pa (Bản Hiệu Đính gọi là Mít-pa)</strong>. Khi dân Phi-li-tin tấn công, Chúa ban chiến thắng. Sa-mu-ên dựng bia đá và đặt tên là <strong>Ê-bên-ê-xơ</strong> với ý nghĩa: 'Đức Giê-hô-va đã giúp đỡ chúng ta đến đây'.",
+          "scripture": "1 Sa-mu-ên 7"
+        }
+      ],
+      "stats": {
+        "distance": "~120km hành trình của Hòm Giao Ước và sự phục hưng",
+        "time": "Giai đoạn cuối của các Quan xét (Thế kỷ 11 TC)",
+        "terrain": "Từ vùng đồi núi trung tâm xuống đồng bằng ven biển và ngược lại"
+      },
+      "difficulty": "Sự suy đồi thuộc linh của hàng giáo phẩm và sự áp đảo quân sự từ dân Phi-li-tin.",
+      "divine_help": "Quyền năng của Chúa bảo vệ sự thánh khiết của Hòm Giao Ước ngay cả khi ở trong đất thù nghịch."
+    },
+    {
+      "title": "Chặng 2: Vua Sau-lơ - Vị vua đầu tiên của Y-sơ-ra-ên",
+      "scripture": "1 Sa-mu-ên 8 - 15",
+      "points": [
+        {
+          "order": 5,
+          "coord": [31.8450, 35.2150],
+          "name": "5. Ra-ma / Ra-ma",
+          "note": "<strong>Đòi hỏi một vị vua:</strong> Dân sự nhóm hiệp tại <strong>Ra-ma</strong> để đòi Sa-mu-ên lập một vị vua cai trị họ như các dân tộc khác. Dù buồn lòng, Chúa đã bảo Sa-mu-ên hãy nhậm lời họ.",
+          "scripture": "1 Sa-mu-ên 8"
+        },
+        {
+          "order": 6,
+          "coord": [31.8500, 35.1500],
+          "name": "6. Ghi-bê-a / Gi-bê-a",
+          "note": "<strong>Cuộc gặp gỡ định mệnh:</strong> <strong>Sau-lơ (Saul)</strong> đi tìm lừa lạc và gặp Sa-mu-ên. Tại đây, Sa-mu-ên đã bí mật xức dầu cho Sau-lơ làm vua. <strong>Ghi-bê-a (Bản Hiệu Đính gọi là Gi-bê-a)</strong> sau đó trở thành kinh đô của Sau-lơ.",
+          "scripture": "1 Sa-mu-ên 9 - 10"
+        },
+        {
+          "order": 7,
+          "coord": [32.3500, 35.6000],
+          "name": "7. Gia-be ở Ga-la-át / Gia-be Ga-la-át",
+          "note": "<strong>Chiến thắng đầu tiên:</strong> Sau-lơ giải cứu thành <strong>Gia-be ở Ga-la-át (Bản Hiệu Đính gọi là Gia-be Ga-la-át)</strong> khỏi dân Am-môn, khẳng định uy tín vương quyền của mình trước toàn dân.",
+          "scripture": "1 Sa-mu-ên 11"
+        },
+        {
+          "order": 8,
+          "coord": [31.8833, 35.2333],
+          "name": "8. Mic-mát / Mic-mát",
+          "note": "<strong>Sự không vâng lời:</strong> Tại <strong>Mic-mát</strong>, trước sức ép của quân Phi-li-tin, Sau-lơ đã tự ý dâng tế lễ thay cho Sa-mu-ên. Vì sự thiếu kiên nhẫn và không vâng lời này, Chúa tuyên bố vương quốc của ông sẽ không bền vững.",
+          "scripture": "1 Sa-mu-ên 13 - 15"
+        }
+      ],
+      "stats": {
+        "distance": "~100km hành trình xức dầu và đánh trận đầu tiên",
+        "time": "Khoảng năm 1050 TC - 1030 TC",
+        "terrain": "Vùng núi Bên-gia-min và thung lũng Giô-đanh"
+      },
+      "difficulty": "Sự chuyển đổi từ niềm tin trực tiếp nơi Chúa sang việc nương cậy nơi một vị vua bằng xương bằng thịt.",
+      "divine_help": "Thần của Đức Chúa Trời giáng trên Sau-lơ khiến ông thay đổi tâm tính và trở nên một con người mới trong giai đoạn đầu."
+    },
+    {
+      "title": "Chặng 3: Đa-vít - Người được chọn và Chiến thắng Gô-li-át",
+      "scripture": "1 Sa-mu-ên 16 - 17",
+      "points": [
+        {
+          "order": 9,
+          "coord": [31.7047, 35.2032],
+          "name": "9. Bết-lê-hem / Bết-lê-hem",
+          "note": "<strong>Vị vua tương lai:</strong> Sa-mu-ên vâng lệnh Chúa đến nhà Y-sai tại <strong>Bết-lê-hem</strong>. Tại đây, ông đã bí mật xức dầu cho cậu thiếu niên <strong>Đa-vít (David)</strong> làm vua trước mặt các anh mình.",
+          "scripture": "1 Sa-mu-ên 16"
+        },
+        {
+          "order": 10,
+          "coord": [31.6900, 34.9900],
+          "name": "10. Thung lũng Ê-la / Thung lũng Ê-la",
+          "note": "<strong>Chiến thắng đức tin:</strong> Quân Phi-li-tin dàn trận đối mặt Y-sơ-ra-ên. Đa-vít chỉ với một chiếc ná và 5 viên đá bóng láng đã hạ gục tên khổng lồ <strong>Gô-li-át (Goliath)</strong> tại thung lũng <strong>Ê-la</strong>.",
+          "scripture": "1 Sa-mu-ên 17:1-51"
+        },
+        {
+          "order": 11,
+          "coord": [31.7800, 34.8333],
+          "name": "11. Gát & Éc-rôn / Gát & Éc-rôn",
+          "note": "<strong>Truy kích quân thù:</strong> Sau khi Gô-li-át ngã xuống, dân Y-sơ-ra-ên hăng hái đuổi theo quân Phi-li-tin cho đến tận cửa thành <strong>Gát</strong> và <strong>Éc-rôn</strong>, giành lại vinh quang cho Chúa.",
+          "scripture": "1 Sa-mu-ên 17:52-54"
+        },
+        {
+          "order": 12,
+          "coord": [31.8500, 35.1500],
+          "name": "12. Ghi-bê-a / Gi-bê-a",
+          "note": "<strong>Sự đố kỵ trỗi dậy:</strong> Đa-vít về kinh đô <strong>Ghi-bê-a (Bản Hiệu Đính gọi là Gi-bê-a)</strong>. Khi nghe dân chúng ca ngợi Đa-vít hơn mình, vua Sau-lơ bắt đầu nảy sinh lòng ghen ghét và âm mưu sát hại ông.",
+          "scripture": "1 Sa-mu-ên 18"
+        }
+      ],
+      "stats": {
+        "distance": "~60km di chuyển giữa quê hương, chiến trường và kinh đô",
+        "time": "Giai đoạn trỗi dậy của Đa-vít",
+        "terrain": "Vùng đồi thấp phía Tây (Shephelah) và vùng núi Giu-đa"
+      },
+      "difficulty": "Sự chênh lệch khủng khiếp về sức mạnh quân sự giữa một cậu bé chăn chiên và một chiến binh khổng lồ.",
+      "divine_help": "Danh Đức Giê-hô-va vạn quân là sức mạnh giúp Đa-vít đắc thắng mà không cần đến giáp trụ hay gươm giáo."
+    },
+    {
+      "title": "Chặng 4: Đa-vít trong hang đá và sự truy sát của Sau-lơ",
+      "scripture": "1 Sa-mu-ên 19 - 26",
+      "points": [
+        {
+          "order": 13,
+          "coord": [31.7400, 34.9600],
+          "name": "13. Hang A-đu-lam / A-đu-lam",
+          "note": "<strong>Nơi tập hợp những người khốn cùng:</strong> Đa-vít trốn đến hang <strong>A-đu-lam</strong>. Tại đây, khoảng 400 người khốn cùng, nợ nần và uất ức đã tìm đến và tôn ông làm thủ lĩnh.",
+          "scripture": "1 Sa-mu-ên 22:1-2"
+        },
+        {
+          "order": 14,
+          "coord": [31.4500, 35.1500],
+          "name": "14. Sa mạc Xíp / Xíp",
+          "note": "<strong>Lòng trung thành bị thử thách:</strong> Dân <strong>Xíp (Bản Hiệu Đính gọi là Zip)</strong> phản bội và báo nơi ở của Đa-vít cho Sau-lơ. Trong lúc hiểm nguy, Đa-vít đã có cơ hội hạ sát Sau-lơ nhưng ông từ chối vì kính sợ người được Chúa xức dầu.",
+          "scripture": "1 Sa-mu-ên 23:14-29"
+        },
+        {
+          "order": 15,
+          "coord": [31.4600, 35.3800],
+          "name": "15. En-ghê-đi / Ên-ghê-đi",
+          "note": "<strong>Vạt áo tơi của Sau-lơ:</strong> Tại <strong>En-ghê-đi (Bản Hiệu Đính gọi là Ên-ghê-đi)</strong>, Đa-vít lén cắt một vạt áo của Sau-lơ trong hang đá để chứng minh mình không có ý hại vua. Sau-lơ tạm thời hối hận và rút quân.",
+          "scripture": "1 Sa-mu-ên 24"
+        },
+        {
+          "order": 16,
+          "coord": [31.3000, 35.1000],
+          "name": "16. Ma-ôn / Ma-ôn",
+          "note": "<strong>Sự việc với Na-ba và A-bi-ga-in:</strong> Đa-vít bảo vệ bầy chiên của Na-ba tại <strong>Ma-ôn</strong> nhưng bị từ chối giúp đỡ. Nhờ sự khôn ngoan của <strong>A-bi-ga-in (Abigail)</strong>, một cuộc đổ máu đã được ngăn chặn.",
+          "scripture": "1 Sa-mu-ên 25"
+        }
+      ],
+      "stats": {
+        "distance": "~100km di chuyển liên tục trong rừng và sa mạc",
+        "time": "Giai đoạn lưu lạc (Khoảng 10 năm)",
+        "terrain": "Vùng núi đá vôi hiểm trở và sa mạc Giu-đa khắc nghiệt"
+      },
+      "difficulty": "Sống trong sự đe dọa tính mạng liên tục và sự thiếu thốn lương thực cho hàng trăm người.",
+      "divine_help": "Chúa bảo vệ Đa-vít qua những sự nhắc nhở từ bạn thân Giô-na-than và sự khôn ngoan của những người xung quanh."
+    },
+    {
+      "title": "Chặng 5: Sự kết thúc của triều đại Sau-lơ",
+      "scripture": "1 Sa-mu-ên 27 - 31",
+      "points": [
+        {
+          "order": 17,
+          "coord": [31.4200, 34.6000],
+          "name": "17. Xi-ki-lác / Xích-lác",
+          "note": "<strong>Nơi ẩn náu cuối cùng:</strong> Đa-vít lánh nạn tại <strong>Xi-ki-lác (Bản Hiệu Đính gọi là Xích-lác)</strong> thuộc đất Phi-li-tin. Tại đây, ông đánh bại dân A-ma-léc để giải cứu gia đình và tài sản bị cướp phá.",
+          "scripture": "1 Sa-mu-ên 27, 30"
+        },
+        {
+          "order": 18,
+          "coord": [32.6100, 35.3800],
+          "name": "18. Ên-đô-rơ / Ên-đô",
+          "note": "<strong>Sự tuyệt vọng của Sau-lơ:</strong> Trước trận chiến lớn, Sau-lơ lén lút đi gặp bà bóng tại <strong>Ên-đô-rơ (Bản Hiệu Đính gọi là Ên-đô)</strong> vì Chúa không còn trả lời ông. Tại đây, ông nhận được lời tiên tri về cái chết của mình.",
+          "scripture": "1 Sa-mu-ên 28"
+        },
+        {
+          "order": 19,
+          "coord": [32.5000, 35.4333],
+          "name": "19. Núi Ghinh-ba / Núi Ghinh-bô-a",
+          "note": "<strong>Sự ngã xuống của các anh hùng:</strong> Trong trận chiến với dân Phi-li-tin tại núi <strong>Ghinh-ba (Bản Hiệu Đính gọi là Ghinh-bô-a)</strong>, Sau-lơ và 3 con trai (có cả Giô-na-than) đã tử trận, đánh dấu sự kết thúc cay đắng của vị vua đầu tiên.",
+          "scripture": "1 Sa-mu-ên 31"
+        },
+        {
+          "order": 20,
+          "coord": [32.5000, 35.5000],
+          "name": "20. Bết-san / Bết-san",
+          "note": "<strong>Sự nhục nhã và lòng trung hậu:</strong> Dân Phi-li-tin treo xác Sau-lơ trên vách thành <strong>Bết-san</strong>. Sau đó, những người dũng sĩ thành Gia-be ở Ga-la-át đã mạo hiểm đi lấy xác vua về chôn cất tử tế.",
+          "scripture": "1 Sa-mu-ên 31:10-13"
+        }
+      ],
+      "stats": {
+        "distance": "~150km từ vùng biên giới phía Nam lên chiến trường phía Bắc",
+        "time": "Kết thúc triều đại Sau-lơ (Khoảng năm 1010 TC)",
+        "terrain": "Từ vùng đồng bằng ven biển lên vùng núi cao phía Bắc"
+      },
+      "difficulty": "Sự sụp đổ về tinh thần và quân sự của vương quốc dưới sự dẫn dắt của một vị vua lìa bỏ Chúa.",
+      "divine_help": "Dù trong bi kịch, Chúa vẫn bảo vệ Đa-vít tại Xi-ki-lác để chuẩn bị cho ông lên ngôi vua."
+    }
+  ],
+  "II Sa-mu-ên - THỜI KỲ CÁC VƯƠNG QUỐC": [
+    {
+      "title": "Chặng 1: Đa-vít lên ngôi và thống nhất vương quốc",
+      "scripture": "2 Sa-mu-ên 1 - 6",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.5297, 35.0997],
+          "name": "1. Hép-rôn / Hếp-rôn",
+          "note": "<strong>Lên ngôi vua Giu-đa:</strong> Tại <strong>Hép-rôn (Bản Hiệu Đính gọi là Hếp-rôn)</strong>, Đa-vít được xức dầu làm vua chi phái Giu-đa. Ông cai trị tại đây 7 năm 6 tháng trong khi nội chiến xảy ra với nhà Sau-lơ.",
+          "scripture": "2 Sa-mu-ên 2:1-4"
+        },
+        {
+          "order": 2,
+          "coord": [31.8500, 35.1500],
+          "name": "2. Ghi-bê-a / Gi-bê-a",
+          "note": "<strong>Sự suy tàn của nhà Sau-lơ:</strong> Phe ủng hộ nhà Sau-lơ lập Ích-bô-sét làm vua tại Ma-ha-na-im, nhưng quyền lực thực sự vẫn nằm ở kinh đô cũ <strong>Ghi-bê-a (Bản Hiệu Đính gọi là Gi-bê-a)</strong>. Sau nhiều biến cố, toàn bộ các chi phái cuối cùng đã tìm đến Đa-vít.",
+          "scripture": "2 Sa-mu-ên 2 - 4"
+        },
+        {
+          "order": 3,
+          "coord": [31.7767, 35.2333],
+          "name": "3. Thành Giê-bu / Giê-bu (Giê-ru-sa-lem)",
+          "note": "<strong>Chinh phục kinh đô mới:</strong> Đa-vít dẫn quân đánh chiếm đồn lũy Xi-ôn của dân <strong>Giê-bu</strong>. Ông đổi tên thành Thành Đa-vít (Giê-ru-sa-lem) và chọn nơi đây làm thủ đô vĩnh viễn của vương quốc.",
+          "scripture": "2 Sa-mu-ên 5:6-10"
+        },
+        {
+          "order": 4,
+          "coord": [31.7760, 35.2330],
+          "name": "4. Thành Đa-vít / Thành Đa-vít",
+          "note": "<strong>Rước Hòm Giao Ước:</strong> Với niềm hân hoan tột độ, Đa-vít đã rước Hòm Giao Ước về kinh đô mới. Ông nhảy múa hết lòng trước mặt Chúa, thiết lập Giê-ru-sa-lem thành trung tâm thờ phượng của cả dân tộc.",
+          "scripture": "2 Sa-mu-ên 6"
+        }
+      ],
+      "stats": {
+        "distance": "~40km di chuyển từ Hép-rôn lên phía Bắc",
+        "time": "Khoảng năm 1010 TC - 1000 TC",
+        "terrain": "Vùng núi cao trung tâm Giu-đa"
+      },
+      "difficulty": "Vượt qua sự chia rẽ nội bộ giữa các chi phái và chinh phục pháo đài bất khả xâm phạm Xi-ôn.",
+      "divine_help": "Chúa ở cùng Đa-vít và làm cho ông ngày càng cường thịnh, hợp nhất 12 chi phái thành một khối thống nhất."
+    },
+    {
+      "title": "Chặng 2: Sự bành trướng vương quốc và Sai lầm của Đa-vít",
+      "scripture": "2 Sa-mu-ên 8 - 12",
+      "points": [
+        {
+          "order": 5,
+          "coord": [33.5138, 36.2965],
+          "name": "5. Đa-mách / Đa-mách",
+          "note": "<strong>Mở rộng bờ cõi:</strong> Đa-vít đánh bại quân A-ram, đặt quân đóng đồn tại <strong>Đa-mách (Bản Hiệu Đính gọi là Đa-mách)</strong> và bắt họ phải nộp thuế. Vương quốc Israel dưới thời ông trải dài từ sông Ê-phu-rát đến biên giới Ai Cập.",
+          "scripture": "2 Sa-mu-ên 8"
+        },
+        {
+          "order": 6,
+          "coord": [31.9500, 35.9333],
+          "name": "6. Ráp-ba / Ráp-ba",
+          "note": "<strong>Tội lỗi tại kinh thành:</strong> Trong khi quân đội đang vây đánh thành <strong>Ráp-ba</strong> (thủ đô dân Am-môn), Đa-vít ở lại Giê-ru-sa-lem và phạm tội ngoại tình với Bát-sê-ba, sau đó lập mưu sát hại U-ri.",
+          "scripture": "2 Sa-mu-ên 11"
+        },
+        {
+          "order": 7,
+          "coord": [31.7767, 35.2333],
+          "name": "7. Giê-ru-sa-lem / Giê-ru-sa-lem",
+          "note": "<strong>Lời quở trách của Na-than:</strong> Tiên tri Na-than đến gặp vua tại kinh đô để cáo trách tội lỗi. Đa-vít ăn năn đau đớn, Chúa tha thứ nhưng tuyên bố thanh gươm sẽ chẳng hề rời khỏi nhà ông.",
+          "scripture": "2 Sa-mu-ên 12"
+        }
+      ],
+      "stats": {
+        "distance": "~300km phạm vi ảnh hưởng quân sự",
+        "time": "Giai đoạn vương quốc cực thịnh (Khoảng năm 990 TC)",
+        "terrain": "Từ sa mạc Syria đến các cao nguyên phía Đông sông Giô-đanh"
+      },
+      "difficulty": "Sự cám dỗ của quyền lực và sự nhàn rỗi dẫn đến sự sa ngã thuộc linh.",
+      "divine_help": "Dù hình phạt là nghiêm khắc, ân điển của Chúa vẫn bảo trì dòng dõi Đa-vít qua sự ăn năn thật lòng."
+    },
+    {
+      "title": "Chặng 3: Cuộc phản nghịch của Áp-sa-lôm",
+      "scripture": "2 Sa-mu-ên 13 - 19",
+      "points": [
+        {
+          "order": 8,
+          "coord": [31.5297, 35.0997],
+          "name": "8. Hép-rôn / Hếp-rôn",
+          "note": "<strong>Âm mưu soán ngôi:</strong> <strong>Áp-sa-lôm (Absalom)</strong> xin phép vua cha về <strong>Hép-rôn</strong> với lý do dâng tế lễ, nhưng thực chất là để tập hợp lực lượng và tự xưng vương tại đây nhằm lật đổ Đa-vít.",
+          "scripture": "2 Sa-mu-ên 15:7-12"
+        },
+        {
+          "order": 9,
+          "coord": [31.7767, 35.2333],
+          "name": "9. Núi Ô-liu / Núi Ô-liu",
+          "note": "<strong>Vị vua đi lánh nạn:</strong> Để tránh đổ máu trong thành, Đa-vít đau đớn rời khỏi Giê-ru-sa-lem. Ông đi chân không, vừa đi lên <strong>núi Ô-liu</strong> vừa khóc vì sự phản bội của con trai mình.",
+          "scripture": "2 Sa-mu-ên 15:13-30"
+        },
+        {
+          "order": 10,
+          "coord": [32.3500, 35.6000],
+          "name": "10. Ma-ha-na-im / Ma-ha-na-im",
+          "note": "<strong>Nơi ẩn náu tại phía Đông:</strong> Đa-vít băng qua sông Giô-đanh đến <strong>Ma-ha-na-im</strong>. Tại đây, ông được những người trung thành tiếp trợ lương thực và chuẩn bị cho trận chiến bảo vệ vương quyền.",
+          "scripture": "2 Sa-mu-ên 17:24-29"
+        },
+        {
+          "order": 11,
+          "coord": [32.4000, 35.5000],
+          "name": "11. Rừng Ép-ra-im / Rừng Ép-ra-im",
+          "note": "<strong>Sự kết thúc của Áp-sa-lôm:</strong> Trận chiến diễn ra tại <strong>rừng Ép-ra-im</strong> (phía Đông sông Giô-đanh). Áp-sa-lôm bị kẹt tóc vào nhánh cây dẻ và bị Giô-áp hạ sát, kết thúc cuộc nội chiến đau thương.",
+          "scripture": "2 Sa-mu-ên 18"
+        }
+      ],
+      "stats": {
+        "distance": "~100km hành trình trốn chạy và quay về",
+        "time": "Giai đoạn khủng hoảng nội bộ (Khoảng năm 980 TC)",
+        "terrain": "Vùng núi Giu-đa và các cao nguyên phía Đông sông Giô-đanh"
+      },
+      "difficulty": "Nỗi đau bị con trai ruột và các quần thần thân cận phản bội.",
+      "divine_help": "Chúa đã làm hỏng mưu chước khôn ngoan của A-hi-tô-phê để bảo vệ mạng sống cho Đa-vít."
+    },
+    {
+      "title": "Chặng 4: Những năm cuối triều đại và Nơi đặt Đền Thờ",
+      "scripture": "2 Sa-mu-ên 20 - 24",
+      "points": [
+        {
+          "order": 12,
+          "coord": [33.2486, 35.5719],
+          "name": "12. A-bên-Bết-Ma-a-ca / A-bên Bết Ma-a-ca",
+          "note": "<strong>Dẹp loạn Sê-ba:</strong> Sau khi Áp-sa-lôm chết, <strong>Sê-ba</strong> lại dấy loạn. Quân đội Đa-vít truy đuổi đến tận <strong>A-bên-Bết-Ma-a-ca (Bản Hiệu Đính gọi là A-bên Bết Ma-a-ca)</strong> ở tít miền Bắc. Nhờ một người đàn bà khôn ngoan, kẻ loạn nghịch bị tiêu diệt và vương quốc được yên bình.",
+          "scripture": "2 Sa-mu-ên 20"
+        },
+        {
+          "order": 13,
+          "coord": [31.7781, 35.2361],
+          "name": "13. Sân đạp lúa của A-rau-na / A-rau-na",
+          "note": "<strong>Sửa sai và xác lập nơi thánh:</strong> Đa-vít phạm tội tu bộ dân số khiến dịch lệ xảy ra. Ông vâng lời Chúa mua lại sân đạp lúa của <strong>A-rau-na (Bản Hiệu Đính gọi là A-rau-na)</strong> để lập bàn thờ. Tại đây tai vạ dừng lại, và đây chính là vị trí xây dựng Đền Thờ sau này.",
+          "scripture": "2 Sa-mu-ên 24"
+        },
+        {
+          "order": 14,
+          "coord": [31.7767, 35.2333],
+          "name": "14. Giê-ru-sa-lem / Giê-ru-sa-lem",
+          "note": "<strong>Di sản cho hậu thế:</strong> Đa-vít dành những ngày cuối đời tại kinh đô để chuẩn bị vật liệu, thợ thuyền và kế hoạch chi tiết cho con trai là Sa-lô-môn xây dựng Đền Thờ cho Đức Giê-hô-va.",
+          "scripture": "1 Sử ký 22; 2 Sa-mu-ên 24:25"
+        }
+      ],
+      "stats": {
+        "distance": "Từ cực Bắc vương quốc trở về trung tâm kinh đô",
+        "time": "Kết thúc triều đại vua Đa-vít (Khoảng năm 970 TC)",
+        "terrain": "Vùng núi cực Bắc và đồi Mô-ri-ah tại Giê-ru-sa-lem"
+      },
+      "difficulty": "Sự kiêu ngạo cuối đời và những cuộc nổi loạn lẻ tẻ làm thử thách sự thống nhất của vương quốc.",
+      "divine_help": "Chúa đã bày tỏ lòng thương xót, ngăn tay thiên sứ tiêu diệt dân sự và chỉ định nơi thánh cho Đền Thờ Ngài."
+    }
+  ],
+  "I Các Vua - THỜI KỲ CÁC VƯƠNG QUỐC": [
+    {
+      "title": "Chặng 1: Vua Sa-lô-môn và sự vinh hiển của Đền Thờ",
+      "scripture": "1 Các Vua 1 - 10",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.7745, 35.2365],
+          "name": "1. Suối Ghi-hôn / Ghi-hôn",
+          "note": "<strong>Sự xức dầu vội vã:</strong> Trước âm mưu soán ngôi của A-đô-ni-gia, Đa-vít đã lệnh cho thầy tế lễ Xa-đốc xức dầu cho <strong>Sa-lô-môn (Solomon)</strong> tại suối <strong>Ghi-hôn</strong>. Tiếng kèn vang dội xác nhận vị vua mới của Israel.",
+          "scripture": "1 Các Vua 1:32-40"
+        },
+        {
+          "order": 2,
+          "coord": [31.8483, 35.1583],
+          "name": "2. Ga-ba-ôn / Ga-ba-ôn",
+          "note": "<strong>Giấc mơ cầu xin sự khôn ngoan:</strong> Sa-lô-môn đến <strong>Ga-ba-ôn</strong> để dâng tế lễ. Tại đây, Chúa hiện ra trong chiêm bao và hỏi ông muốn gì. Thay vì giàu sang, ông đã xin sự khôn ngoan để cai trị dân sự.",
+          "scripture": "1 Các Vua 3:4-15"
+        },
+        {
+          "order": 3,
+          "coord": [31.7781, 35.2361],
+          "name": "3. Núi Mô-ri-ah (Đền Thờ) / Núi Mô-ri-a",
+          "note": "<strong>Công trình vĩ đại:</strong> Sa-lô-môn bắt đầu xây dựng Đền Thờ trên <strong>núi Mô-ri-ah (Bản Hiệu Đính gọi là Núi Mô-ri-a)</strong>. Sau 7 năm, công trình hoàn tất với sự xa hoa lộng lẫy bằng vàng và gỗ bá hương từ Li-ban.",
+          "scripture": "1 Các Vua 5 - 6"
+        },
+        {
+          "order": 4,
+          "coord": [31.7767, 35.2333],
+          "name": "4. Giê-ru-sa-lem / Giê-ru-sa-lem",
+          "note": "<strong>Nữ vương Sê-ba viếng thăm:</strong> Sự khôn ngoan và giàu có của Sa-lô-môn vang xa khiến Nữ vương <strong>Sê-ba</strong> từ phương Nam lặn lội đến kinh đô để chứng kiến. Bà phải thốt lên rằng những gì bà thấy còn vượt xa lời đồn.",
+          "scripture": "1 Các Vua 10"
+        }
+      ],
+      "stats": {
+        "distance": "Tập trung quyền lực tại trung tâm vương quốc",
+        "time": "Khoảng năm 970 TC - 930 TC",
+        "terrain": "Vùng núi Giu-đa rực rỡ ánh vàng và đá quý"
+      },
+      "difficulty": "Trách nhiệm duy trì sự hòa bình và quản lý một vương quốc đang bành trướng cực thịnh.",
+      "divine_help": "Chúa ban cho Sa-lô-môn sự khôn ngoan vô đối và sự bình an trên mọi biên giới để tập trung xây dựng nhà Chúa."
+    },
+    {
+      "title": "Chặng 2: Sự sa ngã và Sự chia cắt vương quốc",
+      "scripture": "1 Các Vua 11 - 14",
+      "points": [
+        {
+          "order": 5,
+          "coord": [31.7767, 35.2333],
+          "name": "5. Giê-ru-sa-lem / Giê-ru-sa-lem",
+          "note": "<strong>Sự sa ngã của Sa-lô-môn:</strong> Về già, lòng vua bị các ngoại thê quyến dụ thờ thần tượng. Chúa phán hứa sẽ đoạt vương quốc khỏi tay con trai ông, chỉ để lại một chi phái vì cớ Đa-vít.",
+          "scripture": "1 Các Vua 11:1-13"
+        },
+        {
+          "order": 6,
+          "coord": [32.2100, 35.2700],
+          "name": "6. Sê-chem / Si-khem",
+          "note": "<strong>Biến cố chia cắt:</strong> Sau khi Sa-lô-môn qua đời, toàn dân nhóm lại tại <strong>Sê-chem (Bản Hiệu Đính gọi là Si-khem)</strong>. Sự cứng rắng của vua Rô-bô-am đã khiến 10 chi phái miền Bắc ly khai dưới sự dẫn dắt của Giê-rô-bô-am.",
+          "scripture": "1 Các Vua 12:1-19"
+        },
+        {
+          "order": 7,
+          "coord": [31.8410, 35.2150],
+          "name": "7. Bê-tên / Bê-tên",
+          "note": "<strong>Tội lỗi của Giê-rô-bô-am:</strong> Lo sợ dân chúng trở về Giê-ru-sa-lem thờ phượng, vua miền Bắc là Giê-rô-bô-am đã đúc hai con bò vàng đặt tại <strong>Bê-tên</strong> và Đan để dân thờ lạy, dẫn dân sự vào con đường lầm lạc.",
+          "scripture": "1 Các Vua 12:25-33"
+        },
+        {
+          "order": 8,
+          "coord": [32.2200, 35.2800],
+          "name": "8. Tiệt-xa / Tiệc-xa",
+          "note": "<strong>Kinh đô đầu tiên của miền Bắc:</strong> Giê-rô-bô-am chọn <strong>Tiệt-xa (Bản Hiệu Đính gọi là Tiệc-xa)</strong> làm nơi cư ngụ chính thức, xác lập một trung tâm quyền lực mới tách biệt hoàn toàn với Giu-đa.",
+          "scripture": "1 Các Vua 14:17"
+        }
+      ],
+      "stats": {
+        "distance": "Sự chia rẽ địa lý giữa hai miền Nam - Bắc",
+        "time": "Năm 931 TC - Bắt đầu thời kỳ Vương quốc phân chia",
+        "terrain": "Vùng núi Ép-ra-im (miền Bắc) và núi Giu-đa (miền Nam)"
+      },
+      "difficulty": "Sự kiêu ngạo của tuổi trẻ (Rô-bô-am) và mưu đồ chính trị bất chấp đức tin (Giê-rô-bô-am).",
+      "divine_help": "Chúa vẫn bảo tồn một ngọn đèn cho nhà Đa-vít tại Giê-ru-sa-lem theo lời hứa của Ngài."
+    },
+    {
+      "title": "Chặng 3: Tiên tri Ê-li và Cuộc đối đầu trên núi Cạt-mên",
+      "scripture": "1 Các Vua 17 - 19",
+      "points": [
+        {
+          "order": 9,
+          "coord": [33.4000, 35.3000],
+          "name": "9. Sa-rép-ta / Sa-rép-ta",
+          "note": "<strong>Phép lạ hũ bột và bình dầu:</strong> Giữa cơn hạn hán, Chúa sai <strong>Ê-li (Elijah)</strong> đến thành <strong>Sa-rép-ta</strong> thuộc đất Phi-ni-xi. Tại đây, Chúa tiếp trợ cho ông và gia đình bà góa một cách mầu nhiệm, đồng thời ông đã khiến con trai bà góa sống lại.",
+          "scripture": "1 Các Vua 17"
+        },
+        {
+          "order": 10,
+          "coord": [32.7300, 35.0500],
+          "name": "10. Núi Cạt-mên / Núi Cạt-mên",
+          "note": "<strong>Lửa từ trời rơi xuống:</strong> Trên <strong>núi Cạt-mên</strong>, Ê-li một mình đối đầu với 450 tiên tri Ba-anh. Chúa nhậm lời bằng lửa thiêu rụi của lễ, khẳng định 'Đức Giê-hô-va là Đức Chúa Trời!'. Sau đó, ông giết các tiên tri giả tại khe Ki-sôn.",
+          "scripture": "1 Các Vua 18"
+        },
+        {
+          "order": 11,
+          "coord": [31.2500, 34.8000],
+          "name": "11. Bê-e-sê-ba / Bê-e-sê-ba",
+          "note": "<strong>Chạy trốn sự truy sát:</strong> Trước lời đe dọa của hoàng hậu Giê-sa-bên, Ê-li ngã lòng và chạy trốn xuống tận <strong>Bê-e-sê-ba</strong> (miền Nam Giu-đa). Tại đây, ông xin chết nhưng Chúa đã sai thiên sứ đến tiếp sức cho ông.",
+          "scripture": "1 Các Vua 19:1-8"
+        },
+        {
+          "order": 12,
+          "coord": [28.5391, 33.9750],
+          "name": "12. Núi Hô-rếp / Núi Hô-rếp",
+          "note": "<strong>Tiếng êm dịu nhỏ nhẹ:</strong> Ê-li đi 40 ngày đêm đến <strong>núi Hô-rếp (núi Si-na-i)</strong>. Chúa không hiện diện trong gió bão hay động đất, nhưng trong một tiếng êm dịu nhỏ nhẹ để an ủi và ban mệnh lệnh mới cho ông.",
+          "scripture": "1 Các Vua 19:9-18"
+        }
+      ],
+      "stats": {
+        "distance": "~450km hành trình từ cực Bắc đến cực Nam bán đảo Sinai",
+        "time": "Thế kỷ 9 TC - Thời vua A-háp",
+        "terrain": "Từ ven biển Địa Trung Hải qua các sa mạc khô cằn đến núi đá Sinai"
+      },
+      "difficulty": "Sự đơn độc trong cuộc chiến thuộc linh và áp lực từ quyền lực thế gian.",
+      "divine_help": "Chúa tiếp trợ qua chim quạ, thiên sứ và bày tỏ quyền năng tuyệt đối trên thiên nhiên (lửa và mưa)."
+    },
+    {
+      "title": "Chặng 4: Sự sụp đổ của nhà A-háp",
+      "scripture": "1 Các Vua 20 - 22",
+      "points": [
+        {
+          "order": 13,
+          "coord": [32.5583, 35.3333],
+          "name": "13. Gít-rê-ên / Gít-rê-ên",
+          "note": "<strong>Vườn nho của Na-bốt:</strong> Tại <strong>Gít-rê-ên</strong>, vua A-háp và hoàng hậu Giê-sa-bên đã dùng mưu kế hèn hạ để chiếm đoạt vườn nho của Na-bốt. Tiên tri Ê-li đã hiện đến tuyên bố sự hủy diệt kinh khiếp cho dòng dõi A-háp.",
+          "scripture": "1 Các Vua 21"
+        },
+        {
+          "order": 14,
+          "coord": [32.6167, 36.1000],
+          "name": "14. Ra-mốt tại Ga-la-át / Ra-mốt Ga-la-át",
+          "note": "<strong>Trận chiến cuối cùng:</strong> Bất chấp lời cảnh báo của tiên tri Mi-chê, A-háp cùng vua Giu-đa đi đánh thành <strong>Ra-mốt tại Ga-la-át (Bản Hiệu Đính gọi là Ra-mốt Ga-la-át)</strong>. Ông bị trúng tên ngẫu nhiên và chết tại chiến trường đúng như lời tiên tri.",
+          "scripture": "1 Các Vua 22"
+        },
+        {
+          "order": 15,
+          "coord": [32.4167, 35.4500],
+          "name": "15. Sa-mê-ri / Sa-ma-ri",
+          "note": "<strong>Sự kết thúc của một triều đại:</strong> Xác vua được chở về <strong>Sa-mê-ri (Bản Hiệu Đính gọi là Sa-ma-ri)</strong>. Khi người ta rửa xe vua tại ao Sa-ma-ri, chó đến liếm huyết ông, ứng nghiệm hoàn toàn lời Chúa phán.",
+          "scripture": "1 Các Vua 22:37-38"
+        },
+        {
+          "order": 16,
+          "coord": [32.2200, 35.2800],
+          "name": "16. A-ben-Mê-hô-la / A-ben Mê-hô-la",
+          "note": "<strong>Gọi Ê-li-sê:</strong> Trước đó, tại <strong>A-ben-Mê-hô-la</strong>, Ê-li đã tìm thấy <strong>Ê-li-sê (Elisha)</strong> đang cày ruộng và quăng áo choàng lên ông, đánh dấu sự bắt đầu của một chức vụ tiên tri mới đầy quyền năng.",
+          "scripture": "1 Các Vua 19:16-21"
+        }
+      ],
+      "stats": {
+        "distance": "~120km giữa kinh đô và các chiến trường biên giới",
+        "time": "Khoảng năm 853 TC",
+        "terrain": "Thung lũng màu mỡ miền Bắc và vùng cao nguyên phía Đông"
+      },
+      "difficulty": "Sự thỏa hiệp với tội lỗi của giới cầm quyền dẫn đến sự mục nát của cả một vương quốc.",
+      "divine_help": "Chúa vẫn bảo tồn những người trung kiên (như Mi-chê) và chuẩn bị sẵn người kế thừa (Ê-li-sê) để giữ ngọn lửa đức tin."
     }
   ],
   "Thời Kỳ Các Quan Xét": [
