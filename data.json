@@ -136,32 +136,46 @@
   ],
   "Ma-thi-ơ": [
     {
-      "title": "Chúa Giáng Sinh và Hành trình lánh nạn",
-      "scripture": "Ma-thi-ơ 1 - 2",
-      "points": [
-        { 
-          "coord": [31.70, 35.20], 
-          "name": "Bết-lê-hem", 
-          "note": "<strong>Nơi Ngôi Hai Giáng Thế:</strong> Các bác sĩ từ phương Đông đã đến đây thờ lạy Chúa.", 
-          "scripture": "Ma-thi-ơ 2:1" 
-        },
-        { 
-          "coord": [30.04, 31.23], 
-          "name": "Ai Cập", 
-          "note": "Giô-sép đưa Ma-ri và con trẻ chạy trốn khỏi sự tàn sát của vua Hê-rốt.", 
-          "scripture": "Ma-thi-ơ 2:14" 
-        },
-        { 
-          "coord": [32.70, 35.30], 
-          "name": "Na-xa-rét", 
-          "note": "Gia đình Chúa trở về và định cư sau khi vua Hê-rốt qua đời.", 
-          "scripture": "Ma-thi-ơ 2:23" 
-        }
-      ],
-      "stats": { "distance": "~600km", "time": "Vài năm", "terrain": "Đường bộ sang Ai Cập" },
-      "difficulty": "Sự truy sát của vua Hê-rốt và hành trình vất vả giữa đêm khuya.",
-      "divine_help": "Thiên sứ báo mộng cho Giô-sép để bảo vệ con trẻ."
+  "title": "Chúa Giáng Sinh và Hành trình lánh nạn",
+  "scripture": "Ma-thi-ơ 1 - 2",
+  "points": [
+    { 
+      "order": 1,
+      "coord": [32.7019, 35.3069], 
+      "name": "1. Na-xa-rét (Khởi đầu)", 
+      "note": "<strong>Lên đường khai dân số:</strong> Giô-sép và Ma-ri từ đây trở về quê hương Bết-lê-hem theo sắc lệnh của Sê-sa Au-gút-tơ.", 
+      "scripture": "Lu-ca 2:1-4" 
     },
+    { 
+      "order": 2,
+      "coord": [31.70, 35.20], 
+      "name": "2. Bết-lê-hem", 
+      "note": "<strong>Nơi Ngôi Hai Giáng Thế:</strong> Chúa ra đời trong máng cỏ. Các bác sĩ phương Đông đến thờ lạy.", 
+      "scripture": "Ma-thi-ơ 2:1" 
+    },
+    { 
+      "order": 3,
+      "coord": [30.04, 31.23], 
+      "name": "3. Ai Cập", 
+      "note": "<strong>Lánh nạn đêm khuya:</strong> Giô-sép đưa gia đình chạy trốn sự tàn sát của vua Hê-rốt.", 
+      "scripture": "Ma-thi-ơ 2:14" 
+    },
+    { 
+      "order": 4,
+      "coord": [32.7060, 35.2980], 
+      "name": "4. Na-xa-rét (Trở về)", 
+      "note": "<strong>Định cư và khôn lớn:</strong> Sau khi vua Hê-rốt băng hà, gia đình Chúa trở về quê cũ.", 
+      "scripture": "Ma-thi-ơ 2:23" 
+    }
+  ],
+  "stats": { 
+    "distance": "~750km (tổng vòng lặp)", 
+    "time": "Vài năm", 
+    "terrain": "Đồi núi và sa mạc" 
+  },
+  "difficulty": "Hành trình dài khi Ma-ri đang mang thai và sự truy sát gắt gao.",
+  "divine_help": "Thiên sứ dẫn dắt qua những giấc chiêm bao để bảo vệ gia đình thánh."
+},
         {
       "title": "Chúa chịu phép Báp-tít và chịu Cám dỗ",
       "scripture": "Ma-thi-ơ 3 - 4",
@@ -279,6 +293,215 @@
       },
       "difficulty": "Sự phản bội của học trò, sự xét xử bất công và cái chết đau đớn.",
       "divine_help": "Sự phục sinh khải hoàn, chiến thắng sự chết sau ba ngày trong mộ đá."
+}
+  ],
+  "Mác": [
+    {
+      "title": "Chặng 1: Sự khởi đầu và Tiếng gọi quyền năng",
+      "scripture": "Mác 1 - 3",
+      "points": [
+        { 
+          "order": 1,
+          "coord": [31.8375, 35.5489], 
+          "name": "1. Sông Giô-đanh", 
+          "note": "<strong>Phép Báp-tít:</strong> Giăng Báp-tít làm phép dìm cho Chúa. Thánh Linh ngự xuống như chim bồ câu. Dòng sông Giô-đanh ngày nay đã thu hẹp nhưng vẫn giữ được vẻ linh thiêng với dải cây xanh bao quanh.", 
+          "scripture": "Mác 1:9-11" 
+        },
+        { 
+          "order": 2,
+          "coord": [32.89, 35.55], 
+          "name": "2. Ca-phê-na-um", 
+          "note": "<strong>Chữa lành trong nhà hội:</strong> Chúa đuổi tà ma và chữa lành cho mẹ vợ Phi-e-rơ. Thành phố này trở thành trung tâm chức vụ của Ngài.", 
+          "scripture": "Mác 1:21-31" 
+        },
+        { 
+          "order": 3,
+          "coord": [32.81, 35.59], 
+          "name": "3. Biển Ga-li-lê", 
+          "note": "<strong>Kêu gọi môn đồ:</strong> Bên bờ biển, Chúa gọi các ngư phủ: Phi-e-rơ, Anh-rê, Gia-cơ và Giăng.", 
+          "scripture": "Mác 1:16-20" 
+        }
+      ],
+      "stats": { 
+        "distance": "~120km", 
+        "time": "Giai đoạn khởi đầu", 
+        "terrain": "Lưu vực sông và vùng ven hồ" 
+      },
+      "difficulty": "Sự cám dỗ trong đồng vắng và áp lực từ đoàn dân đông đúc.",
+      "divine_help": "Thánh Linh xức dầu và quyền năng đuổi quỷ tức thì."
+    },
+    {
+  "title": "Chặng 2: Quyền năng trên Thiên nhiên và Bệnh tật",
+  "scripture": "Mác 4 - 8",
+  "points": [
+    { 
+      "order": 4,
+      "coord": [32.82, 35.59], 
+      "name": "4. Biển Ga-li-lê (Giữa bão)", 
+      "note": "<strong>Quyền năng trên thiên nhiên:</strong> Chúa phán: 'Hãy êm đi, lặng đi!' thì gió bão đều bình tịnh.", 
+      "scripture": "Mác 4:35-41" 
+    },
+    { 
+      "order": 5,
+      "coord": [32.72, 35.58], 
+      "name": "5. Vùng Giê-ra-sa", 
+      "note": "<strong>Giải cứu quân quỷ:</strong> Chúa đuổi đạo quân quỷ ra khỏi một người và cho chúng nhập vào đàn heo.", 
+      "scripture": "Mác 5:1-20" 
+    },
+    { 
+      "order": 6,
+      "coord": [32.88, 35.55], 
+      "name": "6. Bết-sai-đa", 
+      "note": "<strong>Chữa lành người mù:</strong> Chúa đặt tay hai lần để chữa lành hoàn toàn cho một người mù.", 
+      "scripture": "Mác 8:22-26" 
+    },
+    { 
+      "order": 7,
+      "coord": [33.24, 35.74], 
+      "name": "7. Sê-sa-rê Phi-líp", 
+      "note": "<strong>Lời xưng nhận của Phi-e-rơ:</strong> Ngài hỏi: 'Còn các ngươi nói Ta là ai?' Phi-e-rơ thưa: 'Thầy là Đấng Christ'.", 
+      "scripture": "Mác 8:27-30" 
+    }
+  ],
+  "stats": { 
+    "distance": "~180km di chuyển vùng ven hồ và phía Bắc", 
+    "time": "Giai đoạn chức vụ cao điểm", 
+    "terrain": "Mặt biển và vùng núi cao phía Bắc" 
+  },
+  "difficulty": "Sự cứng lòng của các lãnh đạo tôn giáo và sự chậm hiểu của các môn đồ.",
+  "divine_help": "Quyền năng tể trị trên mọi định luật vật lý và thế giới tà linh."
+}
+  ],
+  "Lu-ca": [
+    {
+      "title": "Chặng 1: Sự Giáng sinh và Thời thơ ấu",
+      "scripture": "Lu-ca 1 - 2",
+      "points": [
+        { 
+          "order": 1,
+          "coord": [31.7766, 35.2358], 
+          "name": "1. Đền thờ Giê-ru-sa-lem", 
+          "note": "<strong>Sự báo tin:</strong> Thiên sứ hiện ra với Xa-cha-ri báo tin về sự ra đời của Giăng Báp-tít.", 
+          "scripture": "Lu-ca 1:5-25" 
+        },
+        { 
+          "order": 2,
+          "coord": [32.7050, 35.3020], 
+          "name": "2. Na-xa-rét", 
+          "note": "<strong>Thiên sứ truyền tin cho Ma-ri:</strong> Chúa Giê-xu được hoài thai bởi Thánh Linh. 'Việc chi Đức Chúa Trời chẳng làm được'.", 
+          "scripture": "Lu-ca 1:26-38" 
+        },
+        { 
+          "order": 3,
+          "coord": [31.7702, 35.1384], 
+          "name": "3. Vùng núi Giu-đê (Ein Karem)", 
+          "note": "<strong>Sự thăm viếng:</strong> Ma-ri đến thăm Ê-li-sa-bét. Bài ca ngợi khen (Magnificat) vang lên tại đây.", 
+          "scripture": "Lu-ca 1:39-56" 
+        },
+        { 
+          "order": 4,
+          "coord": [31.7041, 35.2024], 
+          "name": "4. Bết-lê-hem", 
+          "note": "<strong>Chúa giáng sinh:</strong> Ra đời trong máng cỏ. Thiên sứ báo tin vui cho các gã chăn chiên trong đêm.", 
+          "scripture": "Lu-ca 2:1-20" 
+        },
+        { 
+          "order": 5,
+          "coord": [31.7766, 35.2358], 
+          "name": "5. Đền thờ Giê-ru-sa-lem (Dâng con)", 
+          "note": "<strong>Dâng con trẻ cho Đức Chúa Trời:</strong> Tiên tri Si-mê-ôn và An-ne chúc tụng Chúa.", 
+          "scripture": "Lu-ca 2:22-38" 
+        }
+      ],
+      "stats": { 
+        "distance": "~170km di chuyển dọc đất nước", 
+        "time": "Giai đoạn sơ sinh", 
+        "terrain": "Vùng núi và thung lũng" 
+      },
+      "difficulty": "Cuộc kiểm tra dân số vất vả và sự khiêm nhường của máng cỏ.",
+      "divine_help": "Thiên sứ thiên binh cùng ngợi khen và sự dẫn dắt của Đức Thánh Linh."
+    },
+    {
+      "title": "Chặng 2: Phép Báp-tít và Quyền năng tại Ga-li-lê",
+      "scripture": "Lu-ca 3 - 9",
+      "points": [
+        { 
+          "order": 6,
+          "coord": [31.8375, 35.5489], 
+          "name": "6. Sông Giô-đanh", 
+          "note": "<strong>Sự chuẩn bị:</strong> Chúa chịu phép Báp-tít. Thánh Linh ngự xuống và có tiếng từ trời xác chứng về Ngài.", 
+          "scripture": "Lu-ca 3:21-22" 
+        },
+        { 
+          "order": 7,
+          "coord": [32.7019, 35.3069], 
+          "name": "7. Na-xa-rét (Nhà hội)", 
+          "note": "<strong>Lời tuyên bố chức vụ:</strong> Chúa đọc sách tiên tri Ê-sai và tuyên bố Ngài là Đấng được xức dầu để giảng Tin Lành cho người nghèo.", 
+          "scripture": "Lu-ca 4:16-30" 
+        },
+        { 
+          "order": 8,
+          "coord": [32.8895, 35.5552], 
+          "name": "8. Ca-phê-na-um", 
+          "note": "<strong>Trung tâm chức vụ:</strong> Chúa chữa lành nhiều người, đuổi quỷ và kêu gọi Lê-vi (Ma-thi-ơ) đi theo Ngài.", 
+          "scripture": "Lu-ca 4:31-41; 5:27" 
+        },
+        { 
+          "order": 9,
+          "coord": [32.48, 35.39], 
+          "name": "9. Thành Na-in", 
+          "note": "<strong>Quyền năng trên sự chết:</strong> Chúa động lòng thương xót và khiến con trai duy nhất của một bà góa sống lại.", 
+          "scripture": "Lu-ca 7:11-17" 
+        }
+      ],
+      "stats": { 
+        "distance": "~130km di chuyển vùng phía Bắc", 
+        "time": "Khoảng 1.5 năm đầu chức vụ", 
+        "terrain": "Vùng hồ Ga-li-lê và thung lũng" 
+      },
+      "difficulty": "Sự khước từ tại chính quê hương Na-xa-rét khi họ định đẩy Ngài xuống vực núi.",
+      "divine_help": "Thánh Linh đầy dẫy dẫn dắt Ngài thắng hơn mọi thử thách."
+    },
+    {
+  "title": "Chặng 3: Hành trình qua Sa-ma-ri và các Ẩn dụ",
+  "scripture": "Lu-ca 9:51 - 18",
+  "points": [
+    {
+      "order": 10,
+      "coord": [32.3023, 35.2175],
+      "name": "10. Vùng Sa-ma-ri",
+      "note": "<strong>Lòng thương xót không biên giới:</strong> Chúa bị từ chối tại một làng Sa-ma-ri nhưng Ngài dạy các môn đồ về lòng kiên nhẫn và sự tha thứ thay vì hình phạt.",
+      "scripture": "Lu-ca 9:51-56"
+    },
+    {
+      "order": 11,
+      "coord": [31.7833, 35.2333],
+      "name": "11. Giê-ru-sa-lem (Vùng lân cận)",
+      "note": "<strong>Sứ mạng truyền giáo:</strong> Chúa sai 70 môn đồ từng đôi đi trước Ngài để rao giảng và chữa bệnh, chuẩn bị đường cho Ngài.",
+      "scripture": "Lu-ca 10:1-12"
+    },
+    {
+      "order": 12,
+      "coord": [31.7708, 35.2505],
+      "name": "12. Bê-tha-ni",
+      "note": "<strong>Sự ưu tiên của tâm hồn:</strong> Tại nhà Ma-thê và Ma-ri, Chúa dạy rằng việc lắng nghe lời Ngài là 'phần tốt nhất' không thể bị cất đi.",
+      "scripture": "Lu-ca 10:38-42"
+    },
+    {
+      "order": 13,
+      "coord": [31.8614, 35.4431],
+      "name": "13. Giê-ri-cô",
+      "note": "<strong>Sự cứu rỗi cho kẻ bị khinh dể:</strong> Chúa tìm gặp Xa-chê. Ngài tuyên bố: 'Con Người đã đến tìm và cứu kẻ bị mất'.",
+      "scripture": "Lu-ca 19:1-10"
+    }
+  ],
+  "stats": {
+    "distance": "~95km hành trình về phía Nam",
+    "time": "Giai đoạn chuyển tiếp chức vụ",
+    "terrain": "Vùng đồi núi trung tâm và thung lũng dốc"
+  },
+  "difficulty": "Sự đối đầu ngày càng tăng từ những người Pha-ri-si về các bài giảng ẩn dụ và luật pháp.",
+  "divine_help": "Chúa Giê-su kiên định hướng mặt về Giê-ru-sa-lem để hoàn thành chương trình cứu chuộc."
 }
   ],
   
