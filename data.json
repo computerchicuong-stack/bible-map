@@ -41,17 +41,625 @@
   ],
   "Xuất Ê-díp-tô Ký": [
     {
-      "title": "Môi-se: Từ Ai Cập đến Núi Si-na-i",
-      "scripture": "Xuất Ê-díp-tô ký 12 - 19",
+      "title": "Chặng 1: Từ Hoàng tử đến Kẻ chăn chiên",
+      "scripture": "Xuất Ê-díp-tô Ký 1 - 4",
       "points": [
-        {"coord": [30.78, 31.83], "name": "Ram-se", "note": "Rời khỏi ách nô lệ.", "scripture": "Xuất Ê-díp-tô ký 12:37"},
-        {"coord": [29.10, 33.00], "name": "Biển Đỏ", "note": "Phép lạ rẽ nước biển cứu dân sự.", "scripture": "Xuất Ê-díp-tô ký 14:21"},
-        {"coord": [29.21, 32.96], "name": "Ma-ra", "note": "Nước đắng hóa ngọt.", "scripture": "Xuất Ê-díp-tô ký 15:23"},
-        {"coord": [28.53, 33.97], "name": "Núi Si-na-i", "note": "Nhận Thập Tự Điều Răn từ Chúa.", "scripture": "Xuất Ê-díp-tô ký 19:1"}
+        {
+          "order": 1,
+          "coord": [30.5852, 32.2653],
+          "name": "1. Vùng Gô-sen (Ai Cập)",
+          "note": "<strong>Nơi bắt đầu:</strong> Dân Y-sơ-ra-ên bị áp bức làm nô lệ. Môi-se được cứu từ dòng sông Ni-lô và lớn lên trong cung điện Pha-ra-ôn.",
+          "scripture": "Xuất 1 - 2:10"
+        },
+        {
+          "order": 2,
+          "coord": [28.5000, 34.5000],
+          "name": "2. Xứ Ma-đi-an",
+          "note": "<strong>Sự ẩn dật:</strong> Sau khi giết một người Ai Cập để bảo vệ anh em mình, Môi-se trốn sang Ma-đi-an. Ông ở đây 40 năm làm nghề chăn chiên.",
+          "scripture": "Xuất 2:11-25"
+        },
+        {
+          "order": 3,
+          "coord": [28.5394, 33.9749],
+          "name": "3. Núi Hô-rếp (Bụi gai cháy)",
+          "note": "<strong>Sự kêu gọi:</strong> Đức Chúa Trời hiện ra trong bụi gai cháy nhưng không tàn. Ngài phán: 'Hãy biệt dân Ta ra khỏi Ai Cập'.",
+          "scripture": "Xuất 3:1 - 4:17"
+        },
+        {
+          "order": 4,
+          "coord": [30.0444, 31.2357],
+          "name": "4. Cung điện Pha-ra-ôn",
+          "note": "<strong>Cuộc đối đầu:</strong> Môi-se trở lại Ai Cập, đối mặt với Pha-ra-ôn và thực hiện các phép lạ qua gậy thần để đòi tự do cho dân tộc.",
+          "scripture": "Xuất 5 - 11"
+        }
       ],
-      "stats": { "distance": "~600km", "time": "3 tháng hành trình", "terrain": "Đồng vắng và núi đá" },
-      "difficulty": "Sự truy đuổi của quân Ai Cập và sự thiếu thốn trong sa mạc.",
-      "divine_help": "Trụ mây, trụ lửa dẫn đường và bánh Ma-na từ trời."
+      "stats": {
+        "distance": "~600km hành trình biến đổi cuộc đời",
+        "time": "40 năm chuẩn bị và sự kêu gọi",
+        "terrain": "Từ đồng bằng sông Ni-lô đến sa mạc núi đá Sinai"
+      },
+      "difficulty": "Nỗi sợ hãi cá nhân và sự cứng lòng của Pha-ra-ôn.",
+      "divine_help": "Đức Chúa Trời xác chứng: 'Ta sẽ ở cùng ngươi'."
+    },
+    {
+      "title": "Chặng 2: Cuộc vượt biển Đỏ và Hành trình vào sa mạc",
+      "scripture": "Xuất Ê-díp-tô Ký 12 - 15",
+      "points": [
+        {
+          "order": 5,
+          "coord": [30.5475, 32.2686],
+          "name": "5. Răm-se (Ai Cập)",
+          "note": "<strong>Cuộc xuất hành:</strong> Sau tai vạ thứ 10, Pha-ra-ôn cho phép dân Do Thái ra đi. Hàng triệu người cùng gia súc khởi hành từ đây.",
+          "scripture": "Xuất 12:31-42"
+        },
+        {
+          "order": 6,
+          "coord": [29.9800, 32.5500],
+          "name": "6. Biển Đỏ (Ba-anh Xê-phôn)",
+          "note": "<strong>Phép lạ rẽ biển:</strong> Quân Ai Cập đuổi theo sát nút. Môi-se giơ gậy, biển rẽ ra làm đôi cho dân đi qua như trên đất cạn, rồi nhấn chìm quân thù.",
+          "scripture": "Xuất 14:1-31"
+        },
+        {
+          "order": 7,
+          "coord": [29.1333, 32.9167],
+          "name": "7. Ma-ra",
+          "note": "<strong>Nước đắng hóa ngọt:</strong> Dân chúng lầm bầm vì thiếu nước uống. Chúa chỉ cho Môi-se một khúc cây quăng xuống nước, khiến nước đắng trở nên ngọt.",
+          "scripture": "Xuất 15:22-26"
+        },
+        {
+          "order": 8,
+          "coord": [28.5667, 33.3333],
+          "name": "8. Ê-lim",
+          "note": "<strong>Nơi an nghỉ:</strong> Một ốc đảo với 12 suối nước và 70 cây chà là. Chúa ban cho họ sự tươi mới trước khi tiến sâu vào sa mạc.",
+          "scripture": "Xuất 15:27"
+        }
+      ],
+      "stats": {
+        "distance": "~250km từ Ai Cập đến ốc đảo",
+        "time": "Những tuần đầu tiên của hành trình tự do",
+        "terrain": "Từ đồng bằng sông Ni-lô qua lòng biển đến sa mạc đá cát"
+      },
+      "difficulty": "Sự truy đuổi của quân đội hùng mạnh nhất thời bấy giờ và nỗi lo sợ thiếu thốn tài nguyên giữa sa mạc.",
+      "divine_help": "Trụ mây dẫn đường ban ngày và trụ lửa soi sáng ban đêm."
+    },
+    {
+      "title": "Chặng 3: Bánh Ma-na và Giao ước tại Núi Sinai",
+      "scripture": "Xuất Ê-díp-tô Ký 16 - 20",
+      "points": [
+        {
+          "order": 9,
+          "coord": [29.0000, 33.5000],
+          "name": "9. Sa mạc Sin",
+          "note": "<strong>Bánh từ trời:</strong> Dân sự đói khát và lầm bầm. Chúa ban bánh Ma-na mỗi buổi sáng và chim cút vào buổi chiều tối để nuôi dưỡng họ.",
+          "scripture": "Xuất 16:1-21"
+        },
+        {
+          "order": 10,
+          "coord": [28.7000, 33.7000],
+          "name": "10. Rê-phi-đim",
+          "note": "<strong>Nước từ vách đá:</strong> Môi-se đập gậy vào vách đá tại Hô-rếp để nước tuôn ra. Tại đây, dân sự cũng chiến thắng quân A-ma-léc nhờ lời cầu nguyện của Môi-se.",
+          "scripture": "Xuất 17:1-16"
+        },
+        {
+          "order": 11,
+          "coord": [28.5394, 33.9749],
+          "name": "11. Núi Sinai (Núi Hô-rếp)",
+          "note": "<strong>Mười Điều Răn:</strong> Giữa sấm sét và khói lửa, Đức Chúa Trời ban bố Luật pháp và Mười Điều Răn cho dân sự qua Môi-se. Một giao ước vĩnh cửu được thiết lập.",
+          "scripture": "Xuất 19 - 20"
+        },
+        {
+          "order": 12,
+          "coord": [28.5450, 33.9800],
+          "name": "12. Nơi đóng trại Sinai",
+          "note": "<strong>Đền Tạm:</strong> Dân sự đóng trại tại chân núi để xây dựng Đền Tạm theo khuôn mẫu Chúa chỉ dẫn, chuẩn bị cho sự hiện diện của Ngài giữa họ.",
+          "scripture": "Xuất 25 - 40"
+        }
+      ],
+      "stats": {
+        "distance": "~150km di chuyển sâu vào bán đảo Sinai",
+        "time": "Tháng thứ 3 sau khi ra khỏi Ai Cập",
+        "terrain": "Vùng núi đá cao dốc và thung lũng khô hạn"
+      },
+      "difficulty": "Sự thiếu thốn lương thực, nước uống và cuộc tấn công bất ngờ từ kẻ thù sa mạc.",
+      "divine_help": "Sự nuôi dưỡng siêu nhiên bằng Ma-na và sự hiện diện oai nghi của Chúa trên đỉnh núi khói tỏa."
+    }
+  ],
+  "Dân Số Ký-[THỜI KỲ LƯU LẠC SA MẠC]": [
+    {
+      "title": "Chặng 1: Kiểm kê dân số và Tổ chức quân đội",
+      "scripture": "Dân số ký 1 - 10",
+      "points": [
+        {
+          "order": 1,
+          "coord": [28.5394, 33.9749],
+          "name": "1. Sa mạc Sinai (Núi thánh)",
+          "note": "<strong>Kiểm kê dân số:</strong> Chúa truyền lệnh tu bổ dân số lần thứ nhất. Tổng cộng có 603.550 người nam từ 20 tuổi trở lên có khả năng ra trận.",
+          "scripture": "Dân số ký 1 - 2"
+        },
+        {
+          "order": 2,
+          "coord": [28.5420, 33.9780],
+          "name": "2. Trại quân Y-sơ-ra-ên",
+          "note": "<strong>Thứ tự đóng trại:</strong> Đền Tạm đặt ở giữa, các chi phái đóng trại xung quanh theo 4 hướng. Sự hiện diện của Chúa là trung tâm của dân tộc.",
+          "scripture": "Dân số ký 2 - 4"
+        },
+        {
+          "order": 3,
+          "coord": [28.5500, 33.9850],
+          "name": "3. Lễ Vượt Qua tại Sinai",
+          "note": "<strong>Kỷ niệm sự giải cứu:</strong> Dân sự giữ lễ Vượt Qua lần thứ hai kể từ khi rời Ai Cập, nhắc nhở họ về quyền năng giải phóng của Đức Chúa Trời.",
+          "scripture": "Dân số ký 9:1-5"
+        },
+        {
+          "order": 4,
+          "coord": [28.6000, 34.0000],
+          "name": "4. Tiếng kèn khởi hành",
+          "note": "<strong>Nhổ trại:</strong> Sau 2 năm ở Sinai, trụ mây cất lên. Hai chiếc kèn bạc vang lên hiệu lệnh, dân sự bắt đầu tiến bước về phía sa mạc Pha-ran.",
+          "scripture": "Dân số ký 10"
+        }
+      ],
+      "stats": {
+        "distance": "Tổ chức tại chỗ trước khi di chuyển",
+        "time": "Năm thứ 2 sau khi ra khỏi Ai Cập",
+        "terrain": "Vùng thung lũng dưới chân núi Sinai"
+      },
+      "difficulty": "Việc tổ chức một cộng đồng hàng triệu người đi vào kỷ luật và trật tự thánh.",
+      "divine_help": "Trụ mây và trụ lửa trực tiếp dẫn dắt thời điểm đi và dừng."
+    },
+    {
+      "title": "Chặng 2: Sự phàn nàn và Cuộc thám hiểm Đất Hứa",
+      "scripture": "Dân số ký 11 - 14",
+      "points": [
+        {
+          "order": 5,
+          "coord": [29.1000, 34.2000],
+          "name": "5. Ta-bê-ra & Ha-xê-rốt",
+          "note": "<strong>Sự thiếu lòng biết ơn:</strong> Dân sự than vãn về thức ăn (thèm thịt). Chúa ban chim cút nhưng cũng giáng tai vạ. Tại đây, Mi-ri-am và A-rôn cũng nói nghịch cùng Môi-se.",
+          "scripture": "Dân số ký 11 - 12"
+        },
+        {
+          "order": 6,
+          "coord": [30.6500, 34.4167],
+          "name": "6. Ca-đe Ba-nê-a (Do thám)",
+          "note": "<strong>Thử thách đức tin:</strong> Môi-se sai 12 thám tử đi xem xứ Ca-na-an. Sau 40 ngày, họ trở về mang theo chùm nho khổng lồ nhưng 10 người lại gieo rắc nỗi sợ hãi.",
+          "scripture": "Dân số ký 13"
+        },
+        {
+          "order": 7,
+          "coord": [30.6550, 34.4200],
+          "name": "7. Sự nổi loạn của dân sự",
+          "note": "<strong>Đỉnh điểm sai lầm:</strong> Dân sự khóc lóc và đòi lập một quan trưởng để trở lại Ai Cập. Chỉ có Giô-suê và Ca-lép khích lệ dân sự tin cậy Chúa nhưng họ đòi ném đá hai ông.",
+          "scripture": "Dân số ký 14:1-10"
+        },
+        {
+          "order": 8,
+          "coord": [30.6600, 34.4250],
+          "name": "8. Án phạt lưu lạc",
+          "note": "<strong>Hậu quả:</strong> Chúa tuyên bố thế hệ này sẽ không được vào Đất Hứa. Họ phải lưu lạc trong sa mạc 40 năm, mỗi ngày thám thính tương ứng với một năm phạt.",
+          "scripture": "Dân số ký 14:26-35"
+        }
+      ],
+      "stats": {
+        "distance": "~250km hành quân lên phía Bắc",
+        "time": "Khoảng 40 ngày thám thính và bước ngoặt 40 năm",
+        "terrain": "Sa mạc Pha-ran khô cằn và hiểm trở"
+      },
+      "difficulty": "Sự nổi loạn nội bộ và lòng tin bị lung lay trước những thành quách kiên cố của kẻ thù.",
+      "divine_help": "Lời cầu thay của Môi-se đã ngăn cơn thạnh nộ của Chúa không hủy diệt cả dân tộc."
+    },
+    {
+      "title": "Chặng 3: Những năm lưu lạc và Phép lạ chữa lành",
+      "scripture": "Dân số ký 16 - 21",
+      "points": [
+        {
+          "order": 9,
+          "coord": [30.2000, 34.8000],
+          "name": "9. Sa mạc Xin (Sự nổi loạn của Cô-rê)",
+          "note": "<strong>Thử thách quyền lãnh đạo:</strong> Cô-rê, Đa-than và A-bi-ram nổi loạn chống lại Môi-se và A-rôn. Đất nứt ra nuốt chửng họ. Gậy của A-rôn sau đó đã trổ hoa để xác chứng sự chọn lựa của Chúa.",
+          "scripture": "Dân số ký 16 - 17"
+        },
+        {
+          "order": 10,
+          "coord": [30.3200, 35.4100],
+          "name": "10. Núi Hơ",
+          "note": "<strong>Sự chuyển giao:</strong> Thầy tế lễ A-rôn qua đời trên đỉnh núi sau khi truyền lại chức vụ cho con trai là Ê-lê-a-xa. Dân sự chịu tang ông 30 ngày.",
+          "scripture": "Dân số ký 20:22-29"
+        },
+        {
+          "order": 11,
+          "coord": [30.0000, 35.5000],
+          "name": "11. Đường xuống biển Đỏ (Con rắn đồng)",
+          "note": "<strong>Nhìn để được sống:</strong> Dân sự lại lầm bầm, Chúa sai rắn lửa đến. Môi-se đúc một con rắn đồng treo lên sào; ai nhìn lên con rắn đó thì được chữa lành khỏi nọc độc.",
+          "scripture": "Dân số ký 21:4-9"
+        },
+        {
+          "order": 12,
+          "coord": [31.2500, 35.7500],
+          "name": "12. Suối Ạc-nôn",
+          "note": "<strong>Tiến vào ranh giới:</strong> Dân sự vượt qua thung lũng Ạc-nôn, ranh giới giữa dân Mô-áp và dân A-mô-rít, bắt đầu tiến vào vùng cao nguyên.",
+          "scripture": "Dân số ký 21:13-15"
+        }
+      ],
+      "stats": {
+        "distance": "~450km lưu lạc vòng quanh Edom",
+        "time": "Giai đoạn cuối của 40 năm",
+        "terrain": "Vùng thung lũng A-ra-ba và cao nguyên đá"
+      },
+      "difficulty": "Sự mất mát các lãnh đạo đời đầu và những cuộc nổi loạn từ bên trong.",
+      "divine_help": "Gậy trổ hoa và con rắn đồng minh chứng cho lòng thương xót của Chúa giữa sự phán xét."
+    },
+    {
+      "title": "Chặng 4: Chiến thắng tại phía Đông và Đồng bằng Mô-áp",
+      "scripture": "Dân số ký 21:21 - 36",
+      "points": [
+        {
+          "order": 13,
+          "coord": [31.4500, 35.8500],
+          "name": "13. Y-hát (Chiến thắng Si-hôn)",
+          "note": "<strong>Trận chiến mở đường:</strong> Vua Si-hôn của dân A-mô-rít không cho dân Y-sơ-ra-ên đi qua. Một trận chiến nổ ra, dân sự chiến thắng và chiếm lấy đất của họ.",
+          "scripture": "Dân số ký 21:21-31"
+        },
+        {
+          "order": 14,
+          "coord": [32.6500, 35.9000],
+          "name": "14. Ba-san (Chiến thắng vua Óc)",
+          "note": "<strong>Đánh bại người khổng lồ:</strong> Vua Óc của xứ Ba-san đem quân ra chặn đường. Chúa phán 'Đừng sợ', dân sự chiến thắng và chiếm toàn bộ vùng đất phía Bắc.",
+          "scripture": "Dân số ký 21:33-35"
+        },
+        {
+          "order": 15,
+          "coord": [31.8300, 35.6500],
+          "name": "15. Đồng bằng Mô-áp",
+          "note": "<strong>Lừa của Ba-la-am:</strong> Vua Ba-lác thuê tiên tri Ba-la-am đến rủa sả dân Chúa. Nhưng Chúa khiến con lừa biết nói và biến lời rủa sả thành lời chúc phước.",
+          "scripture": "Dân số ký 22 - 24"
+        },
+        {
+          "order": 16,
+          "coord": [31.8500, 35.6000],
+          "name": "16. Si-tim (Trạm dừng cuối)",
+          "note": "<strong>Chuẩn bị vượt sông:</strong> Tại đây, dân sự được kiểm kê dân số lần thứ hai. Môi-se bổ nhiệm Giô-suê làm người kế vị trước khi kết thúc hành trình của mình.",
+          "scripture": "Dân số ký 25 - 27; 36"
+        }
+      ],
+      "stats": {
+        "distance": "~200km bình định vùng phía Đông",
+        "time": "Năm thứ 40 - Chuẩn bị vào Đất Hứa",
+        "terrain": "Vùng cao nguyên màu mỡ phía Đông sông Giô-đanh"
+      },
+      "difficulty": "Đối đầu với các vương quốc hùng mạnh và những cạm bẫy thuộc linh từ dân Mô-áp.",
+      "divine_help": "Chúa bảo vệ dân sự khỏi các thế lực tâm linh và ban cho họ những vùng đất đầu tiên để định cư (cho các chi phái Ru-bên, Gát)."
+    }
+    
+  ],
+  "Phục Truyền Luật Lệ Ký": [
+    {
+      "title": "Chặng : Nhìn lại hành trình và Lời dặn dò cuối cùng",
+      "scripture": "Phục truyền 1 - 34",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.8300, 35.6500],
+          "name": "1. Đồng bằng Mô-áp",
+          "note": "<strong>Ôn lại lịch sử:</strong> Môi-se nhắc lại hành trình 40 năm từ Hô-rếp đến Ca-đe Ba-nê-a, khích lệ thế hệ trẻ đừng vấp ngã như tổ phụ họ.",
+          "scripture": "Phục truyền 1 - 4"
+        },
+        {
+          "order": 2,
+          "coord": [31.8400, 35.6600],
+          "name": "2. Dưới chân núi Nê-bô",
+          "note": "<strong>Tuyên đọc Luật pháp:</strong> Môi-se nhắc lại Mười Điều Răn và dạy dân sự mạng lệnh quan trọng nhất: 'Hãy hết lòng, hết ý, hết sức yêu kính Giê-hô-va Đức Chúa Trời'.",
+          "scripture": "Phục truyền 5 - 6"
+        },
+        {
+          "order": 3,
+          "coord": [31.8500, 35.6000],
+          "name": "3. Si-tim (Lời chúc phước & Rủa sả)",
+          "note": "<strong>Sự lựa chọn:</strong> Môi-se đặt trước mặt dân sự hai con đường: Phước hạnh nếu vâng lời và Tai họa nếu lìa bỏ Chúa. Ông giục giã họ: 'Hãy chọn sự sống'.",
+          "scripture": "Phục truyền 27 - 30"
+        },
+        {
+          "order": 4,
+          "coord": [31.7683, 35.7250],
+          "name": "4. Đỉnh núi Nê-bô (Núi Phi-ga)",
+          "note": "<strong>Kết thúc một kỷ nguyên:</strong> Môi-se nhìn thấy toàn cảnh Đất Hứa từ xa. Ông qua đời và được chính Chúa chôn cất. Giô-suê chính thức tiếp quản quyền lãnh đạo.",
+          "scripture": "Phục truyền 34"
+        }
+      ],
+      "stats": {
+        "distance": "Đóng trại cố định tại Mô-áp",
+        "time": "Tháng cuối cùng của năm thứ 40",
+        "terrain": "Vùng cao nguyên nhìn xuống thung lũng Giô-đanh"
+      },
+      "difficulty": "Nỗi buồn khi chia tay người lãnh đạo vĩ đại và trọng trách nặng nề của thế hệ mới.",
+      "divine_help": "Chúa ban cho Môi-se đôi mắt sáng suốt để nhìn thấy tương lai của dân tộc mình trước khi về với Ngài."
+    }
+  ],
+  
+  "GIÔ -SUÊ - THỜI KỲ CHINH PHỤC ĐẤT HỨA": [
+    {
+      "title": "Chặng 1: Bước chân đầu tiên vào Đất Hứa",
+      "scripture": "Giô-suê 1 - 6",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.8486, 35.5461],
+          "name": "1. Sông Giô-đanh",
+          "note": "<strong>Phép lạ vượt sông:</strong> Khi các thầy tế lễ khiêng Hòm Giao Ước chạm chân xuống nước, dòng sông Giô-đanh đang mùa nước rẫy bỗng dừng lại, dân sự đi qua trên đất cạn như lúc vượt biển Đỏ.",
+          "scripture": "Giô-suê 3 - 4"
+        },
+        {
+          "order": 2,
+          "coord": [31.8565, 35.4897],
+          "name": "2. Ghinh-ga",
+          "note": "<strong>Sự chuẩn bị thuộc linh:</strong> Dân sự đóng trại tại đây, lập đài kỷ niệm bằng 12 hòn đá dưới lòng sông. Tại đây, phép lạ bánh Ma-na chính thức dừng lại vì họ bắt đầu ăn thổ sản của Đất Hứa.",
+          "scripture": "Giô-suê 5"
+        },
+        {
+          "order": 3,
+          "coord": [31.8700, 35.4440],
+          "name": "3. Thành Giê-ri-cô",
+          "note": "<strong>Bức tường sụp đổ:</strong> Dân sự đi vòng quanh thành 7 ngày theo lời Chúa. Khi tiếng kèn vang lên và dân chúng hò hét, các vách thành kiên cố tự động sụp đổ mà không cần công phá.",
+          "scripture": "Giô-suê 6"
+        }
+      ],
+      "stats": {
+        "distance": "~20km từ bờ sông vào nội địa",
+        "time": "Khởi đầu cuộc chinh phục (Khoảng năm 1406 TC)",
+        "terrain": "Vùng đồng bằng trũng thấp cực kỳ nóng gần Biển Chết"
+      },
+      "difficulty": "Đối mặt với thành lũy kiên cố nhất vùng Ca-na-an bằng một chiến thuật không giống ai.",
+      "divine_help": "Tổng tư lệnh quân đội của Đức Giê-hô-va hiện ra khích lệ Giô-suê trước trận đánh."
+    },
+    {
+      "title": "Chặng 2: Chiến dịch miền Trung và miền Nam",
+      "scripture": "Giô-suê 7 - 10",
+      "points": [
+        {
+          "order": 4,
+          "coord": [31.9167, 35.2500],
+          "name": "4. Thành Ai / A-hi",
+          "note": "<strong>Bài học vâng lời:</strong> Ban đầu dân Y-sơ-ra-ên thất trận trước dân thành <strong>Ai (Bản Hiệu Đính gọi là A-hi)</strong> vì tội lỗi của A-can. Sau khi thanh tẩy, Giô-suê đã dùng phục binh đánh chiếm và tiêu diệt hoàn toàn thành này.",
+          "scripture": "Giô-suê 7 - 8"
+        },
+        {
+          "order": 5,
+          "coord": [31.8483, 35.1583],
+          "name": "5. Ga-ba-ôn / Ga-ba-ôn",
+          "note": "<strong>Liên minh cứu viện:</strong> Dân <strong>Ga-ba-ôn</strong> dùng mưu kế lập ước hòa bình. Khi họ bị liên minh 5 vua Ca-na-an tấn công, Giô-suê đã hành quân suốt đêm từ Ghinh-ga lên để giải cứu họ.",
+          "scripture": "Giô-suê 9 - 10:1-5"
+        },
+        {
+          "order": 6,
+          "coord": [31.8167, 35.0500],
+          "name": "6. Thung lũng A-gia-lôn / Ai-gia-lôn",
+          "note": "<strong>Mặt trời dừng lại:</strong> Tại chiến trường này (Bản Hiệu Đính gọi là <strong>Ai-gia-lôn</strong>), Chúa làm phép lạ vĩ đại: Mặt trời dừng lại trên Ga-ba-ôn và mặt trăng dừng tại thung lũng để dân sự tiêu diệt quân thù.",
+          "scripture": "Giô-suê 10:12-14"
+        },
+        {
+          "order": 7,
+          "coord": [31.5833, 34.8833],
+          "name": "7. Ma-kê-đa & La-ki / Ma-kê-đa & La-ki-sơ",
+          "note": "<strong>Bình định miền Nam:</strong> Giô-suê bắt sống 5 vua tại hang Ma-kê-đa và quét sạch các thành trì (Bản Hiệu Đính gọi là <strong>La-ki-sơ</strong>), khẳng định quyền kiểm soát toàn bộ khu vực phía Nam.",
+          "scripture": "Giô-suê 10:16-39"
+        }
+      ],
+      "stats": {
+        "distance": "~120km hành quân thần tốc",
+        "time": "Giai đoạn tiến đánh mạnh mẽ nhất",
+        "terrain": "Vùng núi dốc và các thung lũng chiến lược"
+      },
+      "difficulty": "Sự kiên cố của các liên minh quân sự bản địa và áp lực thời gian trong trận đánh.",
+      "divine_help": "Chúa giáng mưa đá lớn từ trời và thực hiện phép lạ dừng thời gian để giúp dân sự đắc thắng."
+    },
+    {
+      "title": "Chặng 3: Chiến dịch miền Bắc và Phân chia sản nghiệp",
+      "scripture": "Giô-suê 11 - 24",
+      "points": [
+        {
+          "order": 8,
+          "coord": [33.0200, 35.5800],
+          "name": "8. Thành Ha-xo / Hà-xo",
+          "note": "<strong>Quét sạch phương Bắc:</strong> Vua Gia-bin lập liên minh cực lớn chống lại Y-sơ-ra-ên. Giô-suê tấn công bất ngờ tại vùng nước Mê-rôm, tiêu diệt liên minh và đốt cháy thành <strong>Ha-xo (Bản Hiệu Đính gọi là Hà-xo)</strong>.",
+          "scripture": "Giô-suê 11"
+        },
+        {
+          "order": 9,
+          "coord": [32.2200, 35.2800],
+          "name": "9. Si-lô / Si-lô",
+          "note": "<strong>Trung tâm thờ phượng:</strong> Toàn dân nhóm lại tại <strong>Si-lô</strong> để dựng Đền Tạm. Đây trở thành trung tâm tôn giáo đầu tiên của Y-sơ-ra-ên trên Đất Hứa và là nơi bốc thăm chia đất cho các chi phái còn lại.",
+          "scripture": "Giô-suê 18"
+        },
+        {
+          "order": 10,
+          "coord": [32.2100, 35.2700],
+          "name": "10. Sê-chem / Si-chem",
+          "note": "<strong>Lập lại giao ước:</strong> Trước khi qua đời, Giô-suê triệu tập dân sự tại <strong>Sê-chem (Bản Hiệu Đính gọi là Si-chem)</strong> để nhắc lại lịch sử và kêu gọi họ: 'Ta và gia đình ta sẽ phục vụ Đức Giê-hô-va'.",
+          "scripture": "Giô-suê 24"
+        },
+        {
+          "order": 11,
+          "coord": [32.1167, 35.1667],
+          "name": "11. Thim-nát-Sê-ra / Thim-nát Sê-ra",
+          "note": "<strong>Sự nghỉ ngơi của vị tướng:</strong> Giô-suê qua đời ở tuổi 110 và được chôn cất tại sản nghiệp của ông là <strong>Thim-nát-Sê-ra (Bản Hiệu Đính gọi là Thim-nát Sê-ra)</strong> thuộc vùng núi Ép-ra-im.",
+          "scripture": "Giô-suê 24:29-30"
+        }
+      ],
+      "stats": {
+        "distance": "~200km từ Bắc chí Nam",
+        "time": "Kết thúc giai đoạn chinh phục chủ lực",
+        "terrain": "Từ vùng núi phía Bắc đến trung tâm dãy núi Ép-ra-im"
+      },
+      "difficulty": "Đối đầu với lực lượng kỵ binh và xe sắt hùng hậu của các vua miền Bắc.",
+      "divine_help": "Chúa ban chiến thắng vang dội giúp dân sự làm chủ phần lớn lãnh thổ Ca-na-an."
+    }
+  ],
+  
+  "Các Quan Xét - THỜI KỲ CÁC QUAN XÉT": [
+    {
+      "title": "Chặng 1: Những cuộc giải cứu đầu tiên",
+      "scripture": "Các Quan Xét 1 - 5",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.4333, 34.9333],
+          "name": "1. Đê-bia / Đê-bia",
+          "note": "<strong>Ốt-ni-ên thắng trận:</strong> Sau khi Giô-suê qua đời, <strong>Ốt-ni-ên (Othniel)</strong> đánh chiếm thành <strong>Đê-bia</strong> và trở thành Quan xét đầu tiên giải phóng dân sự khỏi ách nô lệ của vua miền Lưỡng Hà.",
+          "scripture": "Các Quan Xét 1:11-13; 3:7-11"
+        },
+        {
+          "order": 2,
+          "coord": [31.8700, 35.4440],
+          "name": "2. Thành Giê-ri-cô / Giê-ri-cô",
+          "note": "<strong>Ê-hút tiêu diệt vua Ê-glôn:</strong> <strong>Ê-hút (Ehud)</strong> đã dùng một thanh gươm hai lưỡi giết chết vua Ê-glôn của dân Mô-áp tại <strong>Giê-ri-cô (thành Cây Chà Là)</strong>, giải phóng miền Đông.",
+          "scripture": "Các Quan Xét 3:12-30"
+        },
+        {
+          "order": 3,
+          "coord": [32.6167, 35.3000],
+          "name": "3. Núi Ta-bo / Tha-bo",
+          "note": "<strong>Đê-bô-ra và Ba-rác:</strong> Nữ tiên tri <strong>Đê-bô-ra</strong> triệu tập quân đội tại núi <strong>Ta-bo (Bản Hiệu Đính gọi là Tha-bo)</strong> để đối đầu với xe sắt của Xê-ra.",
+          "scripture": "Các Quan Xét 4"
+        },
+        {
+          "order": 4,
+          "coord": [32.6000, 35.0333],
+          "name": "4. Sông Ki-sôn / Ki-sôn",
+          "note": "<strong>Chiến thắng vang dội:</strong> Chúa khiến quân xe sắt của Xê-ra rối loạn. Dòng suối <strong>Ki-sôn</strong> dâng nước cuốn trôi quân thù. Gia-ên hạ sát Xê-ra trong trại.",
+          "scripture": "Các Quan Xét 4:13-21; 5:21"
+        }
+      ],
+      "stats": {
+        "distance": "Các cuộc giải cứu rải rác từ Nam ra Bắc",
+        "time": "Khoảng 150 năm đầu thời kỳ Quan xét",
+        "terrain": "Vùng đồi núi Giu-đa và thung lũng Gít-rê-ên"
+      },
+      "difficulty": "Dân sự mất đi sự hiệp nhất và liên tục bị các dân tộc xung quanh xâm lược.",
+      "divine_help": "Đức Thánh Linh giáng trên các Quan xét để ban cho họ sức mạnh và mưu lược phi thường."
+    },
+    {
+      "title": "Chặng 2: Ghê-đê-ôn và 300 chiến sĩ",
+      "scripture": "Các Quan Xét 6 - 8",
+      "points": [
+        {
+          "order": 5,
+          "coord": [32.3800, 35.2500],
+          "name": "5. Óp-ra / Ốp-ra",
+          "note": "<strong>Tiếng gọi trong hang rượu:</strong> Thiên sứ hiện ra với <strong>Ghê-đê-ôn</strong> tại <strong>Óp-ra (Bản Hiệu Đính gọi là Ốp-ra)</strong> khi ông đang đập lúa trong bồn ép rượu để giấu dân Ma-đi-an. Tại đây ông đã phá dỡ bàn thờ Ba-anh của cha mình.",
+          "scripture": "Các Quan Xét 6"
+        },
+        {
+          "order": 6,
+          "coord": [32.5500, 35.3500],
+          "name": "6. Suối Ha-rốt / Suối Ha-rốt",
+          "note": "<strong>Thử thách uống nước:</strong> Chúa sàng lọc quân đội của Ghê-đê-ôn từ 32.000 người xuống còn 300 người dựa trên cách họ uống nước tại <strong>Suối Ha-rốt</strong> để bày tỏ quyền năng của Ngài.",
+          "scripture": "Các Quan Xét 7:1-8"
+        },
+        {
+          "order": 7,
+          "coord": [32.5333, 35.3333],
+          "name": "7. Thung lũng Gít-rê-ên / Thung lũng Gít-rê-ên",
+          "note": "<strong>Tiếng kèn và bình vỡ:</strong> Với 300 người cầm kèn, bình đất và đuốc, Ghê-đê-ôn làm náo loạn trại quân Ma-đi-an hùng mạnh. Quân thù tự giết lẫn nhau và tháo chạy.",
+          "scripture": "Các Quan Xét 7:15-25"
+        },
+        {
+          "order": 8,
+          "coord": [32.2500, 35.6000],
+          "name": "8. Các bến sông Giô-đanh",
+          "note": "<strong>Truy kích quân thù:</strong> Ghê-đê-ôn đuổi theo tàn quân Ma-đi-an qua bên kia sông Giô-đanh, đánh bại hai vua Xê-ba và San-mu-na (Bản Hiệu Đính gọi là <strong>Xê-ba và San-mun-na</strong>), chấm dứt sự áp bức.",
+          "scripture": "Các Quan Xét 8"
+        }
+      ],
+      "stats": {
+        "distance": "~80km từ vùng trung tâm đến biên giới phía Đông",
+        "time": "Giai đoạn giải cứu miền Trung",
+        "terrain": "Vùng thung lũng màu mỡ và các bến vượt sông"
+      },
+      "difficulty": "Quân đội ít ỏi đối đầu với kẻ thù đông như cào cào.",
+      "divine_help": "Phép lạ về lốt chiên và sự khôn ngoan trong chiến thuật ban đêm giúp mang lại thắng lợi không tưởng."
+    },
+    {
+      "title": "Chặng 3: Giép-thê và Sam-sôn",
+      "scripture": "Các Quan Xét 11 - 16",
+      "points": [
+        {
+          "order": 9,
+          "coord": [32.4000, 35.8500],
+          "name": "9. Xứ Tốp / Tô-bơ",
+          "note": "<strong>Sự trỗi dậy của Giép-thê:</strong> <strong>Giép-thê (Jephthah)</strong> bị anh em ruồng bỏ, trốn sang xứ <strong>Tốp (Bản Hiệu Đính gọi là Tô-bơ)</strong>. Sau đó, ông được mời về làm tướng lãnh để giải cứu dân sự khỏi dân Am-môn.",
+          "scripture": "Các Quan Xét 11"
+        },
+        {
+          "order": 10,
+          "coord": [31.7800, 34.9800],
+          "name": "10. Xô-ra & Ê-tha-ôn / Xô-ra & Ê-ta-ôn",
+          "note": "<strong>Sự ra đời của Sam-sôn:</strong> Thiên sứ báo tin về sự ra đời của <strong>Sam-sôn</strong> – một người Na-xi-rê từ trong lòng mẹ. Ông lớn lên tại khu vực giữa <strong>Xô-ra và Ê-tha-ôn (Bản Hiệu Đính gọi là Ê-ta-ôn)</strong>.",
+          "scripture": "Các Quan Xét 13"
+        },
+        {
+          "order": 11,
+          "coord": [31.5000, 34.4500],
+          "name": "11. Thành Ga-xa / Ga-za",
+          "note": "<strong>Sức mạnh và sa ngã:</strong> Sam-sôn nhiều lần đối đầu với dân Phi-li-tin, nổi tiếng nhất là việc nhổ cửa thành <strong>Ga-xa (Bản Hiệu Đính gọi là Ga-za)</strong> vác lên đỉnh núi. Tuy nhiên, sau đó ông bị Đa-li-la lừa gạt.",
+          "scripture": "Các Quan Xét 16:1-21"
+        },
+        {
+          "order": 12,
+          "coord": [31.5050, 34.4550],
+          "name": "12. Đền thờ Đa-gôn",
+          "note": "<strong>Chiến thắng cuối cùng:</strong> Tại đền thờ thần Đa-gôn, Sam-sôn cầu nguyện Chúa ban sức mạnh lần cuối. Ông đẩy đổ hai cột trụ chính, khiến đền thờ sụp đổ, tiêu diệt nhiều kẻ thù hơn cả lúc ông còn sống.",
+          "scripture": "Các Quan Xét 16:23-31"
+        }
+      ],
+      "stats": {
+        "distance": "Các sự kiện diễn ra từ vùng cao nguyên phía Đông sang vùng ven biển phía Tây",
+        "time": "Giai đoạn cuối của thời kỳ Quan xét",
+        "terrain": "Từ vùng bán sa mạc đến các đồng bằng ven biển Philistine"
+      },
+      "difficulty": "Dân sự bị áp bức nặng nề bởi dân Phi-li-tin và những mâu thuẫn nội bộ.",
+      "divine_help": "Thần của Đức Giê-hô-va cảm động và ban sức mạnh phi thường cho các Quan xét để bảo vệ dân Ngài."
+    }
+  ],
+  "Ru-tơ - THỜI KỲ CÁC QUAN XÉT": [
+    {
+      "title": "Chặng 1: Hành trình của đức tin và lòng hiếu thảo",
+      "scripture": "Ru-tơ 1 - 4",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.5000, 35.7500],
+          "name": "1. Xứ Mô-áp / Mô-áp",
+          "note": "<strong>Lựa chọn đức tin:</strong> Sau khi chồng và hai con trai qua đời, Na-ô-mi quyết định trở về quê hương. <strong>Ru-tơ (Ruth)</strong> đã từ bỏ quê hương Mô-áp để đi theo mẹ chồng với lời tuyên bố bất hủ: 'Dân tộc của mẹ là dân tộc của con, Đức Chúa Trời của mẹ là Đức Chúa Trời của con'.",
+          "scripture": "Ru-tơ 1"
+        },
+        {
+          "order": 2,
+          "coord": [31.7047, 35.2032],
+          "name": "2. Bết-lê-hem / Bết-lê-hem",
+          "note": "<strong>Cánh đồng mùa gặt:</strong> Ru-tơ và Na-ô-mi trở về <strong>Bết-lê-hem</strong> đúng mùa gặt lúa mạch. Ru-tơ đi mót lúa trong cánh đồng của Bô-ô để nuôi mẹ chồng, bày tỏ lòng hiếu thảo hiếm có.",
+          "scripture": "Ru-tơ 2"
+        },
+        {
+          "order": 3,
+          "coord": [31.7050, 35.2040],
+          "name": "3. Sân đạp lúa của Bô-ô",
+          "note": "<strong>Ân điển của người chuộc tội:</strong> Theo lời dặn của Na-ô-mi, Ru-tơ đến gặp <strong>Bô-ô (Boaz)</strong> tại sân đạp lúa. Bô-ô bằng lòng thực hiện trách nhiệm của người có quyền chuộc sản nghiệp cho gia đình Na-ô-mi.",
+          "scripture": "Ru-tơ 3"
+        },
+        {
+          "order": 4,
+          "coord": [31.7040, 35.2030],
+          "name": "4. Cổng thành Bết-lê-hem",
+          "note": "<strong>Dòng dõi phước hạnh:</strong> Bô-ô chính thức cưới Ru-tơ. Họ sinh hạ Ô-bết, ông nội của vua Đa-vít. Người phụ nữ ngoại bang Ru-tơ đã chính thức bước vào gia phả của Chúa Cứu Thế.",
+          "scripture": "Ru-tơ 4"
+        }
+      ],
+      "stats": {
+        "distance": "~80km từ phía Đông sang phía Tây Biển Chết",
+        "time": "Khoảng 10 năm trong thời kỳ các Quan xét",
+        "terrain": "Từ vùng núi Mô-áp băng qua sa mạc Giu-đa đến vùng đồi Bết-lê-hem"
+      },
+      "difficulty": "Cảnh góa bụa, nghèo khó và sự khác biệt về dân tộc.",
+      "divine_help": "Sự quan phòng của Chúa đã dẫn dắt Ru-tơ đến đúng cánh đồng của Bô-ô để mở ra một chương mới cho lịch sử cứu rỗi."
     }
   ],
   "Thời Kỳ Các Quan Xét": [
@@ -502,9 +1110,341 @@
   },
   "difficulty": "Sự đối đầu ngày càng tăng từ những người Pha-ri-si về các bài giảng ẩn dụ và luật pháp.",
   "divine_help": "Chúa Giê-su kiên định hướng mặt về Giê-ru-sa-lem để hoàn thành chương trình cứu chuộc."
-}
+},
+{
+  "title": "Chặng 4: Khổ Nạn và Phục Sinh tại Giê-ru-sa-lem",
+  "scripture": "Lu-ca 19:28 - 24",
+  "points": [
+    {
+      "order": 14,
+      "coord": [31.7767, 35.2442],
+      "name": "14. Núi Ô-liu",
+      "note": "<strong>Vào thành khải hoàn:</strong> Chúa Giê-su cưỡi lừa vào Giê-ru-sa-lem trong tiếng tung hô. Ngài khóc thương thành Giê-ru-sa-lem tại đây.",
+      "scripture": "Lu-ca 19:28-44"
+    },
+    {
+      "order": 15,
+      "coord": [31.7781, 35.2360],
+      "name": "15. Đền thờ Giê-ru-sa-lem",
+      "note": "<strong>Làm sạch nhà Chúa:</strong> Chúa đuổi những kẻ buôn bán ra khỏi đền thờ và giảng dạy dân chúng tại đây mỗi ngày trước khi chịu thương khó.",
+      "scripture": "Lu-ca 19:45-48"
+    },
+    {
+      "order": 16,
+      "coord": [31.7794, 35.2402],
+      "name": "16. Vườn Ghết-sê-ma-nê",
+      "note": "<strong>Sự vâng phục tuyệt đối:</strong> Chúa cầu nguyện thống thiết đến nỗi mồ hôi như giọt máu sa xuống đất trước khi bị phản bội và bắt giữ.",
+      "scripture": "Lu-ca 22:39-53"
+    },
+    {
+      "order": 17,
+      "coord": [31.7785, 35.2298],
+      "name": "17. Đồi Gô-gô-tha",
+      "note": "<strong>Sự hy sinh chuộc tội:</strong> Chúa bị đóng đinh trên thập tự giá. Ngài cầu nguyện cho kẻ thù và trút linh hồn trong sự đắc thắng.",
+      "scripture": "Lu-ca 23:33-49"
+    },
+    {
+      "order": 18,
+      "coord": [31.8415, 35.0253],
+      "name": "18. Làng Em-ma-út",
+      "note": "<strong>Sự phục sinh vinh hiển:</strong> Chúa hiện ra cùng hai môn đồ trên đường đi Em-ma-út, giải nghĩa Kinh Thánh và bẻ bánh cùng họ.",
+      "scripture": "Lu-ca 24:13-35"
+    }
   ],
-  
+  "stats": {
+    "distance": "~20km quanh khu vực thánh thành",
+    "time": "Tuần lễ cuối cùng và sự Phục sinh",
+    "terrain": "Đồi núi thấp và các địa danh nội thành Giê-ru-sa-lem"
+  },
+  "difficulty": "Chúa gánh lấy tội lỗi nhân thế, trải qua sự phản bội, xét xử bất công và cái chết đau đớn.",
+  "divine_help": "Sự phục sinh quyền năng phá tan xiềng xích cái chết, đem lại hy vọng cứu rỗi đời đời."
+},
+      {
+        "title": "Chặng 5: Sự Thăng Thiên và Hứa ngôn Thánh Linh",
+        "scripture": "Lu-ca 24:36-53",
+        "points": [
+          {
+            "order": 19,
+            "coord": [31.7765, 35.2358],
+            "name": "19. Giê-ru-sa-lem (Phòng cao)",
+            "note": "<strong>Sự xác chứng:</strong> Chúa phục sinh hiện ra giữa các môn đồ, cho họ xem tay chân Ngài và cùng ăn với họ để chứng minh Ngài không phải là ma.",
+            "scripture": "Lu-ca 24:36-43"
+          },
+          {
+            "order": 20,
+            "coord": [31.7700, 35.2300],
+            "name": "20. Mở trí hiểu Kinh Thánh",
+            "note": "<strong>Sự chuẩn bị:</strong> Ngài mở trí cho các môn đồ để họ hiểu các lời tiên tri về Đấng Messiah trong Luật pháp Môi-se, các sách Tiên tri và Thi thiên.",
+            "scripture": "Lu-ca 24:44-48"
+          },
+          {
+            "order": 21,
+            "coord": [31.7725, 35.2503],
+            "name": "21. Bê-tha-ni (Triền núi Ô-liu)",
+            "note": "<strong>Sự Thăng Thiên:</strong> Chúa ban phước cho các môn đồ rồi được cất lên trời. Các môn đồ thờ lạy Ngài và trở về thành với niềm vui mừng khôn xiết.",
+            "scripture": "Lu-ca 24:50-52"
+          },
+          {
+            "order": 22,
+            "coord": [31.7780, 35.2355],
+            "name": "22. Đền thờ (Kết thúc Phúc âm)",
+            "note": "<strong>Sự chờ đợi:</strong> Các môn đồ hằng ở trong đền thờ, ngợi khen Đức Chúa Trời trong khi chờ đợi quyền phép từ trên cao (Đức Thánh Linh).",
+            "scripture": "Lu-ca 24:53"
+          }
+        ],
+        "stats": {
+          "distance": "~5km hành trình nội đô",
+          "time": "40 ngày sau Phục sinh",
+          "terrain": "Khu vực đền thờ và triền núi Ô-liu"
+        },
+        "difficulty": "Giai đoạn chuyển giao trách nhiệm từ Chúa Giê-su sang các môn đồ để rao giảng cho muôn dân.",
+        "divine_help": "Lời hứa về quyền phép từ trên cao sẽ bao phủ và đồng hành cùng họ."
+      }
+  ],
+  "Công vụ các sư đồ": [
+        {
+        "title": "Chặng 1: Lễ Ngũ Tuần và Hội thánh đầu tiên",
+        "scripture": "Công vụ 1 - 7",
+        "points": [
+          {
+            "order": 1,
+            "coord": [31.7760, 35.2350],
+            "name": "1. Phòng cao (Lễ Ngũ Tuần)",
+            "note": "<strong>Lửa Thánh Linh:</strong> Các môn đồ được đầy dẫy Đức Thánh Linh, bắt đầu nói các thứ tiếng khác nhau. 3.000 người tin nhận Chúa trong một ngày.",
+            "scripture": "Công vụ 2:1-41"
+          },
+          {
+            "order": 2,
+            "coord": [31.7782, 35.2362],
+            "name": "2. Cửa Đẹp (Đền thờ)",
+            "note": "<strong>Phép lạ đầu tiên:</strong> Phi-e-rơ và Giăng chữa lành người què từ thuở mới sanh nhân danh Chúa Giê-su, dẫn đến bài giảng quyền năng.",
+            "scripture": "Công vụ 3:1-26"
+          },
+          {
+            "order": 3,
+            "coord": [31.7750, 35.2300],
+            "name": "3. Nhà của các tín hữu",
+            "note": "<strong>Đời sống cộng đồng:</strong> Các tín hữu đầu tiên hiệp một ý lòng, chuyên tâm giữ lời dạy của các sứ đồ, bẻ bánh và cầu nguyện.",
+            "scripture": "Công vụ 2:42-47"
+          },
+          {
+            "order": 4,
+            "coord": [31.7805, 35.2385],
+            "name": "4. Thung lũng Kế-đrôn",
+            "note": "<strong>Sự tử đạo của Ê-tiên:</strong> Chấp sự Ê-tiên bị ném đá vì đức tin. Đây là bước ngoặt khiến Tin Lành bắt đầu lan ra khỏi Giê-ru-sa-lem.",
+            "scripture": "Công vụ 7:54-60"
+          }
+        ],
+        "stats": {
+          "distance": "Hoạt động nội đô Giê-ru-sa-lem",
+          "time": "Khởi đầu kỷ nguyên Hội thánh",
+          "terrain": "Thánh thành Giê-ru-sa-lem"
+        }
+      },
+      {
+        "title": "Chặng 2: Tin Lành lan sang Giu-đê và Sa-ma-ri",
+        "scripture": "Công vụ 8 - 12",
+        "points": [
+          {
+            "order": 5,
+            "coord": [32.3023, 35.2175],
+            "name": "5. Vùng Sa-ma-ri",
+            "note": "<strong>Phá vỡ rào cản:</strong> Phi-líp đến Sa-ma-ri rao giảng, nhiều người tin theo và nhận Đức Thánh Linh.",
+            "scripture": "Công vụ 8:4-25"
+          },
+          {
+            "order": 6,
+            "coord": [31.3500, 34.5000],
+            "name": "6. Đường xuống Ga-xa",
+            "note": "<strong>Cá nhân chứng đạo:</strong> Phi-líp giải nghĩa về Chúa Giê-su và làm phép Báp-tít cho hoạn quan Ê-thi-ô-bi.",
+            "scripture": "Công vụ 8:26-40"
+          },
+          {
+            "order": 7,
+            "coord": [33.5138, 36.2962],
+            "name": "7. Đường đến Đa-mách",
+            "note": "<strong>Cuộc đời biến đổi:</strong> Sau-lơ (Phao-lô) gặp Chúa trên đường đi bắt bớ các tín hữu và trở thành sứ đồ.",
+            "scripture": "Công vụ 9:1-19"
+          },
+          {
+            "order": 8,
+            "coord": [32.5000, 34.9000],
+            "name": "8. Sê-sa-rê",
+            "note": "<strong>Cánh cửa cho dân ngoại:</strong> Phi-e-rơ thăm nhà Cọt-nây. Thánh Linh đổ xuống trên người ngoại, đánh dấu bước ngoặt toàn cầu.",
+            "scripture": "Công vụ 10:1-48"
+          }
+        ],
+        "stats": {
+          "distance": "~400km mở rộng",
+          "time": "Giai đoạn lan tỏa",
+          "terrain": "Đường ven biển và sa mạc"
+        }
+      },
+      {
+        "title": "Chặng 3: Hành trình truyền giáo lần thứ nhất",
+        "scripture": "Công vụ 13 - 14",
+        "points": [
+          {
+            "order": 9,
+            "coord": [36.1000, 36.1500],
+            "name": "9. An-ti-ốt (Syria)",
+            "note": "<strong>Điểm xuất phát:</strong> Đây là trung tâm của Hội thánh ngoại bang. Tại đây, các tín hữu lần đầu tiên được gọi là 'Cơ-đốc nhân'.",
+            "scripture": "Công vụ 13:1-3"
+          },
+          {
+            "order": 10,
+            "coord": [35.1264, 33.9189],
+            "name": "10. Đảo Chíp-rơ (Pha-phốt)",
+            "note": "<strong>Đối đầu thuộc linh:</strong> Phao-lô đối đầu với thuật sĩ Ê-ly-ma và dẫn đưa quan tổng trấn Chẹt-giu Phao-lô tin nhận Chúa.",
+            "scripture": "Công vụ 13:4-12"
+          },
+          {
+            "order": 11,
+            "coord": [38.2958, 30.8511],
+            "name": "11. An-ti-ốt (Pi-si-đi)",
+            "note": "<strong>Giảng dạy trong nhà hội:</strong> Phao-lô giảng một bài giảng dài về lịch sử cứu rỗi. Nhiều người ngoại bang vui mừng tin nhận.",
+            "scripture": "Công vụ 13:14-52"
+          },
+          {
+            "order": 12,
+            "coord": [37.5833, 32.4167],
+            "name": "12. Lít-trơ & Đẹt-bơ",
+            "note": "<strong>Thử thách và trung kiên:</strong> Phao-lô bị ném đá tại Lít-trơ nhưng sau đó đứng dậy tiếp tục hành trình khích lệ các môn đồ.",
+            "scripture": "Công vụ 14:8-20"
+          }
+        ],
+        "stats": {
+          "distance": "~1.500km đường biển và đường bộ",
+          "time": "Khoảng năm 46 - 48 SC",
+          "terrain": "Vùng biển Địa Trung Hải và đồi núi Tiểu Á (Thổ Nhĩ Kỳ ngày nay)"
+        },
+        "difficulty": "Sự chống đối từ những người Do Thái cực đoan và việc di chuyển hiểm trở qua các dãy núi.",
+        "divine_help": "Quyền năng của Đức Thánh Linh xác chứng lời giảng qua các dấu lạ và sự dạn dĩ của các sứ đồ."
+      },
+      {
+        "title": "Chặng 4: Hành trình truyền giáo lần thứ hai - Tin Lành sang Châu Âu",
+        "scripture": "Công vụ 15:36 - 18:22",
+        "points": [
+          {
+            "order": 13,
+            "coord": [39.9333, 26.2333],
+            "name": "13. Trô-ách",
+            "note": "<strong>Khải tượng Ma-xê-đoan:</strong> Phao-lô thấy một người Ma-xê-đoan đứng nài xin: 'Hãy qua xứ Ma-xê-đoan mà giúp chúng tôi'. Đây là bước ngoặt đưa Tin Lành sang phương Tây.",
+            "scripture": "Công vụ 16:6-10"
+          },
+          {
+            "order": 14,
+            "coord": [41.0119, 24.2856],
+            "name": "14. Phi-líp",
+            "note": "<strong>Sự cứu rỗi trong lao tù:</strong> Phao-lô và Si-la bị đánh đòn và bỏ tù. Tại đây, cơn động đất xảy ra, xiềng xích đứt tung và gia đình người đề lao tin nhận Chúa.",
+            "scripture": "Công vụ 16:11-40"
+          },
+          {
+            "order": 15,
+            "coord": [37.9838, 23.7275],
+            "name": "15. A-thên (Athens)",
+            "note": "<strong>Giảng dạy tại đồi A-rê-ô-ba:</strong> Phao-lô tranh luận với các triết gia Hy Lạp về 'Chúa Không Biết', giới thiệu về Đức Chúa Trời là Đấng Tạo Hóa.",
+            "scripture": "Công vụ 17:15-34"
+          },
+          {
+            "order": 16,
+            "coord": [37.9058, 22.8797],
+            "name": "16. Cô-rinh-tô",
+            "note": "<strong>Củng cố đức tin:</strong> Phao-lô ở lại đây 1 năm 6 tháng để giảng dạy. Ông làm nghề may trại cùng với vợ chồng A-qui-la và Bê-rê-sin.",
+            "scripture": "Công vụ 18:1-17"
+          }
+        ],
+        "stats": {
+          "distance": "~3.000km di chuyển liên tục",
+          "time": "Khoảng năm 49 - 52 SC",
+          "terrain": "Băng qua biển Ê-giê và các thành phố lớn Hy Lạp"
+        },
+        "difficulty": "Sự bắt bớ tại Phi-líp và sự thách thức về tri thức luận tại A-thên.",
+        "divine_help": "Thánh Linh ngăn cấm đi các ngả khác để tập trung đưa sứ điệp cứu rỗi vào Châu Âu."
+      },
+      {
+        "title": "Chặng 5: Hành trình truyền giáo lần thứ ba và Sự dạn dĩ",
+        "scripture": "Công vụ 18:23 - 21:17",
+        "points": [
+          {
+            "order": 17,
+            "coord": [37.9400, 27.3400],
+            "name": "17. Ê-phê-sô",
+            "note": "<strong>Trung tâm quyền năng:</strong> Phao-lô ở lại đây 3 năm. Tin Lành quyền năng đến nỗi những người làm nghề đúc tượng thần Đi-anh phải lo sợ vì mất nghề.",
+            "scripture": "Công vụ 19:1-41"
+          },
+          {
+            "order": 18,
+            "coord": [39.4242, 26.3333],
+            "name": "18. Mi-lê",
+            "note": "<strong>Lời từ biệt cảm động:</strong> Phao-lô triệu tập các trưởng lão Hội thánh Ê-phê-sô đến để dặn bảo lần cuối, vì ông biết mình sẽ không còn gặp lại họ nữa.",
+            "scripture": "Công vụ 20:17-38"
+          },
+          {
+            "order": 19,
+            "coord": [33.2700, 35.1900],
+            "name": "19. Ty-rơ",
+            "note": "<strong>Lời cảnh báo:</strong> Các tín hữu tại đây qua Đức Thánh Linh khuyên Phao-lô đừng lên Giê-ru-sa-lem vì sự nguy hiểm đang chờ đợi, nhưng ông vẫn kiên định.",
+            "scripture": "Công vụ 21:1-6"
+          },
+          {
+            "order": 20,
+            "coord": [31.7760, 35.2350],
+            "name": "20. Giê-ru-sa-lem",
+            "note": "<strong>Sự bắt giữ:</strong> Phao-lô trở về Giê-ru-sa-lem, bị bắt tại đền thờ và bắt đầu chuỗi ngày bị xét xử trước khi bị giải sang La Mã.",
+            "scripture": "Công vụ 21:17-36"
+          }
+        ],
+        "stats": {
+          "distance": "~2.500km hành trình củng cố Hội thánh",
+          "time": "Khoảng năm 53 - 57 SC",
+          "terrain": "Vùng Tiểu Á và ven biển Địa Trung Hải"
+        },
+        "difficulty": "Sự xáo động tại Ê-phê-sô và nỗi đau lòng khi phải từ biệt các anh em để tiến về nơi bị bắt bớ.",
+        "divine_help": "Thánh Linh soi sáng và ban sự can đảm để Phao-lô sẵn sàng chịu khổ vì danh Chúa."
+      },
+      {
+        "title": "Chặng 6: Hành trình sang La Mã và Sự chiến thắng của Tin Lành",
+        "scripture": "Công vụ 21:37 - 28",
+        "points": [
+          {
+            "order": 20.1,
+            "coord": [32.5000, 34.9000],
+            "name": "20.1 Sê-sa-rê (Điểm kết nối)",
+            "note": "<strong>Lý do trì hoãn:</strong> Sau khi bị bắt tại Giê-ru-sa-lem, Phao-lô bị giải đến Sê-sa-rê và bị giam tại đây 2 năm. Ông đã làm chứng trước các quan tổng đốc và vua Ạc-ríp-pa tại đây.",
+            "scripture": "Công vụ 23:23 - 26:32"
+          },
+          {
+            "order": 20.2,
+            "coord": [34.9312, 24.7448],
+            "name": "20.2 Cảng Gió Tốt (Đảo Cơ-rê-ti)",
+            "note": "<strong>Khởi đầu giông bão:</strong> Trên đường sang La Mã, tàu dừng tại đây. Phao-lô đã cảnh báo không nên tiếp tục đi vì thời tiết xấu, nhưng thủy thủ đoàn không nghe theo, dẫn đến trận bão kinh hoàng.",
+            "scripture": "Công vụ 27:7-12"
+          },
+          {
+            "order": 21,
+            "coord": [35.9175, 14.4375],
+            "name": "21. Đảo Man-tơ (Malta)",
+            "note": "<strong>Sống sót sau cơn bão:</strong> Tàu bị đắm hoàn toàn sau 14 ngày bão táp. Mọi người bơi vào bờ an toàn đúng như lời thiên sứ đã phán cùng Phao-lô.",
+            "scripture": "Công vụ 28:1-10"
+          },
+          {
+            "order": 22,
+            "coord": [41.8902, 12.4922],
+            "name": "22. Thủ đô La Mã (Rome)",
+            "note": "<strong>Đích đến cuối cùng:</strong> Phao-lô đến La Mã. Dù bị quản thúc tại gia, ông vẫn tự do giảng dạy về Chúa Giê-su, cho thấy không gì ngăn trở được Tin Lành.",
+            "scripture": "Công vụ 28:16-31"
+          }
+        ],
+        "stats": {
+          "distance": "~3.500km hành trình đầy kịch tính",
+          "time": "Khoảng năm 57 - 62 SC (bao gồm 2 năm bị giam)",
+          "terrain": "Từ nhà tù đất liền đến giữa đại dương giông bão"
+        },
+        "difficulty": "2 năm bị giam cầm bất công và trận bão biển kinh khủng thử thách đức tin.",
+        "divine_help": "Chúa hiện ra khích lệ: 'Hãy can đảm, ngươi cũng sẽ làm chứng cho ta tại La Mã nữa'."
+      }
+  ],
   "Hành Trình Truyền Giáo": [
     {
       "title": "Phao-lô: Hành trình truyền giáo thứ hai",
