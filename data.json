@@ -2218,6 +2218,112 @@
       "divine_help": "Chúa bảo vệ mạng sống Giê-rê-mi và ban cho ông khải tượng về một tương lai tươi sáng sau 70 năm lưu đày."
     }
   ],
+  "CA THƯƠNG - CÁC SÁCH TIÊN TRI": [
+    {
+      "title": "Chặng 1: Bài ca bên đống đổ nát và Lòng trông cậy",
+      "scripture": "Ca Thương 1 - 5",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.7767, 35.2333],
+          "name": "1. Trên vách thành đổ nát / Jerusalem",
+          "note": "<strong>Thành phố cô độc:</strong> <strong>Giê-rê-mi</strong> khóc thương cho thành Giê-ru-sa-lem từng đông đúc nay trở nên góa bụa. Ông nhìn thấy trẻ con đói khát và các vị vua chúa bị bắt làm phu tù. Nỗi đau lớn đến mức ông ví nó 'sâu như biển'.",
+          "scripture": "Ca Thương 1 - 2"
+        },
+        {
+          "order": 2,
+          "coord": [31.7781, 35.2361],
+          "name": "2. Đống tro tàn của Đền Thờ",
+          "note": "<strong>Hy vọng trong bóng tối:</strong> Giữa tiếng than van, một lời khẳng định đức tin vang lên: 'Ấy là nhờ sự thương xót của <strong>Đức Giê-hô-va</strong> mà chúng ta chưa diệt vong... Sự thành tín Ngài là lớn lắm!'. Đây là điểm tựa duy nhất của ông lúc này.",
+          "scripture": "Ca Thương 3:22-23"
+        },
+        {
+          "order": 3,
+          "coord": [31.7750, 35.2350],
+          "name": "3. Lời cầu nguyện cuối cùng",
+          "note": "<strong>Lời kêu cầu phục hồi:</strong> Sách kết thúc bằng một lời cầu nguyện thống thiết: 'Hỡi <strong>Đức Giê-hô-va</strong>, xin hãy làm cho chúng tôi trở về cùng Ngài... Hãy làm mới lại những ngày của chúng tôi như thuở xưa'.",
+          "scripture": "Ca Thương 5"
+        }
+      ],
+      "stats": {
+        "distance": "Tâm điểm là sự hoang tàn của Thủ đô",
+        "time": "Khoảng năm 586 TC (Ngay sau khi thành mất)",
+        "terrain": "Gạch đá vụn, khói bụi và sự vắng lặng của một kinh đô từng sầm uất"
+      },
+      "difficulty": "Nỗi tuyệt vọng tột cùng và mặc cảm tội lỗi của cả dân tộc.",
+      "divine_help": "Chúa bày tỏ lòng thương xót mỗi buổi sáng và sự thành tín của Ngài không bao giờ dứt dù trong hoạn nạn."
+    }
+  ],
+  "Ê-XÊ-CHI-ÊN - CÁC SÁCH TIÊN TRI": [
+    {
+      "title": "Chặng 1: Những khải tượng bên dòng sông Kê-ba",
+      "scripture": "Ê-xê-chi-ên 1 - 32",
+      "points": [
+        {
+          "order": 1,
+          "coord": [32.4167, 44.4167],
+          "name": "1. Sông Kê-ba / Chebar River (Ba-by-lôn)",
+          "note": "<strong>Bánh xe vinh hiển:</strong> <strong>Ê-xê-chi-ên (Ezekiel)</strong> thấy trời mở ra và hiện ra những sinh vật kỳ lạ cùng những bánh xe đầy mắt di chuyển theo mọi hướng. Giữa những bánh xe là vinh hiển chói lòa của <strong>Đức Giê-hô-va</strong>. Chúa gọi ông làm 'người canh thức' cho nhà Y-sơ-ra-ên.",
+          "scripture": "Ê-xê-chi-ên 1 - 3"
+        },
+        {
+          "order": 2,
+          "coord": [32.4170, 44.4170],
+          "name": "2. Nơi lưu đày của dân Giu-đa",
+          "note": "<strong>Bài học từ những hành động:</strong> Chúa bảo Ê-xê-chi-ên thực hiện những việc lạ lùng: nằm nghiêng một bên suốt 390 ngày, vẽ thành Giê-ru-sa-lem trên một viên gạch để làm điềm báo về sự vây hãm. Ông trở thành một 'bảng hiệu' sống động cho sứ điệp của Chúa.",
+          "scripture": "Ê-xê-chi-ên 4 - 5"
+        },
+        {
+          "order": 3,
+          "coord": [31.7781, 35.2361],
+          "name": "3. Đền Thờ Giê-ru-sa-lem (Trong khải tượng)",
+          "note": "<strong>Vinh hiển lìa bỏ Đền Thờ:</strong> Trong tâm linh, Ê-xê-chi-ên được đưa về Giê-ru-sa-lem. Ông đau đớn thấy vinh hiển của Chúa từ từ rời khỏi Đền Thờ vì sự thờ thần tượng của dân sự. Đây là lời cảnh báo cuối cùng trước khi thành phố sụp đổ.",
+          "scripture": "Ê-xê-chi-ên 8 - 11"
+        }
+      ],
+      "stats": {
+        "distance": "Khoảng 1.500 km từ Giê-ru-sa-lem đến Ba-by-lôn",
+        "time": "Khoảng năm 593 TC - 571 TC",
+        "terrain": "Vùng đồng bằng phù sa màu mỡ nhưng là nơi đất khách quê người"
+      },
+      "difficulty": "Phải truyền đạt những linh tượng siêu thực cho một dân tộc đang mất phương hướng.",
+      "divine_help": "Chúa ban cho ông những khải tượng rõ ràng để chứng minh Ngài vẫn hiện diện ngay cả khi dân sự đang ở nơi lưu đày."
+    },
+    {
+      "title": "Chặng 2: Trũng hài cốt khô và Khải tượng Đền Thờ mới",
+      "scripture": "Ê-xê-chi-ên 33 - 48",
+      "points": [
+        {
+          "order": 4,
+          "coord": [32.5000, 44.5000],
+          "name": "4. Trũng hài cốt khô / Valley of Dry Bones",
+          "note": "<strong>Sự phục sinh của một dân tộc:</strong> Chúa đưa <strong>Ê-xê-chi-ên</strong> đến một trũng đầy xương khô. Khi ông nói tiên tri theo lệnh Chúa, các xương hiệp lại, gân và thịt mọc lên, và sinh khí vào trong chúng tạo thành một quân đội cực lớn. Đây là lời hứa về sự phục hưng dân tộc <strong>Y-sơ-ra-ên</strong>.",
+          "scripture": "Ê-xê-chi-ên 37"
+        },
+        {
+          "order": 5,
+          "coord": [31.7781, 35.2361],
+          "name": "5. Núi Thánh / Đền Thờ Mới",
+          "note": "<strong>Khải tượng Đền Thờ vĩ đại:</strong> Chúa đưa ông về một ngọn núi cao và chỉ cho thấy bản thiết kế chi tiết của một Đền Thờ mới rực rỡ. Vinh hiển của <strong>Đức Giê-hô-va</strong> trở lại lấp đầy nhà Ngài, báo hiệu sự hiện diện vĩnh cửu của Chúa giữa dân sự.",
+          "scripture": "Ê-xê-chi-ên 40 - 43"
+        },
+        {
+          "order": 6,
+          "coord": [31.7770, 35.2370],
+          "name": "6. Dòng sông sự sống",
+          "note": "<strong>Dòng nước chữa lành:</strong> Từ dưới ngưỡng cửa Đền Thờ, một dòng nước chảy ra, càng đi càng sâu và rộng. Dòng nước này chảy đến đâu, sự sống và sự chữa lành hiện ra đến đó, làm cho ngay cả Biển Chết cũng trở nên ngọt ngào.",
+          "scripture": "Ê-xê-chi-ên 47"
+        }
+      ],
+      "stats": {
+        "distance": "Hành trình tâm linh từ trũng chết chóc đến nguồn sống tràn trề",
+        "time": "Năm thứ 25 sau khi bị lưu đày (Khoảng 573 TC)",
+        "terrain": "Từ sa mạc xương khô đến Đền Thờ trên núi thánh"
+      },
+      "difficulty": "Vượt qua sự tuyệt vọng của dân sự khi họ nghĩ rằng mình đã 'khô héo và mất hy vọng'.",
+      "divine_help": "Thần của Chúa ban sinh khí cho những điều đã chết và hứa rằng: 'Ta là Đức Giê-hô-va đã phán và sẽ làm thành'."
+    }
+  ],
   "Thời Kỳ Các Quan Xét": [
     {
       "title": "Giô-suê: Chinh phục Đất Hứa",
