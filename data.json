@@ -1,15 +1,20 @@
 {
-  "sang_the_ky": [
+  "Sáng Thế Ký": [
     {
       "title": "Áp-ra-ham: Tiếng gọi từ U-rơ đến Ca-na-an",
       "scripture": "Sáng thế ký 11:31 - 12:9",
       "points": [
-        {"coord": [31.03, 45.85], "name": "U-rơ", "note": "Nơi Áp-ram nhận tiếng gọi đầu tiên.", "scripture": "Sáng thế ký 11:31"},
-        {"coord": [36.58, 38.94], "name": "Cha-ran", "note": "Trạm dừng chân, cha ông là Tha-rê qua đời tại đây.", "scripture": "Sáng thế ký 11:32"},
-        {"coord": [32.22, 35.25], "name": "Si-chem", "note": "Nơi Chúa hiện ra và hứa ban xứ này cho dòng dõi ông.", "scripture": "Sáng thế ký 12:6-7"},
-        {"coord": [31.92, 35.23], "name": "Bê-tên", "note": "Lập bàn thờ cho Đức Giê-hô-va.", "scripture": "Sáng thế ký 12:8"},
-        {"coord": [30.04, 31.23], "name": "Ai Cập", "note": "Lánh nạn đói, kinh nghiệm sự bảo vệ của Chúa trước Pha-ra-ôn.", "scripture": "Sáng thế ký 12:10-20"},
-        {"coord": [31.52, 35.09], "name": "Hếp-rôn", "note": "Định cư tại lùm cây dẻ bộp Mam-rê.", "scripture": "Sáng thế ký 13:18"}
+        { "coord": [31.03, 45.85], "name": "U-rơ", "note": "Nơi Áp-ram nhận tiếng gọi đầu tiên.", "scripture": "Sáng thế ký 11:31" },
+        { 
+          "coord": [36.58, 38.94], 
+          "name": "Cha-ran (Haran)", 
+          "note": "<strong>Giao lộ định mệnh của các Tổ phụ:</strong><br><br>• <strong>Với Áp-ra-ham:</strong> Nơi dừng chân sau khi rời U-rơ. Tại đây, sau khi cha ông qua đời, ông nhận tiếng gọi dứt khoát để tiến vào Ca-na-an (STK 12).<br>• <strong>Với Gia-cốp:</strong> Nơi ông phục vụ La-ban 20 năm và hình thành nên 12 chi tộc.<br><br><em>Ý nghĩa: Nơi kết thúc hành trình cũ để bắt đầu lời hứa mới.</em>", 
+          "scripture": "Sáng thế ký 11:31-32" 
+        },
+        { "coord": [32.22, 35.25], "name": "Si-chem", "note": "Nơi Chúa hiện ra và hứa ban xứ này cho dòng dõi ông.", "scripture": "Sáng thế ký 12:6-7" },
+        { "coord": [31.92, 35.23], "name": "Bê-tên", "note": "Lập bàn thờ cho Đức Giê-hô-va.", "scripture": "Sáng thế ký 12:8" },
+        { "coord": [30.04, 31.23], "name": "Ai Cập", "note": "Lánh nạn đói, kinh nghiệm sự bảo vệ của Chúa trước Pha-ra-ôn.", "scripture": "Sáng thế ký 12:10-20" },
+        { "coord": [31.52, 35.09], "name": "Hếp-rôn", "note": "Định cư tại lùm cây dẻ bộp Mam-rê.", "scripture": "Sáng thế ký 13:18" }
       ],
       "stats": { "distance": "~2,500km", "time": "Nhiều năm di chuyển", "terrain": "Lưỡi liềm màu mỡ" },
       "difficulty": "Rời bỏ gia đình, đối mặt với nạn đói và sự chia rẽ với Lót.",
@@ -19,17 +24,22 @@
       "title": "Gia-cốp: Chạy trốn và Vật lộn",
       "scripture": "Sáng thế ký 28 - 33",
       "points": [
-        {"coord": [31.43, 34.98], "name": "Bê-e-sê-ba", "note": "Chạy trốn sau khi lấy phước lành.", "scripture": "Sáng thế ký 28:10"},
-        {"coord": [31.93, 35.23], "name": "Bê-tên", "note": "Giấc mơ về cái thang bắc lên tận trời.", "scripture": "Sáng thế ký 28:12"},
-        {"coord": [36.58, 38.94], "name": "Cha-ran", "note": "Phục vụ La-ban trong 20 năm.", "scripture": "Sáng thế ký 29:1-30"},
-        {"coord": [32.33, 35.55], "name": "Phê-nu-ên", "note": "Vật lộn với Thiên sứ; được đổi tên thành Y-sơ-ra-ên.", "scripture": "Sáng thế ký 32:24-28"}
+        { "coord": [31.43, 34.98], "name": "Bê-e-sê-ba", "note": "Chạy trốn sau khi lấy phước lành.", "scripture": "Sáng thế ký 28:10" },
+        { "coord": [31.93, 35.23], "name": "Bê-tên", "note": "Giấc mơ về cái thang bắc lên tận trời.", "scripture": "Sáng thế ký 28:12" },
+        { 
+          "coord": [36.58, 38.94], 
+          "name": "Cha-ran (Haran)", 
+          "note": "<strong>Giao lộ định mệnh của các Tổ phụ:</strong><br><br>• <strong>Với Gia-cốp:</strong> Nơi ông phục vụ La-ban 20 năm, gặp gỡ Ra-chên và Lê-a, và là nơi 12 chi tộc Ís-ra-ên bắt đầu hình thành (STK 29).<br>• <strong>Với Áp-ra-ham:</strong> Tổ phụ ông cũng từng dừng chân tại đây để nhận tiếng gọi của Chúa.<br><br><em>Ý nghĩa: Cha-ran đại diện cho sự chuẩn bị và kiên nhẫn trước khi nhận lãnh lời hứa vĩ đại.</em>", 
+          "scripture": "Sáng thế ký 29:1-30" 
+        },
+        { "coord": [32.33, 35.55], "name": "Phê-nu-ên", "note": "Vật lộn với Thiên sứ; được đổi tên thành Y-sơ-ra-ên.", "scripture": "Sáng thế ký 32:24-28" }
       ],
       "stats": { "distance": "~1,600km", "time": "20 năm phục vụ", "terrain": "Vùng cao nguyên và thung lũng" },
       "difficulty": "Sự lừa dối của La-ban và nỗi sợ hãi khi gặp lại Ê-sau.",
       "divine_help": "Chúa bảo vệ khỏi La-ban và biến đổi tấm lòng của Ê-sau."
     }
   ],
-  "xuat_e_dip_to": [
+  "Xuất Ê-díp-tô Ký": [
     {
       "title": "Môi-se: Từ Ai Cập đến Núi Si-na-i",
       "scripture": "Xuất Ê-díp-tô ký 12 - 19",
@@ -44,7 +54,7 @@
       "divine_help": "Trụ mây, trụ lửa dẫn đường và bánh Ma-na từ trời."
     }
   ],
-  "cac_quan_xet": [
+  "Thời Kỳ Các Quan Xét": [
     {
       "title": "Giô-suê: Chinh phục Đất Hứa",
       "scripture": "Sách Giô-suê",
@@ -69,7 +79,7 @@
       "divine_help": "Thánh Linh Chúa ban sức mạnh phi thường để giải cứu dân sự."
     }
   ],
-  "thanh_lap_vuong_quoc": [
+  "Thiết Lập Vương Quốc": [
     {
       "title": "Vua Đa-vít: Từ cậu bé chăn chiên đến ngôi vua",
       "scripture": "1 Sa-mu-ên 16 - 2 Sa-mu-ên 5",
@@ -84,7 +94,7 @@
       "divine_help": "Chúa bảo vệ và ban lời hứa về vương triều đời đời."
     }
   ],
-  "vuong_quoc_chia_doi": [
+  "Vương Quốc Chia Đôi": [
     {
       "title": "Sự chia cắt: Rô-bô-am và Giê-rô-bô-am",
       "scripture": "1 Các Vua 12",
@@ -98,7 +108,7 @@
       "divine_help": "Các tiên tri kêu gọi dân sự ăn năn."
     }
   ],
-  "thoi_ky_tien_tri": [
+  "Thời Kỳ Các Tiên Tri": [
     {
       "title": "Giô-na: Trốn chạy và Ăn năn",
       "scripture": "Sách Giô-na",
@@ -111,7 +121,7 @@
       "divine_help": "Chúa sắm sẵn con cá lớn và bảo vệ Giô-na để hoàn thành sứ mạng."
     }
   ],
-  "thoi_ky_luu_day": [
+  "Thời Kỳ Lưu Đầy & Trở Về": [
     {
       "title": "Nê-hê-mi: Trở về tái thiết Giê-ru-sa-lem",
       "scripture": "Sách Nê-hê-mi",
@@ -124,7 +134,155 @@
       "divine_help": "Chúa ban ơn trước mặt vua Ba Tư."
     }
   ],
-  "hanh_trinh_phao_lo": [
+  "Ma-thi-ơ": [
+    {
+      "title": "Chúa Giáng Sinh và Hành trình lánh nạn",
+      "scripture": "Ma-thi-ơ 1 - 2",
+      "points": [
+        { 
+          "coord": [31.70, 35.20], 
+          "name": "Bết-lê-hem", 
+          "note": "<strong>Nơi Ngôi Hai Giáng Thế:</strong> Các bác sĩ từ phương Đông đã đến đây thờ lạy Chúa.", 
+          "scripture": "Ma-thi-ơ 2:1" 
+        },
+        { 
+          "coord": [30.04, 31.23], 
+          "name": "Ai Cập", 
+          "note": "Giô-sép đưa Ma-ri và con trẻ chạy trốn khỏi sự tàn sát của vua Hê-rốt.", 
+          "scripture": "Ma-thi-ơ 2:14" 
+        },
+        { 
+          "coord": [32.70, 35.30], 
+          "name": "Na-xa-rét", 
+          "note": "Gia đình Chúa trở về và định cư sau khi vua Hê-rốt qua đời.", 
+          "scripture": "Ma-thi-ơ 2:23" 
+        }
+      ],
+      "stats": { "distance": "~600km", "time": "Vài năm", "terrain": "Đường bộ sang Ai Cập" },
+      "difficulty": "Sự truy sát của vua Hê-rốt và hành trình vất vả giữa đêm khuya.",
+      "divine_help": "Thiên sứ báo mộng cho Giô-sép để bảo vệ con trẻ."
+    },
+        {
+      "title": "Chúa chịu phép Báp-tít và chịu Cám dỗ",
+      "scripture": "Ma-thi-ơ 3 - 4",
+      "points": [
+        { 
+          "coord": [31.84, 35.54], 
+          "name": "Sông Giô-đanh (Bethany beyond Jordan)", 
+          "note": "<strong>Sự xác nhận từ Trời:</strong> Chúa chịu phép Báp-tít bởi Giăng. Thánh Linh ngự xuống như chim bồ câu.", 
+          "scripture": "Ma-thi-ơ 3:13-17" 
+        },
+        { 
+          "coord": [31.83, 35.40], 
+          "name": "Đồng vắng Giu-đê", 
+          "note": "Chúa kiêng ăn 40 ngày đêm và chiến thắng ba sự cám dỗ của Ma quỷ.", 
+          "scripture": "Ma-thi-ơ 4:1-11" 
+        },
+        { 
+          "coord": [32.89, 35.55], 
+          "name": "Ca-phê-na-um", 
+          "note": "Chúa dời đến đây định cư, ứng nghiệm lời tiên tri về 'ánh sáng lớn' cho dân ngoại.", 
+          "scripture": "Ma-thi-ơ 4:13-16" 
+        }
+      ],
+      "stats": { "distance": "~150km", "time": "Khoảng vài tháng", "terrain": "Thung lũng sông và hoang mạc" },
+      "difficulty": "Đối diện với sự đói khát và sự tấn công trực tiếp từ kẻ thù tâm linh.",
+      "divine_help": "Thánh Linh dẫn dắt và các thiên sứ đến hầu việc Ngài sau cơn cám dỗ."
+    },
+        {
+      "title": "Chặng 3: Chức vụ quyền năng tại Ga-li-lê",
+      "scripture": "Ma-thi-ơ 5 - 15",
+      "points": [
+        { 
+          "coord": [32.8805, 35.5486], 
+          "name": "Núi Bát Phúc", 
+          "note": "<strong>Bài giảng trên núi:</strong> Chúa Giê-xu ban bố hiến chương Nước Trời với 8 phước lành đạo đức.", 
+          "scripture": "Ma-thi-ơ 5:1" 
+        },
+        { 
+          "coord": [32.8895, 35.5552], 
+          "name": "Ca-phê-na-um", 
+          "note": "<strong>'Thành của Ngài':</strong> Nơi Chúa chữa lành đầy tớ thầy đội và mẹ vợ Phi-e-rơ.", 
+          "scripture": "Ma-thi-ơ 8:5-15" 
+        },
+        { 
+          "coord": [32.82, 35.58], 
+          "name": "Biển Ga-li-lê", 
+          "note": "Chúa đi bộ trên mặt biển và cứu Phi-e-rơ khi ông đang chìm.", 
+          "scripture": "Ma-thi-ơ 14:25-31" 
+        },
+        { 
+          "coord": [32.7214, 35.5724], 
+          "name": "Vùng Ga-đa-ra", 
+          "note": "Chúa giải cứu hai người bị quân quỷ ám khốc liệt.", 
+          "scripture": "Ma-thi-ơ 8:28" 
+        },
+        { 
+          "coord": [33.2700, 35.2000], 
+          "name": "Ty-rơ và Xi-đôn", 
+          "note": "Hành trình ra vùng biên giới; Ngài khen ngợi đức tin của người phụ nữ Ca-na-an.", 
+          "scripture": "Ma-thi-ơ 15:21" 
+        }
+      ],
+      "stats": { 
+        "distance": "Di chuyển đan xen vùng Ga-li-lê", 
+        "time": "Khoảng 1.5 - 2 năm", 
+        "terrain": "Vùng hồ, núi thấp và duyên hải" 
+      },
+      "difficulty": "Gia tăng sự chống đối từ giới lãnh đạo tôn giáo và sự hiểu lầm của dân chúng về Nước Trời.",
+      "divine_help": "Phép lạ hóa bánh cho 5,000 người và chữa lành mọi bệnh tật cho đoàn dân đông."
+  },
+  {
+      "title": "Chặng 4: Cuộc Khổ nạn và Sự Phục sinh khải hoàn",
+      "scripture": "Ma-thi-ơ 16 - 28",
+      "points": [
+        { 
+          "order": 1,
+          "coord": [33.2464, 35.7483], 
+          "name": "Sê-sa-rê Phi-líp", 
+          "note": "<strong>Lời xưng nhận đức tin:</strong> Phi-e-rơ xưng nhận Chúa Giê-xu là Đấng Christ. Chúa bắt đầu báo trước về sự thương khó.", 
+          "scripture": "Ma-thi-ơ 16:13-21" 
+        },
+        { 
+          "order": 2,
+          "coord": [31.85, 35.46], 
+          "name": "Giê-ri-cô", 
+          "note": "Chúa chữa lành cho hai người mù bên đường khi Ngài đang trên đường lên Giê-ru-sa-lem.", 
+          "scripture": "Ma-thi-ơ 20:29" 
+        },
+        { 
+          "order": 3,
+          "coord": [31.7766, 35.2358], 
+          "name": "Vườn Ghết-sê-ma-nê", 
+          "note": "<strong>Sự vâng phục tuyệt đối:</strong> Chúa cầu nguyện thống thiết trước khi bị phản bội và bắt giữ.", 
+          "scripture": "Ma-thi-ơ 26:36" 
+        },
+        { 
+          "order": 4,
+          "coord": [31.7781, 35.2298], 
+          "name": "Đồi Gô-gô-tha", 
+          "note": "<strong>Sự hy sinh cứu chuộc:</strong> Chúa chịu đóng đinh trên thập tự giá để đền tội cho nhân loại.", 
+          "scripture": "Ma-thi-ơ 27:33-50" 
+        },
+        { 
+          "order": 5,
+          "coord": [31.7744, 35.2444], 
+          "name": "Núi Ô-liu", 
+          "note": "<strong>Đại mạng lệnh:</strong> Chúa phục sinh hiện ra và truyền lệnh cho các môn đồ đi khắp thế gian giảng Tin Lành.", 
+          "scripture": "Ma-thi-ơ 28:16-20" 
+        }
+      ],
+      "stats": { 
+        "distance": "~150km từ phía Bắc về thủ đô", 
+        "time": "Tuần lễ cuối cùng (Tuần thánh)", 
+        "terrain": "Vùng núi Giu-đê và thành Giê-ru-sa-lem" 
+      },
+      "difficulty": "Sự phản bội của học trò, sự xét xử bất công và cái chết đau đớn.",
+      "divine_help": "Sự phục sinh khải hoàn, chiến thắng sự chết sau ba ngày trong mộ đá."
+}
+  ],
+  
+  "Hành Trình Truyền Giáo": [
     {
       "title": "Phao-lô: Hành trình truyền giáo thứ hai",
       "scripture": "Công vụ 15:36 - 18:22",
