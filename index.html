@@ -29,7 +29,7 @@
             .control-panel {
                 width: calc(100% - 40px);
                 top: auto; bottom: 20px; left: 10px;
-                max-height: 40vh;
+                max-height: 45vh;
             }
         }
 
@@ -42,20 +42,62 @@
             margin-top: 15px; padding: 15px; background: var(--bg-paper); 
             border: 1px solid #d4a373; display: none; border-radius: 8px;
             box-shadow: inset 0 0 10px rgba(0,0,0,0.05);
+            line-height: 1.6; 
+            max-height: 400px; 
+            overflow-y: auto; 
         }
 
-        /* NHÃN ĐỊA DANH */
+        /* FIX: Hiệu ứng nhấp nháy tại chỗ mạnh hơn để dễ nhận diện */
+        @keyframes pulse-marker {
+            0% { 
+                stroke-width: 2; 
+                stroke-opacity: 1; 
+            }
+            50% { 
+                stroke-width: 25; /* Tăng độ dày viền lớn hơn để tạo quầng lan tỏa */
+                stroke-opacity: 0.4; 
+            }
+            100% { 
+                stroke-width: 2; 
+                stroke-opacity: 1; 
+            }
+        }
+
+        .active-marker {
+            animation: pulse-marker 1s infinite ease-in-out; /* Tốc độ nhanh hơn một chút để gây chú ý */
+            stroke: #ff5722 !important; 
+            fill-opacity: 1 !important;
+            z-index: 1000 !important; /* Đảm bảo điểm đang chọn luôn nằm trên cùng */
+        }
+
+        /* Style cho danh sách lộ trình */
+        .path-step {
+            padding: 8px;
+            margin: 5px 0;
+            background: #fff;
+            border: 1px solid #eee;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: 0.2s;
+            font-size: 0.9em;
+        }
+        .path-step:hover { background: #fdf5e6; border-color: var(--accent-gold); }
+
         .location-label {
             background: rgba(255, 255, 255, 0.9); border: 1px solid var(--primary-brown);
             border-radius: 4px; padding: 2px 6px; font-weight: bold;
             color: var(--primary-brown); font-size: 10px; white-space: nowrap;
         }
 
-        /* TỰ ĐỘNG ĐỔI MÀU NHÃN KHI SANG BẢN ĐỒ CỔ */
         .sepia-map-active .location-label {
             background: rgba(92, 64, 51, 0.9) !important;
             color: #f5ebe0 !important;
             border: 1px solid #d4a373 !important;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(5px); }
+            to { opacity: 1; transform: translateY(0); }
         }
     </style>
 </head>
@@ -75,7 +117,6 @@
     <script src="https://cdn.jsdelivr.net/npm/leaflet-ant-path@1.3.0/dist/leaflet-ant-path.min.js"></script>
 
     <script>
-        // 1. Định nghĩa các lớp bản đồ
         const hienDai = L.tileLayer('https://mt1.google.com/vt/lyrs=y&hl=vi&x={x}&y={y}&z={z}', {
             attribution: 'Google Maps Hiện đại'
         });
@@ -85,7 +126,6 @@
             className: 'sepia-map'
         });
 
-        // 2. Khởi tạo bản đồ
         const map = L.map('map', {
             center: [32.0, 35.0],
             zoom: 6,
@@ -93,17 +133,14 @@
             zoomControl: false
         });
 
-        // 3. Layer Control
-        const baseMaps = {
+        L.control.layers({
             "Bản đồ Hiện đại (Đầy đủ)": hienDai,
             "Bản đồ Cổ (Địa danh Kinh Thánh)": coXua
-        };
-        L.control.layers(baseMaps, null, { position: 'topleft' }).addTo(map);
+        }, null, { position: 'topleft' }).addTo(map);
 
         let bibleData = {};
         let currentLayer = L.layerGroup().addTo(map);
 
-        // Theo dõi thay đổi lớp để đổi màu nhãn địa danh
         map.on('baselayerchange', function(e) {
             const mapContainer = document.getElementById('map');
             if (e.name === "Bản đồ Cổ (Địa danh Kinh Thánh)") {
@@ -142,45 +179,68 @@
             const data = bibleData[book][index];
             currentLayer.clearLayers();
             const bibleContent = document.getElementById('bibleContent');
-            
+            const markers = []; 
+
             bibleContent.style.display = 'block';
+            let stepsHtml = data.points.map((p, i) => 
+                `<div class="path-step" onclick="focusPoint(${i})"><strong>${i+1}.</strong> ${p.name}</div>`
+            ).join('');
+
             bibleContent.innerHTML = `
                 <div style="border-bottom: 2px solid var(--primary-brown); margin-bottom: 10px; padding-bottom: 5px;">
                     <strong style="color: var(--primary-brown);">${data.title}</strong>
                 </div>
-                <div style="font-size: 0.85em; line-height: 1.5;">
-                    <p>📜 <i>${data.historical_context || "Bối cảnh đang cập nhật..."}</i></p>
-                    <p style="color: #2e7d32;">🌟 <b>Giá trị:</b> ${data.spiritual_core || "Đang cập nhật..."}</p>
-                    <div style="background: #efebe9; padding: 8px; border-radius: 5px; margin-top: 5px;">
+                <div style="font-size: 0.85em;">
+                    <p style="margin:5px 0">📍 <strong>Lộ trình:</strong></p>
+                    <div style="margin-bottom:10px">${stepsHtml}</div>
+                    <div style="background: #efebe9; padding: 8px; border-radius: 5px;">
                         📏 ${data.stats?.distance || "N/A"} | ⏳ ${data.stats?.time || "N/A"}
                     </div>
                 </div>
             `;
 
-            const coords = data.points.map(p => p.coord);
-
-            data.points.forEach((p) => {
+            data.points.forEach((p, i) => {
                 const marker = L.circleMarker(p.coord, { 
-                    radius: 9, color: 'white', weight: 2, fillColor: '#d84315', fillOpacity: 1 
+                    radius: 8, color: 'white', weight: 2, fillColor: '#d84315', fillOpacity: 1
                 }).addTo(currentLayer);
 
                 marker.bindTooltip(p.name, { 
                     permanent: true, direction: 'top', className: 'location-label', offset: [0, -10] 
                 });
 
-                marker.on('click', function() {
-                    bibleContent.innerHTML = `
-                        <div style="animation: fadeIn 0.3s;">
-                            <h4 style="color:#d84315; margin: 0 0 5px 0;">📍 ${p.name}</h4>
-                            <p style="font-size: 0.9em; margin: 5px 0;">${p.note}</p>
-                            <div style="background:#fff; border-left: 4px solid var(--accent-gold); padding: 5px 10px; font-size: 0.85em;">
-                                📖 <b>Kinh Thánh:</b> ${p.scripture}
-                            </div>
-                        </div>
-                    `;
-                });
+                markers.push(marker);
+                marker.on('click', function() { focusPoint(i); });
             });
 
+            window.focusPoint = function(idx) {
+                const p = data.points[idx];
+                const targetMarker = markers[idx];
+
+                markers.forEach(m => {
+                    if (m._path) L.DomUtil.removeClass(m._path, 'active-marker');
+                });
+                
+                if (targetMarker._path) L.DomUtil.addClass(targetMarker._path, 'active-marker');
+
+                map.panTo(p.coord);
+
+                const detailHtml = `
+                    <div style="animation: fadeIn 0.3s;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #d4a373; margin-bottom: 10px;">
+                            <h4 style="color:#d84315; margin: 0;">📍 ${p.name}</h4>
+                            <button onclick="document.getElementById('viewJourney').click()" style="background:none; border:none; cursor:pointer; font-size: 14px; color:#d84315;">↩ Quay lại</button>
+                        </div>
+                        <div style="font-size: 0.92em; margin: 10px 0; color: #333;">${p.note}</div>
+                        <div style="background:#fdf5e6; border-left: 4px solid var(--accent-gold); padding: 10px; font-size: 0.85em; border-radius: 4px;">
+                            📖 <strong>Kinh Thánh:</strong> ${p.scripture}
+                        </div>
+                    </div>
+                `;
+                bibleContent.innerHTML = detailHtml;
+                bibleContent.scrollTop = 0;
+            };
+
+            const coords = data.points.map(p => p.coord);
             const path = new L.Polyline.AntPath(coords, { delay: 1000, weight: 4, color: "#d84315" });
             path.addTo(currentLayer);
             map.fitBounds(path.getBounds(), { padding: [50, 50] });
