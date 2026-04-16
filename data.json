@@ -2324,6 +2324,610 @@
       "divine_help": "Thần của Chúa ban sinh khí cho những điều đã chết và hứa rằng: 'Ta là Đức Giê-hô-va đã phán và sẽ làm thành'."
     }
   ],
+  "ĐA NI ÊN - CÁC SÁCH TIÊN TRI": [
+    {
+      "title": "Chặng 1: Những chiến thắng của đức tin nơi đất khách",
+      "scripture": "Đa-ni-ên 1 - 6",
+      "points": [
+        {
+          "order": 1,
+          "coord": [32.4924, 44.4516],
+          "name": "1. Cung điện Ba-by-lôn / Babylon",
+          "note": "<strong>Lòng trung kiên của tuổi trẻ:</strong> <strong>Đa-ni-ên (Daniel)</strong> và ba bạn quyết không ăn đồ ngon của vua để giữ sự thanh sạch. Chúa ban cho họ sự khôn ngoan vượt bậc. Sau đó, Đa-ni-ên đã giải mộng về pho tượng khổng lồ cho vua <strong>Nê-bu-cát-nết-xa</strong>.",
+          "scripture": "Đa-ni-ên 1 - 2"
+        },
+        {
+          "order": 2,
+          "coord": [32.4900, 44.4500],
+          "name": "2. Lò lửa hừng / Ba-by-lôn",
+          "note": "<strong>Bốn người trong lò lửa:</strong> Ba bạn Sát-rắc, Mê-sác và A-bết-nê-gô thà chịu quăng vào lò lửa hừng chứ không thờ lạy tượng vàng. Kỳ lạ thay, vua thấy bốn người đi giữa lửa mà không bị cháy, người thứ tư có hình dạng như con của các thần.",
+          "scripture": "Đa-ni-ên 3"
+        },
+        {
+          "order": 3,
+          "coord": [32.1901, 48.2465],
+          "name": "3. Hang sư tử / Susa (Ba Tư)",
+          "note": "<strong>Sự bảo vệ của Thiên sứ:</strong> Dưới thời vua Đa-ri-út, Đa-ni-ên bị quăng vào hang sư tử vì vẫn cầu nguyện cùng <strong>Đức Chúa Trời</strong>. Sáng hôm sau, ông bước ra bình an vì Chúa đã sai thiên sứ bịt miệng sư tử lại.",
+          "scripture": "Đa-ni-ên 6"
+        }
+      ],
+      "stats": {
+        "distance": "Hành trình từ tuổi trẻ lưu đày đến vị quan đại thần tối cao",
+        "time": "Khoảng năm 605 TC - 536 TC",
+        "terrain": "Những cung điện nguy nga và các hầm ngục tăm tối của các đế quốc"
+      },
+      "difficulty": "Đối diện với cái chết cận kề qua lửa hừng và thú dữ vì không chịu thỏa hiệp đức tin.",
+      "divine_help": "Chúa bày tỏ Ngài là Đấng giải cứu và cầm quyền trên mạng sống của những tôi tớ trung kiên."
+    },
+    {
+      "title": "Chặng 2: Khải tượng về các Đế quốc và Đấng Đời Đời",
+      "scripture": "Đa-ni-ên 7 - 12",
+      "points": [
+        {
+          "order": 4,
+          "coord": [32.4924, 44.4516],
+          "name": "4. Bên bờ biển lớn (Trong khải tượng)",
+          "note": "<strong>Bốn con thú khổng lồ:</strong> <strong>Đa-ni-ên (Daniel)</strong> thấy bốn con thú lớn lên từ biển: sư tử có cánh, gấu, báo bốn cánh và một con thú dữ tợn có sừng sắt. Chúng tượng trưng cho các đế quốc sẽ cai trị thế giới, nhưng cuối cùng đều phải suy tàn.",
+          "scripture": "Đa-ni-ên 7"
+        },
+        {
+          "order": 5,
+          "coord": [32.4950, 44.4600],
+          "name": "5. Trước Ngôi Đấng Đời Đời",
+          "note": "<strong>Con Người đến trên mây trời:</strong> Giữa những biến động của các đế quốc, Đa-ni-ên thấy Ngôi của Đấng Đời Đời chói lòa như lửa. 'Có một người giống như <strong>Con Người</strong> đến với những đám mây trời' và được ban cho quyền cai trị đời đời không bao giờ hết.",
+          "scripture": "Đa-ni-ên 7:13-14"
+        },
+        {
+          "order": 6,
+          "coord": [32.1901, 48.2465],
+          "name": "6. Bên bờ sông Hi-đê-ke / Tigris",
+          "note": "<strong>Sự hiện ra của Thiên sứ:</strong> Đa-ni-ên kiêng ăn và cầu nguyện suốt 21 ngày bên bờ sông. Một thiên sứ oai nghi đã hiện ra để giải nghĩa cho ông về những cuộc chiến tranh trong tương lai và sự đắc thắng cuối cùng của dân sự Chúa.",
+          "scripture": "Đa-ni-ên 10 - 12"
+        }
+      ],
+      "stats": {
+        "distance": "Tầm nhìn vượt qua không gian đến tận ngày sau rốt",
+        "time": "Từ thời Ba-by-lôn đến ngày tận thế",
+        "terrain": "Từ bờ biển gào thét đến những dòng sông thanh tịnh"
+      },
+      "difficulty": "Phải hiểu và giải mã những biểu tượng phức tạp về chính trị và tâm linh của thế giới.",
+      "divine_help": "Chúa phán với Đa-ni-ên: 'Ngươi là người rất được yêu quý' và ban cho ông sự bình an để đón nhận những bí mật thiêng liêng."
+    }
+  ],
+  "Ô-SÊ - 12 TIÊN TRI NHỎ": [
+    {
+      "title": "Chặng 1: Bài học từ một gia đình tan vỡ",
+      "scripture": "Ô-sê 1 - 14",
+      "points": [
+        {
+          "order": 1,
+          "coord": [32.4000, 35.5000],
+          "name": "1. Vương quốc miền Bắc / Y-sơ-ra-ên",
+          "note": "<strong>Cuộc hôn nhân đau khổ:</strong> Theo lệnh Chúa, <strong>Ô-sê (Hosea)</strong> lấy Gô-me làm vợ. Tuy nhiên, nàng đã bội phản và bỏ nhà ra đi. Chúa dùng nỗi đau của Ô-sê để nói với dân sự: 'Ngươi đã bỏ Ta để đi thờ các thần tượng, cũng như Gô-me đã bỏ chồng vậy'.",
+          "scripture": "Ô-sê 1 - 2"
+        },
+        {
+          "order": 2,
+          "coord": [32.4050, 35.5050],
+          "name": "2. Chợ nô lệ / Vương quốc Bắc",
+          "note": "<strong>Chuộc lại người vợ:</strong> Thay vì ruồng bỏ, Chúa bảo Ô-sê đi tìm và chuộc vợ mình về khi nàng đã trở thành nô lệ. Ông đã mua lại nàng bằng bạc và lúa mạch, đưa nàng về nhà và yêu thương nàng lại từ đầu. Đây là hình ảnh <strong>Đức Giê-hô-va</strong> chuộc lại dân Ngài.",
+          "scripture": "Ô-sê 3"
+        },
+        {
+          "order": 3,
+          "coord": [32.3000, 35.0000],
+          "name": "3. Cánh đồng và Vườn nho",
+          "note": "<strong>Lời mời gọi yêu thương:</strong> Ô-sê rao giảng sứ điệp đầy cảm xúc: 'Hãy trở lại cùng Đức Giê-hô-va!'. Chúa hứa sẽ chữa lành sự bội nghịch của họ và yêu thương họ cách rộng rãi như sương sa làm cho hoa huệ nở rộ.",
+          "scripture": "Ô-sê 14"
+        }
+      ],
+      "stats": {
+        "distance": "Hành trình nội tâm và thực tế tại vương quốc miền Bắc",
+        "time": "Khoảng năm 753 TC - 715 TC (Trước khi Bắc vương quốc sụp đổ)",
+        "terrain": "Vùng đất trù phú nhưng đang mục nát về đạo đức"
+      },
+      "difficulty": "Chịu đựng sự nhục nhã và nỗi đau phản bội trong hôn nhân để thực hiện sứ mạng của Chúa.",
+      "divine_help": "Chúa bày tỏ trái tim của một người cha, một người chồng thủy chung: 'Ta không thể từ bỏ ngươi được, hỡi Ép-ra-im!'."
+    },
+    {
+      "title": "Chặng 2: Vinh hiển của Tình yêu Phục hồi",
+      "scripture": "Ô-sê 11 - 14",
+      "points": [
+        {
+          "order": 4,
+          "coord": [32.3000, 35.0000],
+          "name": "4. Cánh đồng và Vườn nho",
+          "note": "<strong>Mưa cuối mùa:</strong> Chúa hứa sẽ phục hồi dân sự khi họ ăn năn. Sứ điệp của <strong>Ô-sê</strong> không còn là lời cảnh báo về cái vạc sôi (như Ê-xê-chi-ên chặng 1), mà là lời mời gọi: 'Hãy trở lại cùng Đức Giê-hô-va'. Chúa hứa sẽ chữa lành sự bội nghịch của họ.",
+          "scripture": "Ô-sê 14:1-4"
+        },
+        {
+          "order": 5,
+          "coord": [32.4050, 35.5050],
+          "name": "5. Nơi chuộc vợ / Vương quốc Bắc",
+          "note": "<strong>Vinh hiển của sự tha thứ:</strong> Ô-sê lặp lại hành động yêu thương của mình: 'Ta sẽ mua lại nàng lại cho Ta... Ta sẽ lập giao ước với nàng mãi mãi'. Hình ảnh này là vinh hiển của <strong>Đức Giê-hô-va</strong>, Đấng không bao giờ từ bỏ dân Ngài.",
+          "scripture": "Ô-sê 3:1-2"
+        },
+        {
+          "order": 6,
+          "coord": [32.4000, 35.5000],
+          "name": "6. Vương quốc miền Bắc",
+          "note": "<strong>Lòng trông cậy phục hưng:</strong> Sách kết thúc với viễn cảnh huy hoàng về một dân tộc được Chúa yêu thương, chữa lành và phục hồi. 'Sự thương xót Ta đã lìa khỏi họ'. Lòng trông cậy này là vinh hiển của Đức Chúa Trời.",
+          "scripture": "Ô-sê 14:8"
+        }
+      ],
+      "stats": {
+        "distance": "Hành trình nội tâm và thực tế tại vương quốc miền Bắc",
+        "time": "Khoảng năm 753 TC - 715 TC (Trước khi Bắc vương quốc sụp đổ)",
+        "terrain": "Vùng đất trù phú nhưng đang mục nát về đạo đức"
+      },
+      "difficulty": "Vượt qua nỗi đau phản bội và sự hiểu lầm của những người cùng khổ.",
+      "divine_help": "Chúa bày tỏ lòng thương xót mỗi buổi sáng và sự thành tín của Ngài không bao giờ dứt dù trong hoạn nạn."
+    }
+  ],
+  "GIÔ-ÊN - 12 TIÊN TRI NHỎ": [
+    {
+      "title": "Chặng: Tiếng kèn báo động và Lời hứa về Thánh Linh",
+      "scripture": "Giô-ên 1 - 3",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.7767, 35.2333],
+          "name": "1. Những cánh đồng quanh Giê-ru-sa-lem",
+          "note": "<strong>Tai vạ đàn cào cào:</strong> <strong>Giô-ên (Joel)</strong> mô tả một đạo quân cào cào chưa từng thấy, chúng ăn sạch cây cối đến mức thân cây trở nên trắng hếu. Đây là hình ảnh báo hiệu cho <strong>'Ngày của Đức Giê-hô-va'</strong> đang đến gần.",
+          "scripture": "Giô-ên 1"
+        },
+        {
+          "order": 2,
+          "coord": [31.7781, 35.2361],
+          "name": "2. Đền Thờ Giê-ru-sa-lem",
+          "note": "<strong>Lời kêu gọi xé lòng:</strong> Giữa cơn khủng hoảng, Chúa phán: 'Hãy xé lòng các ngươi, đừng xé áo mình'. Các thầy tế lễ được lệnh đứng giữa hiên cửa và bàn thờ mà khóc lóc, nài xin sự thương xót của Chúa cho dân sự.",
+          "scripture": "Giô-ên 2:12-17"
+        },
+        {
+          "order": 3,
+          "coord": [31.7750, 35.2350],
+          "name": "3. Thung lũng Giô-sa-phát (Valley of Jehoshaphat)",
+          "note": "<strong>Lời hứa đổ Thánh Linh:</strong> Một lời tiên tri cực kỳ quan trọng: 'Sau đó, Ta sẽ đổ Thần Ta trên mọi xác thịt...'. Chúa hứa sẽ phục hồi mùa màng đã bị cào cào cắn phá và phán xét các dân tộc tại thung lũng quyết định này.",
+          "scripture": "Giô-ên 2:28-32; 3"
+        }
+      ],
+      "stats": {
+        "distance": "Từ những vườn nho bị tàn phá đến tâm điểm Đền Thờ",
+        "time": "Khoảng năm 835 TC (Thời kỳ đầu của vương quốc Giu-đa)",
+        "terrain": "Ruộng đồng khô hạn và những thung lũng bao quanh thành thánh"
+      },
+      "difficulty": "Đối diện với sự mất mát toàn bộ nguồn lương thực và nỗi sợ hãi về sự phán xét của Chúa.",
+      "divine_help": "Chúa hứa sẽ bù đắp lại những năm tháng bị cào cào phá hoại và ban Thần Ngài để dẫn dắt dân sự."
+    }
+  ],
+  "A-MỐT - 12 TIÊN TRI NHỎ": [
+    {
+      "title": "Chặng : Tiếng sư tử gầm và Tiêu chuẩn công lý",
+      "scripture": "A-mốt 1 - 9",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.6433, 35.2158],
+          "name": "1. Tê-cô-a / Tekoa (Giu-đa)",
+          "note": "<strong>Tiếng gọi từ đồng cỏ:</strong> <strong>A-mốt (Amos)</strong> đang chăn bầy thì Chúa gọi. Ông tuyên bố: 'Đức Giê-hô-va từ Si-ôn gầm lên như sư tử'. Ông cảnh báo các dân tộc xung quanh và chính dân Giu-đa về những tội ác không thể dung thứ.",
+          "scripture": "A-mốt 1 - 2"
+        },
+        {
+          "order": 2,
+          "coord": [32.2753, 35.4514],
+          "name": "2. Bê-tên / Bethel (Y-sơ-ra-ên)",
+          "note": "<strong>Dây chuẩn mực giữa đền thờ:</strong> A-mốt đứng tại trung tâm tôn giáo miền Bắc, tố cáo những kẻ 'bán người công chính lấy bạc, bán kẻ nghèo khổ lấy một đôi dép'. Chúa cho ông thấy khải tượng về một cái dây chuẩn mực để đo sự ngay thẳng của dân sự.",
+          "scripture": "A-mốt 5, 7"
+        },
+        {
+          "order": 3,
+          "coord": [32.4000, 35.5000],
+          "name": "3. Lều tạm của Đa-vít được phục hồi",
+          "note": "<strong>Lời hứa về sự phục hưng:</strong> Sách kết thúc không phải bằng sự hủy diệt, mà là lời hứa: 'Ta sẽ dựng lại lều tạm của Đa-vít đã đổ'. Chúa hứa về một tương lai trù phú, nơi người cày sẽ kịp người gặt, và vương quốc được bền vững mãi mãi.",
+          "scripture": "A-mốt 9:11-15"
+        }
+      ],
+      "stats": {
+        "distance": "Hành trình từ miền quê Nam Giu-đa lên phía Bắc Y-sơ-ra-ên",
+        "time": "Khoảng năm 760 TC (Thời vua Ô-xi-a và Giê-rô-bô-am II)",
+        "terrain": "Từ vùng đồi núi khô cằn đến những cung điện xa hoa miền Bắc"
+      },
+      "difficulty": "Một người chăn chiên bình thường phải đối đầu với các thầy tế lễ quyền lực và giới thượng lưu hư hỏng.",
+      "divine_help": "Chúa bày tỏ cho ông những bí mật của Ngài và ban cho ông sự can đảm để nói sự thật trước cường quyền."
+    }
+  ],
+  "ÁP-ĐI-A - 12 TIÊN TRI NHỎ": [
+    {
+      "title": "Chặng: Sự sụp đổ của kẻ kiêu ngạo và Ngày của Chúa",
+      "scripture": "Áp-đi-a 1",
+      "points": [
+        {
+          "order": 1,
+          "coord": [30.3285, 35.4444],
+          "name": "1. Núi Sê-i-rơ (Petra) / Edom",
+          "note": "<strong>Sự kiêu ngạo của lòng:</strong> Dân <strong>Ê-đôm (Edom)</strong> sống trong các hốc đá cao và tự mãn: 'Ai có thể kéo ta xuống đất?'. <strong>Áp-đi-a (Obadiah)</strong> tiên báo rằng dù họ đóng ổ cao như chim ưng, Chúa cũng sẽ kéo họ xuống vì sự hung ác đối với anh em mình (Gia-cốp).",
+          "scripture": "Áp-đi-a 1:1-10"
+        },
+        {
+          "order": 2,
+          "coord": [31.7767, 35.2333],
+          "name": "2. Ngã ba đường / Jerusalem",
+          "note": "<strong>Áp lực bủa vây người sót lại:</strong> Khi dân Giu-đa chạy trốn, dân Ê-đôm đã đứng chặn tại các ngã ba đường để bắt và nộp họ cho quân thù. Chúa phán xét hành động 'dậu đổ bìm leo' này một cách nghiêm khắc.",
+          "scripture": "Áp-đi-a 1:11-15"
+        },
+        {
+          "order": 3,
+          "coord": [31.7781, 35.2361],
+          "name": "3. Núi Si-ôn / Zion",
+          "note": "<strong>Vương quốc thuộc về Chúa:</strong> Sách kết thúc với lời hứa phục hồi: 'Những người giải cứu sẽ lên núi Si-ôn'. Trong khi Ê-đôm bị diệt vong, nhà Gia-cốp sẽ lấy lại cơ nghiệp mình và vương quốc sẽ thuộc về <strong>Đức Giê-hô-va</strong>.",
+          "scripture": "Áp-đi-a 1:17-21"
+        }
+      ],
+      "stats": {
+        "distance": "Từ vùng núi đá đỏ Ê-đôm về lại thành thánh Si-ôn",
+        "time": "Khoảng năm 586 TC (Ngay sau khi Giê-ru-sa-lem sụp đổ)",
+        "terrain": "Địa hình núi đá cao, hẻm vực Petra hiểm trở"
+      },
+      "difficulty": "Đối diện với sự phản bội từ chính những người 'anh em' cùng huyết thống.",
+      "divine_help": "Chúa là Đấng thực thi công lý, Ngài bảo vệ những người thấp hèn và hạ bệ những kẻ kiêu ngạo."
+    }
+  ],
+  "GIÔ-NA - 12 TIÊN TRI NHỎ": [
+    {
+      "title": "Chặng 1: Cuộc trốn chạy và Phép lạ dưới đại dương",
+      "scripture": "Giô-na 1 - 2",
+      "points": [
+        {
+          "order": 1,
+          "coord": [32.0551, 34.7525],
+          "name": "1. Cảng Giốp-pê / Joppa",
+          "note": "<strong>Chạy trốn mặt Chúa:</strong> Thay vì đi về phía Đông đến Ni-ni-vê, <strong>Giô-na (Jonah)</strong> xuống cảng Giốp-pê và lên tàu đi Tác-si (phía Tây ngược lại). Ông muốn chạy trốn khỏi sứ mạng mà Chúa giao phó.",
+          "scripture": "Giô-na 1:1-3"
+        },
+        {
+          "order": 2,
+          "coord": [33.5000, 33.5000],
+          "name": "2. Giữa Biển Lớn (Địa Trung Hải)",
+          "note": "<strong>Áp lực từ bão tố:</strong> Chúa khiến một cơn bão dữ dội bủa vây con tàu. Để cứu các thủy thủ, Giô-na chấp nhận bị quăng xuống biển. Ngay lập tức, Chúa sắm sẵn một con cá lớn nuốt ông vào bụng.",
+          "scripture": "Giô-na 1:4-17"
+        },
+        {
+          "order": 3,
+          "coord": [32.0000, 34.8000],
+          "name": "3. Trong bụng cá / Bờ biển",
+          "note": "<strong>Lời cầu nguyện từ vực sâu:</strong> Suốt 3 ngày đêm trong bụng cá, Giô-na đã ăn năn và kêu cầu Chúa. Con cá sau đó đã mửa ông ra trên đất cạn, chuẩn bị cho cơ hội thứ hai của ông.",
+          "scripture": "Giô-na 2"
+        }
+      ],
+      "stats": {
+        "distance": "Từ cảng Giốp-pê tiến ra biển khơi",
+        "time": "Khoảng năm 760 TC (Thời vua Giê-rô-bô-am II)",
+        "terrain": "Sóng dữ đại dương và bóng tối trong lòng cá"
+      },
+      "difficulty": "Vật lộn với ý muốn cá nhân và sự sợ hãi trước một dân tộc thù địch.",
+      "divine_help": "Chúa điều khiển thiên nhiên và sinh vật để đưa tôi tớ Ngài trở lại đúng quỹ đạo."
+    },
+    {
+      "title": "Chặng 2: Thành Ni-ni-vê ăn năn và Bài học về lòng nhân từ",
+      "scripture": "Giô-na 3 - 4",
+      "points": [
+        {
+          "order": 4,
+          "coord": [36.3333, 43.1500],
+          "name": "4. Thành Ni-ni-vê / Nineveh",
+          "note": "<strong>Sứ điệp chấn động:</strong> <strong>Giô-na (Jonah)</strong> đi vào thành phố cực lớn (mất 3 ngày mới đi hết). Ông chỉ rao đúng một câu: 'Còn bốn mươi ngày nữa, Ni-ni-vê sẽ bị đổ xuống!'. Ngay lập tức, từ vua đến dân đều mặc bao gai, kiêng ăn và ăn năn.",
+          "scripture": "Giô-na 3"
+        },
+        {
+          "order": 5,
+          "coord": [36.3500, 43.2000],
+          "name": "5. Phía Đông thành Ni-ni-vê",
+          "note": "<strong>Áp lực nội tâm:</strong> Giô-na ra ngoài thành, ngồi chờ xem thành phố bị hủy diệt. Ông giận dỗi vì Chúa quá nhân từ với kẻ thù. Chúa cho một dây thầu dầu mọc lên che mát cho ông, rồi hôm sau lại cho sâu cắn chết cây để dạy ông bài học về lòng trắc ẩn.",
+          "scripture": "Giô-na 4:1-9"
+        },
+        {
+          "order": 6,
+          "coord": [36.3400, 43.1600],
+          "name": "6. Bài học về sự cứu rỗi",
+          "note": "<strong>Trái tim của Chúa:</strong> Chúa phán với Giô-na: 'Ngươi tiếc một cái cây... còn Ta, Ta không tiếc thành lớn Ni-ni-vê, trong đó có hơn 120.000 người không phân biệt được tay phải với tay trái sao?'. Sách kết thúc bằng một câu hỏi bỏ ngỏ đầy sâu sắc.",
+          "scripture": "Giô-na 4:10-11"
+        }
+      ],
+      "stats": {
+        "distance": "Hành trình dài bộ hành sang đế quốc A-si-ri",
+        "time": "Khoảng năm 760 TC",
+        "terrain": "Thành phố kiên cố với những bức tường khổng lồ"
+      },
+      "difficulty": "Vượt qua sự hận thù dân tộc để rao giảng cho kẻ thù.",
+      "divine_help": "Chúa dùng một cái cây và một con sâu để mở mắt cho vị tiên tri về tình yêu thương bao la của Ngài."
+    }
+  ],
+  "MI-CHÊ - 12 TIÊN TRI NHỎ": [
+    {
+      "title": "Chặng 1: Công lý cho kẻ nghèo và Lời hứa về Bết-lê-hem",
+      "scripture": "Mi-chê 1 - 7",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.6039, 34.8856],
+          "name": "1. Mô-rê-sết / Moresheth-gath",
+          "note": "<strong>Tiếng nói từ làng quê:</strong> <strong>Mi-chê (Micah)</strong> xuất thân từ vùng quê phía Tây Nam <strong>Giê-ru-sa-lem</strong>. Ông kịch liệt lên án những kẻ giàu có 'tham ruộng vườn và chiếm lấy, tham nhà cửa và đoạt đi'.",
+          "scripture": "Mi-chê 1 - 2"
+        },
+        {
+          "order": 2,
+          "coord": [31.7048, 35.2038],
+          "name": "2. Bết-lê-hem / Bethlehem",
+          "note": "<strong>Lời tiên tri về Đấng Cai trị:</strong> Một lời hứa rực rỡ xuất hiện giữa cảnh tăm tối: 'Còn ngươi, hỡi <strong>Bết-lê-hem Ép-ra-ta</strong>... từ nơi ngươi sẽ ra cho Ta một Đấng cai trị trên Y-sơ-ra-ên'. Đây chính là lời tiên báo về nơi Chúa Giê-xu giáng sinh.",
+          "scripture": "Mi-chê 5:2"
+        },
+        {
+          "order": 3,
+          "coord": [31.7781, 35.2361],
+          "name": "3. Trước tòa án của Chúa / Jerusalem",
+          "note": "<strong>Tiêu chuẩn vàng:</strong> Chúa đưa dân sự vào một cuộc 'đối chất' tại tòa án thiên thượng. Mi-chê tóm gọn điều Chúa đòi hỏi: 'Làm sự công bình, ưa sự nhân từ và bước đi cách khiêm nhường với Đức Chúa Trời ngươi'.",
+          "scripture": "Mi-chê 6:8"
+        }
+      ],
+      "stats": {
+        "distance": "Hành trình từ các làng quê nông nghiệp đến thủ đô",
+        "time": "Khoảng năm 735 TC - 700 TC (Cùng thời với tiên tri Ê-sai)",
+        "terrain": "Vùng đồi thấp (Shephelah) trù phú nhưng đầy rẫy bất công xã hội"
+      },
+      "difficulty": "Đứng lên bảo vệ những người thấp cổ bé họng trước các quan trưởng tham nhũng.",
+      "divine_help": "Chúa bày tỏ lòng nhân từ kỳ diệu: Ngài ném mọi tội lỗi của dân sự xuống đáy biển sâu."
+    }
+  ],
+  "NA-HUM - 12 TIÊN TRI NHỎ": [
+    {
+      "title": "Chặng 1: Bản án trên thành phố đổ máu",
+      "scripture": "Na-hum 1 - 3",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.7767, 35.2333],
+          "name": "1. Thủ đô Giê-ru-sa-lem",
+          "note": "<strong>Đức Chúa Trời kỵ tà:</strong> <strong>Na-hum (Nahum)</strong> bắt đầu bằng việc khẳng định Chúa là Đấng chậm giận nhưng quyền năng. Ông loan báo tin mừng cho dân Giu-đa: 'Kẻ độc ác sẽ không còn đi ngang qua ngươi nữa, nó bị diệt sạch rồi'.",
+          "scripture": "Na-hum 1"
+        },
+        {
+          "order": 2,
+          "coord": [36.3333, 43.1500],
+          "name": "2. Bờ sông Tigris / Ni-ni-vê",
+          "note": "<strong>Các cửa sông mở toang:</strong> Na-hum tiên tri chính xác: 'Các cửa sông mở ra, cung điện tan chảy'. Khi quân thù vây hãm, một trận lụt lớn của sông <strong>Tigris</strong> đã làm sụp vách thành, tạo cơ hội cho quân địch tràn vào như nước lũ.",
+          "scripture": "Na-hum 2:6"
+        },
+        {
+          "order": 3,
+          "coord": [36.3400, 43.1600],
+          "name": "3. Trong lòng Ni-ni-vê",
+          "note": "<strong>Sự hoang tàn vĩnh viễn:</strong> Vì tội ác tàn bạo, Ni-ni-vê bị biến thành nơi hoang vu. Na-hum kết thúc bằng câu hỏi: 'Có ai mà chẳng từng chịu sự độc ác của ngươi?'. Cả thế giới đều vỗ tay vui mừng khi thành phố này sụp đổ.",
+          "scripture": "Na-hum 3"
+        }
+      ],
+      "stats": {
+        "distance": "Lời tiên tri từ Giu-đa hướng thẳng về đế quốc A-si-ri",
+        "time": "Khoảng năm 663 TC - 612 TC",
+        "terrain": "Thành phố bên sông với hệ thống đập nước và tường thành kiên cố"
+      },
+      "difficulty": "Rao giảng về sự sụp đổ của một cường quốc đang ở đỉnh cao quyền lực.",
+      "divine_help": "Chúa dùng chính thiên nhiên (dòng sông) để thực thi công lý trên kẻ áp bức."
+    }
+  ],
+  "HA-BA-CÚC - 12 TIÊN TRI NHỎ": [
+    {
+      "title": "Chặng : Trên vọng canh chờ đợi câu trả lời",
+      "scripture": "Ha-ba-cúc 1 - 3",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.7767, 35.2333],
+          "name": "1. Đường phố Giê-ru-sa-lem",
+          "note": "<strong>Tiếng kêu cầu trong bất công:</strong> <strong>Ha-ba-cúc (Habakkuk)</strong> nhìn thấy sự bạo ngược và gian ác ngay trong lòng dân tộc mình. Ông kêu cầu: 'Hỡi <strong>Đức Giê-hô-va</strong>, tôi kêu van mà Ngài không nghe cho đến bao giờ?'.",
+          "scripture": "Ha-ba-cúc 1:1-4"
+        },
+        {
+          "order": 2,
+          "coord": [31.7781, 35.2361],
+          "name": "2. Trên Vọng canh (Watchtower)",
+          "note": "<strong>Áp lực từ phương Bắc:</strong> Chúa trả lời rằng Ngài đang dấy quân Canh-đê (Ba-by-lôn) lên. Ha-ba-cúc leo lên vọng canh, đứng chờ đợi để xem Chúa sẽ trả lời thắc mắc của mình thế nào. Chúa phán: 'Người công chính sẽ sống bởi đức tin'.",
+          "scripture": "Ha-ba-cúc 2:1-4"
+        },
+        {
+          "order": 3,
+          "coord": [31.7800, 35.2400],
+          "name": "3. Đỉnh núi đức tin",
+          "note": "<strong>Bài ca đắc thắng:</strong> Dù quân thù bủa vây, dù cây vả không nảy lộc, vườn nho không trái, Ha-ba-cúc vẫn kết luận đầy quyền năng: 'Tôi sẽ vui mừng trong Đức Giê-hô-va... Ngài làm cho chân tôi giống như chân con hươu, cho tôi đi trên các nơi cao'.",
+          "scripture": "Ha-ba-cúc 3:17-19"
+        }
+      ],
+      "stats": {
+        "distance": "Cuộc hành trình tâm linh từ sự nghi ngờ đến niềm tin tuyệt đối",
+        "time": "Khoảng năm 605 TC (Trước khi Ba-by-lôn xâm lược)",
+        "terrain": "Từ đường phố đầy bạo động đến tháp canh tĩnh lặng"
+      },
+      "difficulty": "Phải đối diện với nghịch lý: Tại sao Chúa dùng kẻ ác để trừng phạt kẻ ít ác hơn?",
+      "divine_help": "Chúa ban cho ông một khải tượng rõ ràng và sức mạnh để 'chạy' trên những nghịch cảnh của cuộc đời."
+    }
+  ],
+  "SÔ-PHÔ-NI - 12 TIÊN TRI NHỎ": [
+    {
+      "title": "Chặng : Sự phán xét toàn cầu và Bài ca hân hoan của Si-ôn",
+      "scripture": "Sô-phô-ni 1 - 3",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.7767, 35.2333],
+          "name": "1. Các cổng thành Giê-ru-sa-lem",
+          "note": "<strong>Tiếng kêu la từ cổng cá:</strong> <strong>Sô-phô-ni (Zephaniah)</strong> tuyên bố sự phán xét trên những kẻ thờ thần tượng và những kẻ giàu sang tự mãn. Chúa nói Ngài sẽ 'cầm đèn soi khắp Giê-ru-sa-lem' để lùng sục mọi ngóc ngách tội lỗi.",
+          "scripture": "Sô-phô-ni 1"
+        },
+        {
+          "order": 2,
+          "coord": [31.7000, 34.5000],
+          "name": "2. Các dân tộc bốn phương (Áp lực bao vây)",
+          "note": "<strong>Sự quét sạch các quốc gia:</strong> Không chỉ Giu-đa, Chúa tuyên bố phán xét từ Phi-li-tin (Tây) đến Mô-áp (Đông), từ Ê-thi-ô-bi (Nam) đến A-si-ri (Bắc). Cả thế giới đều nằm trong tầm ngắm của công lý Thiên Thượng.",
+          "scripture": "Sô-phô-ni 2"
+        },
+        {
+          "order": 3,
+          "coord": [31.7781, 35.2361],
+          "name": "3. Giê-ru-sa-lem / Bài ca tình yêu",
+          "note": "<strong>Chúa hát mừng dân Ngài:</strong> Một hình ảnh tuyệt đẹp xuất hiện ở cuối sách: 'Đức Giê-hô-va... sẽ vui mừng vì cớ ngươi, sẽ lấy lòng yêu thương mà yên nghỉ, và sẽ vì cớ ngươi mà hát mừng vinh hiển'. Chúa hứa sẽ đem những người bị tản lạc trở về.",
+          "scripture": "Sô-phô-ni 3:14-17"
+        }
+      ],
+      "stats": {
+        "distance": "Tầm nhìn bao quát từ nội đô thành thánh ra khắp bốn phương thiên hạ",
+        "time": "Khoảng năm 630 TC (Trước cuộc cải chánh của vua Giô-si-a)",
+        "terrain": "Kinh đô đang trong quá trình thanh tẩy tâm linh"
+      },
+      "difficulty": "Phải đối diện với sự thờ ơ và thói quen tội lỗi của giới quý tộc Giê-ru-sa-lem.",
+      "divine_help": "Chúa bày tỏ Ngài là Đấng ở giữa dân Ngài như một chiến sĩ quyền năng để giải cứu."
+    }
+  ],
+  "HA-GÊ - 12 TIÊN TRI NHỎ": [
+    {
+      "title": "Chặng 1: Ưu tiên cho Nhà Chúa và Vinh hiển hậu lai",
+      "scripture": "Ha-gê 1 - 2",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.7767, 35.2333],
+          "name": "1. Những ngôi nhà 'lợp ván' ở Giê-ru-sa-lem",
+          "note": "<strong>Lời quở trách thực tế:</strong> Chúa dùng <strong>Ha-gê (Haggai)</strong> để hỏi dân sự: 'Có phải là lúc các ngươi ở trong nhà lợp ván, đang khi Nhà này (Đền Thờ) còn hoang vu sao?'. Ông chỉ ra rằng vì họ bỏ quên Chúa nên làm lụng nhiều mà hưởng chẳng bao nhiêu.",
+          "scripture": "Ha-gê 1:1-11"
+        },
+        {
+          "order": 2,
+          "coord": [31.7781, 35.2361],
+          "name": "2. Công trường xây dựng Đền Thờ",
+          "note": "<strong>Sức mạnh của sự bắt tay làm việc:</strong> Dưới lời thúc giục của Ha-gê, Quan tổng đốc <strong>Xô-rô-ba-bên</strong> và Thầy tế lễ thượng phẩm <strong>Giê-sua</strong> cùng dân sự bắt tay vào việc. Chúa khích lệ họ: 'Hãy vững lòng... vì Ta ở cùng các ngươi'.",
+          "scripture": "Ha-gê 1:12-15; 2:1-4"
+        },
+        {
+          "order": 3,
+          "coord": [31.7790, 35.2370],
+          "name": "3. Nền Đền Thờ Mới",
+          "note": "<strong>Vinh hiển hậu lai:</strong> Chúa hứa rằng dù Đền Thờ này trông có vẻ nhỏ bé hơn Đền Thờ Sa-lô-môn cũ, nhưng 'vinh hiển hậu lai của Nhà này sẽ lớn hơn vinh hiển tiền lai'. Chúa sẽ làm rúng động các nước để mang báu vật đến dâng cho Ngài.",
+          "scripture": "Ha-gê 2:5-9"
+        }
+      ],
+      "stats": {
+        "distance": "Cuộc hành trình từ sự trì trệ đến sự sốt sắng phục vụ",
+        "time": "Năm 520 TC (Năm thứ hai đời vua Đa-ri-út)",
+        "terrain": "Thành phố đang được tái thiết sau 70 năm hoang phế"
+      },
+      "difficulty": "Vượt qua sự nản lòng, nghèo khó và sự ưu tiên sai lệch của bản thân.",
+      "divine_help": "Chúa khẳng định: 'Bạc là của Ta, vàng là của Ta' và hứa ban sự bình an tại nơi này."
+    }
+  ],
+  "XA-CHA-RI - 12 TIÊN TRI NHỎ": [
+    {
+      "title": "Chặng 1: Những khải tượng ban đêm và Sự phục hưng linh hồn",
+      "scripture": "Xa-cha-ri 1 - 8",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.7767, 35.2333],
+          "name": "1. Giữa những cây sim / Thung lũng",
+          "note": "<strong>Bốn cỗ xe tuần du:</strong> <strong>Xa-cha-ri (Zechariah)</strong> thấy những người cưỡi ngựa đi khắp thế gian. Chúa khẳng định: 'Ta rất ghen tương vì cớ <strong>Giê-ru-sa-lem</strong>'. Ngài hứa sẽ thương xót và xây lại thành thánh bất chấp mọi áp lực quân thù.",
+          "scripture": "Xa-cha-ri 1"
+        },
+        {
+          "order": 2,
+          "coord": [31.7781, 35.2361],
+          "name": "2. Trước mặt Thiên sứ / Đền Thờ",
+          "note": "<strong>Áp lực từ kẻ kiện cáo:</strong> Xa-cha-ri thấy Thầy tế lễ <strong>Giê-sua</strong> mặc áo bẩn thỉu, bên cạnh là <strong>Sa-tan</strong> đang kiện cáo. Chúa đã truyền thay áo sạch cho ông và phán: 'Chẳng phải bởi quyền thế, cũng chẳng phải bởi năng lực, bèn là bởi Thần Ta'.",
+          "scripture": "Xa-cha-ri 3, 4"
+        },
+        {
+          "order": 3,
+          "coord": [31.7795, 35.2380],
+          "name": "3. Những con đường thành Giê-ru-sa-lem",
+          "note": "<strong>Thành phố thanh bình:</strong> Chúa hứa sẽ biến Giê-ru-sa-lem thành 'Thành Chân Thật'. Hình ảnh các cụ già ngồi thong dong và trẻ em vui chơi trên đường phố là minh chứng cho sự bình an tuyệt đối mà Chúa ban tặng.",
+          "scripture": "Xa-cha-ri 8"
+        }
+      ],
+      "stats": {
+        "distance": "Hành trình xuyên qua 8 khải tượng ban đêm kỳ vĩ",
+        "time": "Năm 520 TC - 518 TC",
+        "terrain": "Thành phố đang hồi sinh từ tro tàn lưu đày"
+      },
+      "difficulty": "Chiến đấu với sự nản lòng và những lời kiện cáo vô hình của kẻ thù linh hồn.",
+      "divine_help": "Thần của Chúa là nguồn sức mạnh duy nhất để hoàn thành công việc vĩ đại."
+    },
+    {
+      "title": "Chặng 2: Vị Vua khiêm nhường và Ngày đắc thắng cuối cùng",
+      "scripture": "Xa-cha-ri 9 - 14",
+      "points": [
+        {
+          "order": 4,
+          "coord": [31.7767, 35.2333],
+          "name": "4. Cổng thành Giê-ru-sa-lem",
+          "note": "<strong>Vị Vua cưỡi lừa:</strong> <strong>Xa-cha-ri (Zechariah)</strong> tiên tri về một hình ảnh lạ lùng: Vị Vua của muôn dân không cưỡi ngựa chiến mà 'cưỡi lừa, là con lừa con'. Ngài mang đến sự bình an và cứu rỗi cho mọi dân tộc.",
+          "scripture": "Xa-cha-ri 9:9-10"
+        },
+        {
+          "order": 5,
+          "coord": [31.7781, 35.2361],
+          "name": "5. Đền Thờ / Nơi đúc bạc",
+          "note": "<strong>Cái giá của sự phản bội:</strong> Một lời tiên tri đau đớn về việc Đấng Chăn Chiên bị phản bội với giá '30 miếng bạc' và số tiền đó bị ném vào nhà của <strong>Đức Giê-hô-va</strong> cho thợ đúc bạc. Điều này ứng nghiệm chính xác với Giu-đa Ích-ca-ri-ốt.",
+          "scripture": "Xa-cha-ri 11:12-13"
+        },
+        {
+          "order": 6,
+          "coord": [31.7744, 35.2447],
+          "name": "6. Núi Ô-li-ve / Mount of Olives",
+          "note": "<strong>Ngày vinh hiển sau cùng:</strong> Trong ngày sau rốt, chân Chúa sẽ đứng trên núi Ô-li-ve. Núi sẽ bị chẻ làm đôi, và một dòng nước hằng sống sẽ chảy ra từ <strong>Giê-ru-sa-lem</strong>. Lúc đó, 'Đức Giê-hô-va sẽ làm Vua trên cả trái đất'.",
+          "scripture": "Xa-cha-ri 14:1-9"
+        }
+      ],
+      "stats": {
+        "distance": "Tầm nhìn từ sự khiêm nhường đến vinh quang thiên thượng",
+        "time": "Lời tiên tri hướng đến thời Tân Ước và Ngày sau rốt",
+        "terrain": "Từ đường phố Giê-ru-sa-lem đến đỉnh núi Ô-li-ve hùng vĩ"
+      },
+      "difficulty": "Dân sự phải hiểu rằng chiến thắng thực sự không đến từ vũ khí, mà từ sự khiêm nhường và cứu chuộc.",
+      "divine_help": "Chúa mở ra một nguồn suối để tẩy sạch tội lỗi và sự ô uế cho nhà Đa-vít."
+    }
+  ],
+  "MA-LA-CHI - 12 TIÊN TRI NHỎ": [
+    {
+      "title": "Chặng 1: Lời kêu gọi chân thành và Mặt trời công chính",
+      "scripture": "Ma-la-chi 1 - 4",
+      "points": [
+        {
+          "order": 1,
+          "coord": [31.7767, 35.2333],
+          "name": "1. Bàn thờ trong Đền Thờ",
+          "note": "<strong>Của lễ không thanh sạch:</strong> Chúa trách dân sự và các thầy tế lễ vì dâng những con vật mù, què, bệnh tật lên bàn thờ. <strong>Ma-la-chi (Malachi)</strong> đặt câu hỏi: 'Các ngươi dâng vật đó cho quan tổng đốc mình, liệu người có vui lòng không?'. Chúa kêu gọi sự tôn kính thật sự.",
+          "scripture": "Ma-la-chi 1"
+        },
+        {
+          "order": 2,
+          "coord": [31.7781, 35.2361],
+          "name": "2. Cửa sổ trên trời (Kho vựa)",
+          "note": "<strong>Thử xem Ta có mở cửa sổ trời không:</strong> Một lời hứa nổi tiếng về sự dâng hiến. Chúa thách thức dân sự hãy đem 1/10 vào kho để nhà Ngài có lương thực, và Ngài sẽ đổ phước xuống đến nỗi không chỗ chứa. Đây là cách để thắng hơn <strong>áp lực thiếu thốn</strong>.",
+          "scripture": "Ma-la-chi 3:8-12"
+        },
+        {
+          "order": 3,
+          "coord": [31.7744, 35.2447],
+          "name": "3. Chân trời Giê-ru-sa-lem",
+          "note": "<strong>Mặt trời công chính:</strong> Sách kết thúc với lời hứa về sự xuất hiện của 'Mặt trời công chính', sẽ mọc lên với cánh mang theo sự chữa lành. Trước đó, Chúa sẽ sai tiên tri <strong>Ê-li</strong> (tượng trưng cho Giăng Báp-tít) đến để dọn đường.",
+          "scripture": "Ma-la-chi 4"
+        }
+      ],
+      "stats": {
+        "distance": "Lời nhắn nhủ cuối cùng tại trung tâm thờ phượng Giu-đa",
+        "time": "Khoảng năm 430 TC (Thời Nê-hê-mi)",
+        "terrain": "Thành phố đã ổn định nhưng lòng người đang nguội lạnh"
+      },
+      "difficulty": "Đánh thức một thế hệ đang sống trong sự hình thức và thiếu lòng tin kính.",
+      "divine_help": "Chúa khẳng định tình yêu không đổi: 'Ta là Đức Giê-hô-va, Ta không hề thay đổi'."
+    }
+  ],
   "Thời Kỳ Các Quan Xét": [
     {
       "title": "Giô-suê: Chinh phục Đất Hứa",
