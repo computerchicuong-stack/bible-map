@@ -155,7 +155,7 @@
                 const response = await fetch('data.json');
                 bibleData = await response.json();
                 const bookSelect = document.getElementById('bookSelect');
-                bookSelect.innerHTML = '<option value="">-- Chọn thời kỳ --</option>';
+                bookSelect.innerHTML = '<option value="">-- Chọn Sách --</option>';
                 for (let book in bibleData) {
                     bookSelect.add(new Option(book.replace(/_/g, ' ').toUpperCase(), book));
                 }
